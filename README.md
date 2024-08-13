@@ -1,0 +1,2 @@
+# DSWiki
+ Dark Souls Wiki
