@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  &:after {
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+
+  &:before {
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Dagger",
+  "image": "/images/items/weapons/dagger.png",
+  "description": "This standard small dagger has only a modest attack but can be jabbed in rapid succession, and is effective in critical hits such as after a parry or when stabbing in the back. With both slash and thrust attacks this dagger is useful in various situations.",
+  "requirements": {
+    "str": "5",
+    "dex": "8",
+    "int": "0",
+    "fai": "0"
+  },
+  "damage": "56/0/0/0",
+  "attackType": "Slash / Thrust",
+  "enchantable": "yes",
+  "special": "no"
+}
