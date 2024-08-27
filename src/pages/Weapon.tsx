@@ -1,42 +1,33 @@
-import { useEffect, useState } from "react";
-import { json, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import "../css/weaponPage.scss";
+import { weaponsData } from "../types";
+import { useState, useEffect } from "react";
 
-interface Jsondata {
-  title: string;
-  image: string;
-  description: string;
-  requirements: {
-    [key: string]: string;
-  };
-  attackType: string;
-  enchantable: string;
-  special: string;
+interface types {
+  data: weaponsData[];
 }
 
-const WeaponPage = () => {
-  const [data, setData] = useState<Jsondata | null>(null);
+const WeaponPage = ({ data }: types) => {
   const { ID } = useParams();
+  const [weaponData, setWeaponData] = useState<weaponsData | undefined>(
+    undefined
+  );
 
   useEffect(() => {
-    async function getData() {
-      const data = await import(`../contents/items/weapons/${ID}.json`);
-      setData(data);
-    }
-
-    getData();
-  }, [ID]);
+    const weapon = data.find((weapon) => weapon.slug === ID);
+    setWeaponData(weapon);
+  }, [ID, data]);
 
   return (
     <div>
-      {data !== null && (
+      {weaponData !== undefined && (
         <div className="weaponPage">
           <div className="weaponTitle">
-            <p>{data.title}</p>
+            <p>{weaponData.name}</p>
           </div>
           <div className="itemCard">
             <div className="itemIcon">
-              <img src={data.image}></img>
+              <img src={`/images/items/weapons/${weaponData.image}`}></img>
             </div>
             <div className="itemInfo">
               <div className="itemRequirements">
@@ -45,9 +36,9 @@ const WeaponPage = () => {
                 <img src="/images/ui_icons/stat_intelligence.png"></img>
                 <img src="/images/ui_icons/stat_faith.png"></img>
                 <div className="itemReqStats">
-                  {Object.keys(data.requirements).map((key, index) => {
+                  {Object.keys(weaponData.req).map((key, index) => {
                     const requirement =
-                      data.requirements[key as keyof typeof data.requirements];
+                      weaponData.req[key as keyof typeof weaponData.req];
 
                     return <p key={index}>{requirement}</p>;
                   })}
@@ -56,7 +47,9 @@ const WeaponPage = () => {
             </div>
           </div>
           <div className="itemDesc">
-            <p>{data.description}</p>
+            <p>{weaponData.name}</p>
+            <p>{weaponData.description}</p>
+            <p>{weaponData.obtained}</p>
           </div>
         </div>
       )}
