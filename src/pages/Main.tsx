@@ -1,7 +1,7 @@
 const Main = () => {
   return (
     <div>
-      <p>Frontpage</p>
+      <img src="/images/front/giantdad.jpg"></img>
     </div>
   );
 };

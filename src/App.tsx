@@ -8,23 +8,9 @@ import Spells from "./pages/Spells";
 import World from "./pages/World";
 import Information from "./pages/Information";
 import Character from "./pages/Character";
-import WeaponPage from "./pages/Weapon";
-import { useEffect, useState } from "react";
-import { weaponsData } from "./types";
+import WeaponPage from "./pages/WeaponPage";
 
 function App() {
-  const [weapons, setWeapons] = useState<weaponsData[]>([]);
-
-  useEffect(() => {
-    async function getData() {
-      const data = await import(`./contents/DarkSoulsWeapons.json`);
-
-      setWeapons(data.default as weaponsData[]);
-    }
-
-    getData();
-  });
-
   return (
     <Router>
       <Header />
@@ -35,10 +21,7 @@ function App() {
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
         <Route path="/character" element={<Character />} />
-        <Route
-          path="/equipment/:ID"
-          element={weapons !== undefined && <WeaponPage data={weapons} />}
-        />
+        <Route path="/weapons/:weaponName" element={<WeaponPage />} />
       </Routes>
       <Footer />
     </Router>
