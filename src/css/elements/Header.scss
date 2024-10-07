@@ -3,26 +3,70 @@ header {
   height: 100px;
   display: flex;
   align-items: center;
-  .HeaderIcon img {
-    width: 70px;
-    padding: 10px;
+  justify-content: space-between; /* Align items properly */
+  position: relative; /* Needed for absolute positioning of the dropdown menu */
+  color: white; /* Text color */
+}
+
+.HeaderIcon img {
+  width: 70px;
+  padding: 10px;
+}
+
+.HeaderTexts {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.HeaderName {
+  padding: 10px;
+  font-size: 24px; /* Adjust font size */
+  color: black;
+}
+
+.HeaderLinks {
+  padding: 10px;
+  display: flex; /* Default display for large screens */
+}
+
+.HeaderLinks a {
+  padding: 10px;
+  color: rgb(0, 0, 0); /* Link color */
+  text-decoration: none;
+}
+
+.HeaderLinks a:hover {
+  text-decoration: underline;
+}
+
+/* Hamburger Menu */
+.hamburger {
+  display: none; /* Hide by default */
+  font-size: 30px;
+  cursor: pointer;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .HeaderLinks {
+    display: none; /* Hide links by default on mobile */
+    flex-direction: column; /* Stack links vertically */
+    position: absolute; /* Positioning for dropdown */
+    top: 100px; /* Position below the header */
+    left: 0;
+    width: 100%; /* Full width */
+    background-color: #d1d1d1; /* Match header background */
   }
-  .HeaderTexts {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: start;
-    justify-content: space-between;
-    .HeaderName {
-      padding: 10px;
-      font-size: 30px;
-    }
-    .HeaderLinks {
-      padding: 10px;
-      a {
-        padding: 10px;
-      }
-    }
+
+  .HeaderLinks.open {
+    display: flex; /* Show links when the menu is open */
+  }
+
+  .hamburger {
+    color: #333;
+    display: block; /* Show hamburger icon on small screens */
   }
 }

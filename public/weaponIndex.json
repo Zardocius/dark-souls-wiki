@@ -1,0 +1,900 @@
+[
+    {
+        "category": "Fist",
+        "slug": "fist",
+        "weapons": [
+            {
+                "Name": "Caestus",
+                "slug": "caestus"
+            },
+            {
+                "Name": "Claw",
+                "slug": "claw"
+            },
+            {
+                "Name": "Dark Hand",
+                "slug": "dark-hand"
+            },
+            {
+                "Name": "Dragon Bone Fist",
+                "slug": "dragon-bone-fist"
+            }
+        ]
+    },
+    {
+        "category": "Hammers",
+        "slug": "hammers",
+        "weapons": [
+            {
+                "Name": "Blacksmith Giant Hammer",
+                "slug": "blacksmith-giant-hammer"
+            },
+            {
+                "Name": "Blacksmith Hammer",
+                "slug": "blacksmith-hammer"
+            },
+            {
+                "Name": "Hammer of Vamos",
+                "slug": "hammer-of-vamos"
+            },
+            {
+                "Name": "Club",
+                "slug": "club"
+            },
+            {
+                "Name": "Mace",
+                "slug": "mace"
+            },
+            {
+                "Name": "Morning Star",
+                "slug": "morning-star"
+            },
+            {
+                "Name": "Pickaxe",
+                "slug": "pickaxe"
+            },
+            {
+                "Name": "Reinforced Club",
+                "slug": "reinforced-club"
+            },
+            {
+                "Name": "Warpick",
+                "slug": "warpick"
+            }
+        ]
+    },
+    {
+        "category": "Great Hammers",
+        "slug": "great-hammers",
+        "weapons": [
+            {
+                "Name": "Demon's Great Hammer",
+                "slug": "demons-great-hammer"
+            },
+            {
+                "Name": "Dragon Tooth",
+                "slug": "dragon-tooth"
+            },
+            {
+                "Name": "Grant",
+                "slug": "grant"
+            },
+            {
+                "Name": "Great Club",
+                "slug": "great-club"
+            },
+            {
+                "Name": "Large Club",
+                "slug": "large-club"
+            },
+            {
+                "Name": "Smough's Hammer",
+                "slug": "smoughs-hammer"
+            }
+        ]
+    },
+    {
+        "category": "Axes",
+        "slug": "axes",
+        "weapons": [
+            {
+                "Name": "Battle Axe",
+                "slug": "battle-axe"
+            },
+            {
+                "Name": "Butcher Knife",
+                "slug": "butcher-knife"
+            },
+            {
+                "Name": "Crescent Axe",
+                "slug": "crescent-axe"
+            },
+            {
+                "Name": "Gargoyle Tail Axe",
+                "slug": "gargoyle-tail-axe"
+            },
+            {
+                "Name": "Golem Axe",
+                "slug": "golem-axe"
+            },
+            {
+                "Name": "Hand Axe",
+                "slug": "hand-axe"
+            }
+        ]
+    },
+    {
+        "category": "Greataxes",
+        "slug": "greataxes",
+        "weapons": [
+            {
+                "Name": "Black Knight Greataxe",
+                "slug": "black-knight-greataxe"
+            },
+            {
+                "Name": "Demon's Greataxe",
+                "slug": "demons-greataxe"
+            },
+            {
+                "Name": "Dragon King Greataxe",
+                "slug": "dragon-king-greataxe"
+            },
+            {
+                "Name": "Greataxe",
+                "slug": "greataxe"
+            },
+            {
+                "Name": "Stone Greataxe",
+                "slug": "stone-greataxe"
+            }
+        ]
+    },
+    {
+        "category": "Daggers",
+        "slug": "daggers",
+        "weapons": [
+            {
+                "Name": "Bandit's Knife",
+                "slug": "bandits-knife"
+            },
+            {
+                "Name": "Dagger",
+                "slug": "dagger"
+            },
+            {
+                "Name": "Dark Silver Tracer",
+                "slug": "dark-silver-tracer"
+            },
+            {
+                "Name": "Ghost Blade",
+                "slug": "ghost-blade"
+            },
+            {
+                "Name": "Parrying Dagger",
+                "slug": "parrying-dagger"
+            },
+            {
+                "Name": "Priscilla's Dagger",
+                "slug": "priscillas-dagger"
+            }
+        ]
+    },
+    {
+        "category": "Thrusting Swords",
+        "slug": "thrusting-swords",
+        "weapons": [
+            {
+                "Name": "Estoc",
+                "slug": "estoc"
+            },
+            {
+                "Name": "Mail Breaker",
+                "slug": "mail-breaker"
+            },
+            {
+                "Name": "Rapier",
+                "slug": "rapier"
+            },
+            {
+                "Name": "Ricard's Rapier",
+                "slug": "ricards-rapier"
+            },
+            {
+                "Name": "Velka's Rapier",
+                "slug": "velkas-rapier"
+            }
+        ]
+    },
+    {
+        "category": "Straight Swords",
+        "slug": "straight-swords",
+        "weapons": [
+            {
+                "Name": "Astora's Straight Sword",
+                "slug": "astoras-straight-sword"
+            },
+            {
+                "Name": "Balder Side Sword",
+                "slug": "balder-side-sword"
+            },
+            {
+                "Name": "Barbed Straight Sword",
+                "slug": "barbed-straight-sword"
+            },
+            {
+                "Name": "Broadsword",
+                "slug": "broadsword"
+            },
+            {
+                "Name": "Broken Straight Sword",
+                "slug": "broken-straight-sword"
+            },
+            {
+                "Name": "Crystal Straight Sword",
+                "slug": "crystal-straight-sword"
+            },
+            {
+                "Name": "Dark Sword",
+                "slug": "dark-sword"
+            },
+            {
+                "Name": "Drake Sword",
+                "slug": "drake-sword"
+            },
+            {
+                "Name": "Longsword",
+                "slug": "longsword"
+            },
+            {
+                "Name": "Shortsword",
+                "slug": "shortsword"
+            },
+            {
+                "Name": "Silver Knight Straight Sword",
+                "slug": "silv-knight-str-sword"
+            },
+            {
+                "Name": "Straight Sword Hilt",
+                "slug": "straight-sword-hilt"
+            },
+            {
+                "Name": "Sunlight Straight Sword",
+                "slug": "sunlight-straight-sword"
+            }
+        ]
+    },
+    {
+        "category": "Greatswords",
+        "slug": "greatswords",
+        "weapons": [
+            {
+                "Name": "Abyss Greatsword",
+                "slug": "abyss-greatsword"
+            },
+            {
+                "Name": "Bastard Sword",
+                "slug": "bastard-sword"
+            },
+            {
+                "Name": "Black Knight Sword",
+                "slug": "black-knight-sword"
+            },
+            {
+                "Name": "Claymore",
+                "slug": "claymore"
+            },
+            {
+                "Name": "Crystal Greatsword",
+                "slug": "crystal-greatsword"
+            },
+            {
+                "Name": "Flamberge",
+                "slug": "flamberge"
+            },
+            {
+                "Name": "Great Lord Greatsword",
+                "slug": "great-lord-greatsword"
+            },
+            {
+                "Name": "Greatsword of Artorias",
+                "slug": "greatsword-of-artorias"
+            },
+            {
+                "Name": "Greatsword of Artorias (Cursed)",
+                "slug": "greatsword-of-artorias-(cursed)"
+            },
+            {
+                "Name": "Man Serpent Greatsword",
+                "slug": "man-serpent-greatsword"
+            },
+            {
+                "Name": "Moonlight Greatsword",
+                "slug": "moonlight-greatsword"
+            },
+            {
+                "Name": "Obsidian Greatsword",
+                "slug": "obsidian-greatsword"
+            },
+            {
+                "Name": "Stone Greatsword",
+                "slug": "stone-greatsword"
+            }
+        ]
+    },
+    {
+        "category": "Ultra Greatswords",
+        "slug": "ultra-greatswords",
+        "weapons": [
+            {
+                "Name": "Black Knight Greatsword",
+                "slug": "black-knight-greatsword"
+            },
+            {
+                "Name": "Demon Great Machete",
+                "slug": "demon-great-machete"
+            },
+            {
+                "Name": "Dragon Greatsword",
+                "slug": "dragon-greatsword"
+            },
+            {
+                "Name": "Greatsword",
+                "slug": "greatsword"
+            },
+            {
+                "Name": "Zweihander",
+                "slug": "zweihander"
+            }
+        ]
+    },
+    {
+        "category": "Katanas",
+        "slug": "katanas",
+        "weapons": [
+            {
+                "Name": "Chaos Blade",
+                "slug": "chaos-blade"
+            },
+            {
+                "Name": "Iaito",
+                "slug": "iaito"
+            },
+            {
+                "Name": "Uchigatana",
+                "slug": "uchigatana"
+            },
+            {
+                "Name": "Washing Pole",
+                "slug": "washing-pole"
+            }
+        ]
+    },
+    {
+        "category": "Curved Swords",
+        "slug": "curved-swords",
+        "weapons": [
+            {
+                "Name": "Falchion",
+                "slug": "falchion"
+            },
+            {
+                "Name": "Gold Tracer",
+                "slug": "gold-tracer"
+            },
+            {
+                "Name": "Jagged Ghost Blade",
+                "slug": "jagged-ghost-blade"
+            },
+            {
+                "Name": "Painting Guardian Sword",
+                "slug": "painting-guardian-sword"
+            },
+            {
+                "Name": "Quelaag's Fury Sword",
+                "slug": "quelaags-fury-sword"
+            },
+            {
+                "Name": "Scimitar",
+                "slug": "scimitar"
+            },
+            {
+                "Name": "Shotel",
+                "slug": "shotel"
+            }
+        ]
+    },
+    {
+        "category": "Curved Greatswords",
+        "slug": "curved-greatswords",
+        "weapons": [
+            {
+                "Name": "Gravelord Sword",
+                "slug": "gravelord-sword"
+            },
+            {
+                "Name": "Murakumo",
+                "slug": "murakumo"
+            },
+            {
+                "Name": "Server",
+                "slug": "server"
+            }
+        ]
+    },
+    {
+        "category": "Spears",
+        "slug": "spears",
+        "weapons": [
+            {
+                "Name": "Channeler's Trident",
+                "slug": "channelers-trident"
+            },
+            {
+                "Name": "Demon's Spear",
+                "slug": "demons-spear"
+            },
+            {
+                "Name": "Dragonslayer Spear",
+                "slug": "dragonslayer-spear"
+            },
+            {
+                "Name": "Four-Pronged Plow",
+                "slug": "four-pronged-plow"
+            },
+            {
+                "Name": "Moonlight Butterfly Horn",
+                "slug": "moonlight-butterfly-horn"
+            },
+            {
+                "Name": "Partizan",
+                "slug": "partizan"
+            },
+            {
+                "Name": "Pike",
+                "slug": "pike"
+            },
+            {
+                "Name": "Silver Knight Spear",
+                "slug": "silver-knight-spear"
+            },
+            {
+                "Name": "Spear",
+                "slug": "spear"
+            },
+            {
+                "Name": "Winged Spear",
+                "slug": "winged-spear"
+            }
+        ]
+    },
+    {
+        "category": "Halberds",
+        "slug": "halberds",
+        "weapons": [
+            {
+                "Name": "Black Knight Halberd",
+                "slug": "black-knight-halberd"
+            },
+            {
+                "Name": "Gargoyle's Halberd",
+                "slug": "gargoyles-halberd"
+            },
+            {
+                "Name": "Giant's Halberd",
+                "slug": "giants-halberd"
+            },
+            {
+                "Name": "Great Scythe",
+                "slug": "great-scythe"
+            },
+            {
+                "Name": "Halberd",
+                "slug": "halberd"
+            },
+            {
+                "Name": "Lifehunt Scythe",
+                "slug": "lifehunt-scythe"
+            },
+            {
+                "Name": "Lucerne",
+                "slug": "lucerne"
+            },
+            {
+                "Name": "Scythe",
+                "slug": "scythe"
+            },
+            {
+                "Name": "Titanite Catch Pole",
+                "slug": "titanite-catch-pole"
+            }
+        ]
+    },
+    {
+        "category": "Bows",
+        "slug": "bows",
+        "weapons": [
+            {
+                "Name": "Black Bow of Pharis",
+                "slug": "black-bow-of-pharis"
+            },
+            {
+                "Name": "Composite Bow",
+                "slug": "composite-bow"
+            },
+            {
+                "Name": "Darkmoon Bow",
+                "slug": "darkmoon-bow"
+            },
+            {
+                "Name": "Long Bow",
+                "slug": "long-bow"
+            },
+            {
+                "Name": "Short Bow",
+                "slug": "short-bow"
+            }
+        ]
+    },
+    {
+        "category": "Crossbows",
+        "slug": "crossbows",
+        "weapons": [
+            {
+                "Name": "Avelyn",
+                "slug": "avelyn"
+            },
+            {
+                "Name": "Heavy Crossbow",
+                "slug": "heavy-crossbow"
+            },
+            {
+                "Name": "Light Crossbow",
+                "slug": "light-crossbow"
+            },
+            {
+                "Name": "Sniper Crossbow",
+                "slug": "sniper-crossbow"
+            }
+        ]
+    },
+    {
+        "category": "Greatbows",
+        "slug": "greatbows",
+        "weapons": [
+            {
+                "Name": "Dragonslayer Greatbow",
+                "slug": "dragonslayer-greatbow"
+            },
+            {
+                "Name": "Gough's Greatbow",
+                "slug": "goughs-greatbow"
+            }
+        ]
+    },
+    {
+        "category": "Whips",
+        "slug": "whips",
+        "weapons": [
+            {
+                "Name": "Guardian Tail",
+                "slug": "guardian-tail"
+            },
+            {
+                "Name": "Notched Whip",
+                "slug": "notched-whip"
+            },
+            {
+                "Name": "Whip",
+                "slug": "whip"
+            }
+        ]
+    },
+    {
+        "category": "Catalysts",
+        "slug": "catalysts",
+        "weapons": [
+            {
+                "Name": "Beatrice's Catalyst",
+                "slug": "beatrices-catalyst"
+            },
+            {
+                "Name": "Demon's Catalyst",
+                "slug": "demons-catalyst"
+            },
+            {
+                "Name": "Izalith Catalyst",
+                "slug": "izalith-catalyst"
+            },
+            {
+                "Name": "Logan's Catalyst",
+                "slug": "logans-catalyst"
+            },
+            {
+                "Name": "Manus Catalyst",
+                "slug": "manus-catalyst"
+            },
+            {
+                "Name": "Oolacile Catalyst",
+                "slug": "oolacile-catalyst"
+            },
+            {
+                "Name": "Oolacile Ivory Catalyst",
+                "slug": "oolacile-ivory-catalyst"
+            },
+            {
+                "Name": "Sorcerer's Catalyst",
+                "slug": "sorcerers-catalyst"
+            },
+            {
+                "Name": "Tin Banishment Catalyst",
+                "slug": "tin-banishment-catalyst"
+            },
+            {
+                "Name": "Tin Crystallization Catalyst",
+                "slug": "tin-crystallization-catalyst"
+            },
+            {
+                "Name": "Tin Darkmoon Catalyst",
+                "slug": "tin-darkmoon-catalyst"
+            }
+        ]
+    },
+    {
+        "category": "Talismans",
+        "slug": "talismans",
+        "weapons": [
+            {
+                "Name": "Canvas Talisman",
+                "slug": "canvas-talisman"
+            },
+            {
+                "Name": "Darkmoon Talisman",
+                "slug": "darkmoon-talisman"
+            },
+            {
+                "Name": "Ivory Talisman",
+                "slug": "ivory-talisman"
+            },
+            {
+                "Name": "Sunlight Talisman",
+                "slug": "sunlight-talisman"
+            },
+            {
+                "Name": "Talisman",
+                "slug": "talisman"
+            },
+            {
+                "Name": "Thorolund Talisman",
+                "slug": "thorolund-talisman"
+            },
+            {
+                "Name": "Velka's Talisman",
+                "slug": "velkas-talisman"
+            }
+        ]
+    },
+    {
+        "category": "Pyromancy Flames",
+        "slug": "pyromancy-flames",
+        "weapons": [
+            {
+                "Name": "Ascended Pyromancy Flame",
+                "slug": "ascended-pyromancy-flame"
+            },
+            {
+                "Name": "Pyromancy Flame",
+                "slug": "pyromancy-flame"
+            }
+        ]
+    },
+    {
+        "category": "Small Shields",
+        "slug": "small-shields",
+        "weapons": [
+            {
+                "Name": "Buckler",
+                "slug": "buckler"
+            },
+            {
+                "Name": "Caduceus Round Shield",
+                "slug": "caduceus-round-shield"
+            },
+            {
+                "Name": "Cracked Round Shield",
+                "slug": "cracked-round-shield"
+            },
+            {
+                "Name": "Effigy Shield",
+                "slug": "effigy-shield"
+            },
+            {
+                "Name": "Leather Shield",
+                "slug": "leather-shield"
+            },
+            {
+                "Name": "Plank Shield",
+                "slug": "plank-shield"
+            },
+            {
+                "Name": "Red and White Round Shield",
+                "slug": "red-and-white-round-shield"
+            },
+            {
+                "Name": "Small Leather Shield",
+                "slug": "small-leather-shield"
+            },
+            {
+                "Name": "Target Shield",
+                "slug": "target-shield"
+            },
+            {
+                "Name": "Warrior's Round Shield",
+                "slug": "warriors-round-shield"
+            }
+        ]
+    },
+    {
+        "category": "Normal Shields",
+        "slug": "normal-shields",
+        "weapons": [
+            {
+                "Name": "Balder Shield",
+                "slug": "balder-shield"
+            },
+            {
+                "Name": "Black Knight Shield",
+                "slug": "black-knight-shield"
+            },
+            {
+                "Name": "Bloodshield",
+                "slug": "bloodshield"
+            },
+            {
+                "Name": "Caduceus Kite Shield",
+                "slug": "caduceus-kite-shield"
+            },
+            {
+                "Name": "Crest Shield",
+                "slug": "crest-shield"
+            },
+            {
+                "Name": "Dragon Crest Shield",
+                "slug": "dragon-crest-shield"
+            },
+            {
+                "Name": "East-West Shield",
+                "slug": "east-west-shield"
+            },
+            {
+                "Name": "Gargoyle's Shield",
+                "slug": "gargoyles-shield"
+            },
+            {
+                "Name": "Grass Crest Shield",
+                "slug": "grass-crest-shield"
+            },
+            {
+                "Name": "Heater Shield",
+                "slug": "heater-shield"
+            },
+            {
+                "Name": "Hollow Soldier Shield",
+                "slug": "hollow-soldier-shield"
+            },
+            {
+                "Name": "Iron Round Shield",
+                "slug": "iron-round-shield"
+            },
+            {
+                "Name": "Knight Shield",
+                "slug": "knight-shield"
+            },
+            {
+                "Name": "Large Leather Shield",
+                "slug": "large-leather-shield"
+            },
+            {
+                "Name": "Sanctus",
+                "slug": "sanctus"
+            },
+            {
+                "Name": "Silver Knight Shield",
+                "slug": "silver-knight-shield"
+            },
+            {
+                "Name": "Spider Shield",
+                "slug": "spider-shield"
+            },
+            {
+                "Name": "Sunlight Shield",
+                "slug": "sunlight-shield"
+            },
+            {
+                "Name": "Tower Kite Shield",
+                "slug": "tower-kite-shield"
+            },
+            {
+                "Name": "Wooden Shield",
+                "slug": "wooden-shield"
+            }
+        ]
+    },
+    {
+        "category": "Large Shields",
+        "slug": "large-shields",
+        "weapons": [
+            {
+                "Name": "Black Iron Greatshield",
+                "slug": "black-iron-greatshield"
+            },
+            {
+                "Name": "Bonewheel Shield",
+                "slug": "bonewheel-shield"
+            },
+            {
+                "Name": "Cleansing Greatshield",
+                "slug": "cleansing-greatshield"
+            },
+            {
+                "Name": "Eagle Shield",
+                "slug": "eagle-shield"
+            },
+            {
+                "Name": "Giant Shield",
+                "slug": "giant-shield"
+            },
+            {
+                "Name": "Greatshield of Artorias",
+                "slug": "greatshield-of-artorias"
+            },
+            {
+                "Name": "Havel's Greatshield",
+                "slug": "havels-greatshield"
+            },
+            {
+                "Name": "Stone Greatshield",
+                "slug": "stone-greatshield"
+            },
+            {
+                "Name": "Tower Shield",
+                "slug": "tower-shield"
+            }
+        ]
+    },
+    {
+        "category": "Unique Shields",
+        "slug": "unique-shields",
+        "weapons": [
+            {
+                "Name": "Crystal Ring Shield",
+                "slug": "crystal-ring-shield"
+            },
+            {
+                "Name": "Crystal Shield",
+                "slug": "crystal-shield"
+            },
+            {
+                "Name": "Spiked Shield",
+                "slug": "spiked-shield"
+            },
+            {
+                "Name": "Pierce Shield",
+                "slug": "pierce-shield"
+            }
+        ]
+    },
+    {
+        "category": "Other",
+        "slug": "other",
+        "weapons": [
+            {
+                "Name": "Dark Hand",
+                "slug": "dark-hand"
+            },
+            {
+                "Name": "Skull Lantern",
+                "slug": "skull-lantern"
+            }
+        ]
+    }
+]

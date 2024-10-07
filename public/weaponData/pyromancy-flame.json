@@ -1,0 +1,318 @@
+{
+    "base": {
+        "ID": "1330000",
+        "Name": "Pyromancy Flame",
+        "behaviorVariationId": "4100",
+        "sortId": "2031",
+        "wanderingEquipId": "1398000",
+        "weight": "0",
+        "weaponWeightRate": "0",
+        "fixPrice": "60",
+        "basicPrice": "0",
+        "sellValue": "1000",
+        "correctStrength": "0",
+        "correctAgility": "0",
+        "correctMagic": "0",
+        "correctFaith": "0",
+        "physGuardCutRate": "26",
+        "magGuardCutRate": "8",
+        "fireGuardCutRate": "20",
+        "thunGuardCutRate": "20",
+        "spEffectBehaviorId0": "-1",
+        "spEffectBehaviorId1": "-1",
+        "spEffectBehaviorId2": "-1",
+        "residentSpEffectId": "-1",
+        "residentSpEffectId1": "-1",
+        "residentSpEffectId2": "-1",
+        "materialSetId": "0",
+        "originEquipWep": "1330000",
+        "originEquipWep1": "-1",
+        "originEquipWep2": "-1",
+        "originEquipWep3": "-1",
+        "originEquipWep4": "-1",
+        "originEquipWep5": "-1",
+        "originEquipWep6": "-1",
+        "originEquipWep7": "-1",
+        "originEquipWep8": "-1",
+        "originEquipWep9": "-1",
+        "originEquipWep10": "-1",
+        "originEquipWep11": "-1",
+        "originEquipWep12": "-1",
+        "originEquipWep13": "-1",
+        "originEquipWep14": "-1",
+        "originEquipWep15": "-1",
+        "antiDemonDamageRate": "1",
+        "antSaintDamageRate": "1",
+        "antWeakA_DamageRate": "1",
+        "antWeakB_DamageRate": "1",
+        "vagrantItemLotId": "-1",
+        "vagrantBonusEneDropItemLotId": "-1",
+        "vagrantItemEneDropItemLotId": "-1",
+        "equipModelId": "911",
+        "iconId": "105",
+        "durability": "30",
+        "durabilityMax": "30",
+        "attackThrowEscape": "1",
+        "parryDamageLife": "10",
+        "attackBasePhysics": "0",
+        "attackBaseMagic": "0",
+        "attackBaseFire": "40",
+        "attackBaseThunder": "0",
+        "attackBaseStamina": "10",
+        "saWeaponDamage": "5",
+        "saDurability": "0",
+        "guardAngle": "0",
+        "staminaGuardDef": "16",
+        "reinforceTypeId": "0",
+        "trophySGradeId": "-1",
+        "trophySeqId": "-1",
+        "throwAtkRate": "0",
+        "bowDistRate": "-1",
+        "equipModelCategory": "7",
+        "equipModelGender": "0",
+        "weaponCategory": "8",
+        "wepmotionCategory": "41",
+        "guardmotionCategory": "2",
+        "atkMaterial": "3",
+        "defMaterial": "53",
+        "defSfxMaterial": "59",
+        "correctType": "15",
+        "spAttribute": "2",
+        "spAtkcategory": "52",
+        "wepmotionOneHandId": "0",
+        "wepmotionBothHandId": "10",
+        "properStrength": "4",
+        "properAgility": "0",
+        "properMagic": "0",
+        "properFaith": "0",
+        "overStrength": "99",
+        "attackBaseParry": "0",
+        "defenseBaseParry": "0",
+        "guardBaseRepel": "10",
+        "attackBaseRepel": "20",
+        "guardCutCancelRate": "0",
+        "guardLevel": "1",
+        "slashGuardCutRate": "0",
+        "blowGuardCutRate": "0",
+        "thrustGuardCutRate": "0",
+        "poisonGuardResist": "26",
+        "diseaseGuardResist": "26",
+        "bloodGuardResist": "26",
+        "curseGuardResist": "20",
+        "isDurabilityDivergence": "0",
+        "rightHandEquipable": "1",
+        "leftHandEquipable": "1",
+        "bothHandEquipable": "1",
+        "arrowSlotEquipable": "0",
+        "boltSlotEquipable": "0",
+        "enableGuard": "0",
+        "enableParry": "0",
+        "enableMagic": "0",
+        "enableSorcery": "1",
+        "enableMiracle": "0",
+        "enableVowMagic": "0",
+        "isNormalAttackType": "0",
+        "isBlowAttackType": "1",
+        "isSlashAttackType": "0",
+        "isThrustAttackType": "0",
+        "isEnhance": "0",
+        "isLuckCorrect": "0",
+        "isCustom": "1",
+        "disableBaseChangeReset": "0",
+        "disableRepair": "0",
+        "isDarkHand": "0",
+        "simpleModelForDlc": "0",
+        "lanternWep": "0",
+        "isVersusGhostWep": "0",
+        "baseChangeCategory": "1",
+        "isDragonSlayer": "0",
+        "isDeposit": "1",
+        "disableMultiDropShare": "0",
+        "pad_0": "0",
+        "oldSortId": "2021",
+        "pad_1": "[0|0|0|0|0|0|0|0]",
+        "slug": "pyromancy-flame",
+        "description": "Weapon type: Pyromancy Flame\nAttack type: Strike\n\nFlame medium used by Great Swamp pyromancers.\nPyromancers arouse this flame to produce\nvarious fire arts.\nEquip pyromancer flame to produce pyromancy.\nAttune pyromancies from a scroll at bonfire.\nMost pyromancies have limited no. of uses."
+    },
+    "variants": [
+        {
+            "name": "Pyromancy Flame +1",
+            "differences": {
+                "ID": "1330100",
+                "Name": "Pyromancy Flame +1",
+                "sortId": "2032",
+                "basicPrice": "500",
+                "correctMagic": "5.1",
+                "oldSortId": "2022"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +2",
+            "differences": {
+                "ID": "1330200",
+                "Name": "Pyromancy Flame +2",
+                "sortId": "2033",
+                "basicPrice": "1000",
+                "correctMagic": "10",
+                "originEquipWep": "1330100",
+                "oldSortId": "2023"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +3",
+            "differences": {
+                "ID": "1330300",
+                "Name": "Pyromancy Flame +3",
+                "sortId": "2034",
+                "basicPrice": "2000",
+                "correctMagic": "15",
+                "originEquipWep": "1330200",
+                "oldSortId": "2024"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +4",
+            "differences": {
+                "ID": "1330400",
+                "Name": "Pyromancy Flame +4",
+                "sortId": "2035",
+                "basicPrice": "3000",
+                "correctMagic": "20",
+                "originEquipWep": "1330300",
+                "oldSortId": "2025"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +5",
+            "differences": {
+                "ID": "1330500",
+                "Name": "Pyromancy Flame +5",
+                "sortId": "2036",
+                "basicPrice": "4000",
+                "correctMagic": "25",
+                "originEquipWep": "1330400",
+                "oldSortId": "2026"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +6",
+            "differences": {
+                "ID": "1330600",
+                "Name": "Pyromancy Flame +6",
+                "sortId": "2037",
+                "basicPrice": "5500",
+                "correctMagic": "31",
+                "originEquipWep": "1330500",
+                "oldSortId": "2027"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +7",
+            "differences": {
+                "ID": "1330700",
+                "Name": "Pyromancy Flame +7",
+                "sortId": "2038",
+                "basicPrice": "7000",
+                "correctMagic": "37",
+                "originEquipWep": "1330600",
+                "oldSortId": "2028"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +8",
+            "differences": {
+                "ID": "1330800",
+                "Name": "Pyromancy Flame +8",
+                "sortId": "2039",
+                "basicPrice": "8500",
+                "correctMagic": "43",
+                "originEquipWep": "1330700",
+                "oldSortId": "2029"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +9",
+            "differences": {
+                "ID": "1330900",
+                "Name": "Pyromancy Flame +9",
+                "sortId": "2040",
+                "basicPrice": "10000",
+                "correctMagic": "49",
+                "originEquipWep": "1330800",
+                "oldSortId": "2030"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +10",
+            "differences": {
+                "ID": "1331000",
+                "Name": "Pyromancy Flame +10",
+                "sortId": "2041",
+                "basicPrice": "12000",
+                "correctMagic": "55",
+                "originEquipWep": "1330900",
+                "oldSortId": "2031"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +11",
+            "differences": {
+                "ID": "1331100",
+                "Name": "Pyromancy Flame +11",
+                "sortId": "2042",
+                "basicPrice": "14000",
+                "correctMagic": "62",
+                "originEquipWep": "1331000",
+                "oldSortId": "2032"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +12",
+            "differences": {
+                "ID": "1331200",
+                "Name": "Pyromancy Flame +12",
+                "sortId": "2043",
+                "basicPrice": "16000",
+                "correctMagic": "69",
+                "originEquipWep": "1331100",
+                "oldSortId": "2033"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +13",
+            "differences": {
+                "ID": "1331300",
+                "Name": "Pyromancy Flame +13",
+                "sortId": "2044",
+                "basicPrice": "19000",
+                "correctMagic": "76",
+                "originEquipWep": "1331200",
+                "oldSortId": "2034"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +14",
+            "differences": {
+                "ID": "1331400",
+                "Name": "Pyromancy Flame +14",
+                "sortId": "2045",
+                "basicPrice": "22000",
+                "correctMagic": "83",
+                "originEquipWep": "1331300",
+                "oldSortId": "2035"
+            }
+        },
+        {
+            "name": "Pyromancy Flame +15",
+            "differences": {
+                "ID": "1331500",
+                "Name": "Pyromancy Flame +15",
+                "sortId": "2046",
+                "basicPrice": "25000",
+                "correctMagic": "90",
+                "originEquipWep": "1331400",
+                "oldSortId": "2036"
+            }
+        }
+    ]
+}

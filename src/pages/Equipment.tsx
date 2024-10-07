@@ -1,72 +1,42 @@
-import React, { useEffect, useState } from "react";
-import { fetchWeapons } from "../api"; // Ensure this path is correct
+import React from "react";
 import { Link } from "react-router-dom";
+import { WeaponCategory } from "../types"; // Adjust the path according to your file structure
+import "../css/Eguipment.scss"
 
-// Utility function to create slugs from weapon names
-const createSlug = (name: string) => {
-  return name
-    .toLowerCase()
-    .replace(/[\s']+/g, "-") // Replace spaces and single quotes with hyphens
-    .replace(/[^\w-]+/g, "") // Remove any non-word characters except hyphens
-    .replace(/--+/g, "-") // Replace multiple hyphens with a single hyphen
-    .trim(); // Trim any leading or trailing hyphens
+type EquipmentProps = {
+  weaponIndex: WeaponCategory[]; // Use the imported type for weaponIndex
 };
 
-type Weapon = {
-  name: string;
-  path: string;
-};
-
-const Equipment: React.FC = () => {
-  const [weapons, setWeapons] = useState<Record<string, Weapon[]>>({});
-  const [loading, setLoading] = useState<boolean>(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    const loadWeapons = async () => {
-      setLoading(true); // Start loading
-      try {
-        const data = await fetchWeapons();
-        setWeapons(data);
-      } catch (error) {
-        console.error("Error fetching weapons:", error);
-        setError("Failed to load weapons");
-      } finally {
-        setLoading(false); // End loading regardless of success or error
-      }
-    };
-
-    loadWeapons();
-  }, []);
-
-  if (loading) return <div>Loading weapons...</div>;
-  if (error) return <div>{error}</div>;
+const Equipment: React.FC<EquipmentProps> = ({ weaponIndex }) => {
+  console.log("Weapon Index in Equipment:", weaponIndex); // Debugging line
 
   return (
     <div>
-      {Object.entries(weapons).map(([category, items]) => (
-        <div key={category}>
-          <h2>{category}</h2>
-          <ul>
-            {items.map((weapon, index) => {
-              // Generate slug and lowercase name for image path
-              const slug = createSlug(weapon.name);
-              const imagePath = `/images/items/weapons/${slug}.png`;
-
-              return (
-                <li key={index}>
-                  <Link to={`/weapons/${slug}`}>{weapon.name}</Link>
-                  <img
-                    src={imagePath}
-                    alt={weapon.name}
-                    style={{ width: "50px", marginLeft: "10px" }}
-                  />
-                </li>
-              );
-            })}
-          </ul>
+      {weaponIndex.length === 0 ? (
+        <div>No weapons available.</div>
+      ) : (
+        <div className="category-container">
+          {weaponIndex.map((category, index) => (
+            <div key={index} className="weapon-category">
+              <h2>{category.category}</h2>
+              <ul>
+                {category.weapons.map((weapon, idx) => (
+                  <li key={idx} className="weapon-item">
+                    <Link to={`/weapons/${weapon.slug}`} className="weapon-link">
+                      <img
+                        src={`/images/items/weapons/${weapon.slug}.png`} // Construct the image path
+                        alt={weapon.Name} // Use weapon name for alt text
+                        className="weapon-image" // Optional: For styling
+                      />
+                      <span className="weapon-name">{weapon.Name}</span> {/* Move text under the image */}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
         </div>
-      ))}
+      )}
     </div>
   );
 };

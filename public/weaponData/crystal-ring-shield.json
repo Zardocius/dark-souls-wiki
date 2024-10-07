@@ -1,0 +1,679 @@
+{
+    "base": {
+        "ID": "1411000",
+        "Name": "Crystal Ring Shield [East-West Shield]",
+        "behaviorVariationId": "4802",
+        "sortId": "2191",
+        "wanderingEquipId": "1498000",
+        "weight": "3",
+        "weaponWeightRate": "1",
+        "fixPrice": "240",
+        "basicPrice": "5000",
+        "sellValue": "1000",
+        "correctStrength": "0",
+        "correctAgility": "0",
+        "correctMagic": "0",
+        "correctFaith": "0",
+        "physGuardCutRate": "70",
+        "magGuardCutRate": "90",
+        "fireGuardCutRate": "70",
+        "thunGuardCutRate": "40",
+        "spEffectBehaviorId0": "-1",
+        "spEffectBehaviorId1": "-1",
+        "spEffectBehaviorId2": "-1",
+        "residentSpEffectId": "-1",
+        "residentSpEffectId1": "-1",
+        "residentSpEffectId2": "-1",
+        "materialSetId": "1700",
+        "originEquipWep": "1400010",
+        "originEquipWep1": "1400010",
+        "originEquipWep2": "1400010",
+        "originEquipWep3": "1400010",
+        "originEquipWep4": "1400010",
+        "originEquipWep5": "1400010",
+        "originEquipWep6": "-1",
+        "originEquipWep7": "-1",
+        "originEquipWep8": "-1",
+        "originEquipWep9": "-1",
+        "originEquipWep10": "-1",
+        "originEquipWep11": "-1",
+        "originEquipWep12": "-1",
+        "originEquipWep13": "-1",
+        "originEquipWep14": "-1",
+        "originEquipWep15": "-1",
+        "antiDemonDamageRate": "1",
+        "antSaintDamageRate": "1",
+        "antWeakA_DamageRate": "1",
+        "antWeakB_DamageRate": "1",
+        "vagrantItemLotId": "101200",
+        "vagrantBonusEneDropItemLotId": "101210",
+        "vagrantItemEneDropItemLotId": "101220",
+        "equipModelId": "1531",
+        "iconId": "120",
+        "durability": "120",
+        "durabilityMax": "120",
+        "attackThrowEscape": "1",
+        "parryDamageLife": "10",
+        "attackBasePhysics": "0",
+        "attackBaseMagic": "100",
+        "attackBaseFire": "0",
+        "attackBaseThunder": "0",
+        "attackBaseStamina": "20",
+        "saWeaponDamage": "20",
+        "saDurability": "0",
+        "guardAngle": "0",
+        "staminaGuardDef": "40",
+        "reinforceTypeId": "1200",
+        "trophySGradeId": "1531",
+        "trophySeqId": "-1",
+        "throwAtkRate": "0",
+        "bowDistRate": "-1",
+        "equipModelCategory": "7",
+        "equipModelGender": "0",
+        "weaponCategory": "12",
+        "wepmotionCategory": "48",
+        "guardmotionCategory": "2",
+        "atkMaterial": "0",
+        "defMaterial": "54",
+        "defSfxMaterial": "50",
+        "correctType": "0",
+        "spAttribute": "1",
+        "spAtkcategory": "92",
+        "wepmotionOneHandId": "0",
+        "wepmotionBothHandId": "15",
+        "properStrength": "10",
+        "properAgility": "0",
+        "properMagic": "0",
+        "properFaith": "0",
+        "overStrength": "99",
+        "attackBaseParry": "0",
+        "defenseBaseParry": "0",
+        "guardBaseRepel": "30",
+        "attackBaseRepel": "20",
+        "guardCutCancelRate": "0",
+        "guardLevel": "4",
+        "slashGuardCutRate": "0",
+        "blowGuardCutRate": "0",
+        "thrustGuardCutRate": "0",
+        "poisonGuardResist": "30",
+        "diseaseGuardResist": "30",
+        "bloodGuardResist": "85",
+        "curseGuardResist": "50",
+        "isDurabilityDivergence": "7",
+        "rightHandEquipable": "1",
+        "leftHandEquipable": "1",
+        "bothHandEquipable": "1",
+        "arrowSlotEquipable": "0",
+        "boltSlotEquipable": "0",
+        "enableGuard": "1",
+        "enableParry": "0",
+        "enableMagic": "0",
+        "enableSorcery": "0",
+        "enableMiracle": "0",
+        "enableVowMagic": "0",
+        "isNormalAttackType": "0",
+        "isBlowAttackType": "1",
+        "isSlashAttackType": "0",
+        "isThrustAttackType": "0",
+        "isEnhance": "0",
+        "isLuckCorrect": "0",
+        "isCustom": "1",
+        "disableBaseChangeReset": "0",
+        "disableRepair": "0",
+        "isDarkHand": "0",
+        "simpleModelForDlc": "0",
+        "lanternWep": "0",
+        "isVersusGhostWep": "0",
+        "baseChangeCategory": "45",
+        "isDragonSlayer": "0",
+        "isDeposit": "1",
+        "disableMultiDropShare": "0",
+        "pad_0": "0",
+        "oldSortId": "2191",
+        "pad_1": "[0|0|0|0|0|0|0|0]",
+        "slug": "crystal-ring-shield",
+        "description": "Weapon type: Small Shield\nAttack type: Strike\n\nWeapon born from the mystical creature of\nthe Darkroot Garden, the Moonlight Butterfly.\nImbued with a powerful crystal power, like\nthe butterfly created by Seath the Scaleless.\nCan emit crystal light rings."
+    },
+    "variants": [
+        {
+            "name": "Crystal Ring Shield [Wooden Shield]",
+            "differences": {
+                "ID": "1411100",
+                "Name": "Crystal Ring Shield [Wooden Shield]",
+                "sortId": "2192",
+                "originEquipWep": "1401010",
+                "originEquipWep1": "1401010",
+                "originEquipWep2": "1401010",
+                "originEquipWep3": "1401010",
+                "originEquipWep4": "1401010",
+                "originEquipWep5": "1401010",
+                "oldSortId": "2192"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Plank Shield]",
+            "differences": {
+                "ID": "1411200",
+                "Name": "Crystal Ring Shield [Plank Shield]",
+                "sortId": "2193",
+                "originEquipWep": "1409010",
+                "originEquipWep1": "1409010",
+                "originEquipWep2": "1409010",
+                "originEquipWep3": "1409010",
+                "originEquipWep4": "1409010",
+                "originEquipWep5": "1409010",
+                "oldSortId": "2193"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Large Leather Shield]",
+            "differences": {
+                "ID": "1411300",
+                "Name": "Crystal Ring Shield [Large Leather Shield]",
+                "sortId": "2194",
+                "originEquipWep": "1402010",
+                "originEquipWep1": "1402010",
+                "originEquipWep2": "1402010",
+                "originEquipWep3": "1402010",
+                "originEquipWep4": "1402010",
+                "originEquipWep5": "1402010",
+                "oldSortId": "2194"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Small Leather Shield]",
+            "differences": {
+                "ID": "1411400",
+                "Name": "Crystal Ring Shield [Small Leather Shield]",
+                "sortId": "2195",
+                "originEquipWep": "1403010",
+                "originEquipWep1": "1403010",
+                "originEquipWep2": "1403010",
+                "originEquipWep3": "1403010",
+                "originEquipWep4": "1403010",
+                "originEquipWep5": "1403010",
+                "oldSortId": "2195"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Leather Shield",
+            "differences": {
+                "ID": "1411500",
+                "Name": "Crystal Ring Shield [Leather Shield",
+                "sortId": "2196",
+                "originEquipWep": "1408010",
+                "originEquipWep1": "1408010",
+                "originEquipWep2": "1408010",
+                "originEquipWep3": "1408010",
+                "originEquipWep4": "1408010",
+                "originEquipWep5": "1408010",
+                "oldSortId": "2196"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Target Shield]",
+            "differences": {
+                "ID": "1411600",
+                "Name": "Crystal Ring Shield [Target Shield]",
+                "sortId": "2197",
+                "originEquipWep": "1404010",
+                "originEquipWep1": "1404010",
+                "originEquipWep2": "1404010",
+                "originEquipWep3": "1404010",
+                "originEquipWep4": "1404010",
+                "originEquipWep5": "1404010",
+                "oldSortId": "2197"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Buckler]",
+            "differences": {
+                "ID": "1411700",
+                "Name": "Crystal Ring Shield [Buckler]",
+                "sortId": "2198",
+                "originEquipWep": "1405010",
+                "originEquipWep1": "1405010",
+                "originEquipWep2": "1405010",
+                "originEquipWep3": "1405010",
+                "originEquipWep4": "1405010",
+                "originEquipWep5": "1405010",
+                "oldSortId": "2198"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Cracked Round Shield]",
+            "differences": {
+                "ID": "1411800",
+                "Name": "Crystal Ring Shield [Cracked Round Shield]",
+                "sortId": "2199",
+                "originEquipWep": "1406010",
+                "originEquipWep1": "1406010",
+                "originEquipWep2": "1406010",
+                "originEquipWep3": "1406010",
+                "originEquipWep4": "1406010",
+                "originEquipWep5": "1406010",
+                "oldSortId": "2199"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Caduceus Round Shield]",
+            "differences": {
+                "ID": "1411900",
+                "Name": "Crystal Ring Shield [Caduceus Round Shield]",
+                "sortId": "2200",
+                "originEquipWep": "1410010",
+                "originEquipWep1": "1410010",
+                "originEquipWep2": "1410010",
+                "originEquipWep3": "1410010",
+                "originEquipWep4": "1410010",
+                "originEquipWep5": "1410010",
+                "oldSortId": "2200"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Heater Shield]",
+            "differences": {
+                "ID": "1412000",
+                "Name": "Crystal Ring Shield [Heater Shield]",
+                "sortId": "2201",
+                "originEquipWep": "1450010",
+                "originEquipWep1": "1450010",
+                "originEquipWep2": "1450010",
+                "originEquipWep3": "1450010",
+                "originEquipWep4": "1450010",
+                "originEquipWep5": "1450010",
+                "oldSortId": "2201"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Knight Shield]",
+            "differences": {
+                "ID": "1412100",
+                "Name": "Crystal Ring Shield [Knight Shield]",
+                "sortId": "2202",
+                "originEquipWep": "1451010",
+                "originEquipWep1": "1451010",
+                "originEquipWep2": "1451010",
+                "originEquipWep3": "1451010",
+                "originEquipWep4": "1451010",
+                "originEquipWep5": "1451010",
+                "oldSortId": "2202"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Tower Kite Shield]",
+            "differences": {
+                "ID": "1412200",
+                "Name": "Crystal Ring Shield [Tower Kite Shield]",
+                "sortId": "2203",
+                "originEquipWep": "1452010",
+                "originEquipWep1": "1452010",
+                "originEquipWep2": "1452010",
+                "originEquipWep3": "1452010",
+                "originEquipWep4": "1452010",
+                "originEquipWep5": "1452010",
+                "oldSortId": "2203"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Grass Crest Shield]",
+            "differences": {
+                "ID": "1412300",
+                "Name": "Crystal Ring Shield [Grass Crest Shield]",
+                "sortId": "2204",
+                "originEquipWep": "1453010",
+                "originEquipWep1": "1453010",
+                "originEquipWep2": "1453010",
+                "originEquipWep3": "1453010",
+                "originEquipWep4": "1453010",
+                "originEquipWep5": "1453010",
+                "oldSortId": "2204"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Hollow Soldier Shield]",
+            "differences": {
+                "ID": "1412400",
+                "Name": "Crystal Ring Shield [Hollow Soldier Shield]",
+                "sortId": "2205",
+                "originEquipWep": "1454010",
+                "originEquipWep1": "1454010",
+                "originEquipWep2": "1454010",
+                "originEquipWep3": "1454010",
+                "originEquipWep4": "1454010",
+                "originEquipWep5": "1454010",
+                "oldSortId": "2205"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Balder Shield]",
+            "differences": {
+                "ID": "1412500",
+                "Name": "Crystal Ring Shield [Balder Shield]",
+                "sortId": "2206",
+                "originEquipWep": "1455010",
+                "originEquipWep1": "1455010",
+                "originEquipWep2": "1455010",
+                "originEquipWep3": "1455010",
+                "originEquipWep4": "1455010",
+                "originEquipWep5": "1455010",
+                "oldSortId": "2206"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Warrior's Round Shield]",
+            "differences": {
+                "ID": "1412600",
+                "Name": "Crystal Ring Shield [Warrior's Round Shield]",
+                "sortId": "2207",
+                "originEquipWep": "1460010",
+                "originEquipWep1": "1460010",
+                "originEquipWep2": "1460010",
+                "originEquipWep3": "1460010",
+                "originEquipWep4": "1460010",
+                "originEquipWep5": "1460010",
+                "oldSortId": "2207"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Iron Round Shield]",
+            "differences": {
+                "ID": "1412700",
+                "Name": "Crystal Ring Shield [Iron Round Shield]",
+                "sortId": "2208",
+                "originEquipWep": "1461010",
+                "originEquipWep1": "1461010",
+                "originEquipWep2": "1461010",
+                "originEquipWep3": "1461010",
+                "originEquipWep4": "1461010",
+                "originEquipWep5": "1461010",
+                "oldSortId": "2208"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Spider Shield]",
+            "differences": {
+                "ID": "1412800",
+                "Name": "Crystal Ring Shield [Spider Shield]",
+                "sortId": "2209",
+                "originEquipWep": "1462010",
+                "originEquipWep1": "1462010",
+                "originEquipWep2": "1462010",
+                "originEquipWep3": "1462010",
+                "originEquipWep4": "1462010",
+                "originEquipWep5": "1462010",
+                "oldSortId": "2209"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Spiked Shield]",
+            "differences": {
+                "ID": "1412900",
+                "Name": "Crystal Ring Shield [Spiked Shield]",
+                "sortId": "2210",
+                "originEquipWep": "1470010",
+                "originEquipWep1": "1470010",
+                "originEquipWep2": "1470010",
+                "originEquipWep3": "1470010",
+                "originEquipWep4": "1470010",
+                "originEquipWep5": "1470010",
+                "oldSortId": "2210"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Pierce Shield]",
+            "differences": {
+                "ID": "1413000",
+                "Name": "Crystal Ring Shield [Pierce Shield]",
+                "sortId": "2211",
+                "originEquipWep": "1475010",
+                "originEquipWep1": "1475010",
+                "originEquipWep2": "1475010",
+                "originEquipWep3": "1475010",
+                "originEquipWep4": "1475010",
+                "originEquipWep5": "1475010",
+                "oldSortId": "2211"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Sunlight Shield]",
+            "differences": {
+                "ID": "1413100",
+                "Name": "Crystal Ring Shield [Sunlight Shield]",
+                "sortId": "2212",
+                "originEquipWep": "1472010",
+                "originEquipWep1": "1472010",
+                "originEquipWep2": "1472010",
+                "originEquipWep3": "1472010",
+                "originEquipWep4": "1472010",
+                "originEquipWep5": "1472010",
+                "oldSortId": "2212"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Red and White Round Shield]",
+            "differences": {
+                "ID": "1413200",
+                "Name": "Crystal Ring Shield [Red and White Round Shield]",
+                "sortId": "2213",
+                "originEquipWep": "1476010",
+                "originEquipWep1": "1476010",
+                "originEquipWep2": "1476010",
+                "originEquipWep3": "1476010",
+                "originEquipWep4": "1476010",
+                "originEquipWep5": "1476010",
+                "oldSortId": "2213"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Caduceus Kite Shield]",
+            "differences": {
+                "ID": "1413300",
+                "Name": "Crystal Ring Shield [Caduceus Kite Shield]",
+                "sortId": "2214",
+                "originEquipWep": "1477010",
+                "originEquipWep1": "1477010",
+                "originEquipWep2": "1477010",
+                "originEquipWep3": "1477010",
+                "originEquipWep4": "1477010",
+                "originEquipWep5": "1477010",
+                "oldSortId": "2214"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Gargoyle's Shield]",
+            "differences": {
+                "ID": "1413400",
+                "Name": "Crystal Ring Shield [Gargoyle's Shield]",
+                "sortId": "2215",
+                "originEquipWep": "1478010",
+                "originEquipWep1": "1478010",
+                "originEquipWep2": "1478010",
+                "originEquipWep3": "1478010",
+                "originEquipWep4": "1478010",
+                "originEquipWep5": "1478010",
+                "oldSortId": "2215"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Eagle Shield]",
+            "differences": {
+                "ID": "1413500",
+                "Name": "Crystal Ring Shield [Eagle Shield]",
+                "sortId": "2216",
+                "originEquipWep": "1500010",
+                "originEquipWep1": "1500010",
+                "originEquipWep2": "1500010",
+                "originEquipWep3": "1500010",
+                "originEquipWep4": "1500010",
+                "originEquipWep5": "1500010",
+                "oldSortId": "2216"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Tower Shield]",
+            "differences": {
+                "ID": "1413600",
+                "Name": "Crystal Ring Shield [Tower Shield]",
+                "sortId": "2217",
+                "originEquipWep": "1501010",
+                "originEquipWep1": "1501010",
+                "originEquipWep2": "1501010",
+                "originEquipWep3": "1501010",
+                "originEquipWep4": "1501010",
+                "originEquipWep5": "1501010",
+                "oldSortId": "2217"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Giant Shield]",
+            "differences": {
+                "ID": "1413700",
+                "Name": "Crystal Ring Shield [Giant Shield]",
+                "sortId": "2218",
+                "originEquipWep": "1502010",
+                "originEquipWep1": "1502010",
+                "originEquipWep2": "1502010",
+                "originEquipWep3": "1502010",
+                "originEquipWep4": "1502010",
+                "originEquipWep5": "1502010",
+                "oldSortId": "2218"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Bonewheel Shield]",
+            "differences": {
+                "ID": "1413800",
+                "Name": "Crystal Ring Shield [Bonewheel Shield]",
+                "sortId": "2219",
+                "originEquipWep": "1506010",
+                "originEquipWep1": "1506010",
+                "originEquipWep2": "1506010",
+                "originEquipWep3": "1506010",
+                "originEquipWep4": "1506010",
+                "originEquipWep5": "1506010",
+                "oldSortId": "2219"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Effigy Shield]",
+            "differences": {
+                "ID": "1413900",
+                "Name": "Crystal Ring Shield [Effigy Shield]",
+                "sortId": "2220",
+                "originEquipWep": "9000010",
+                "originEquipWep1": "9000010",
+                "originEquipWep2": "9000010",
+                "originEquipWep3": "9000010",
+                "originEquipWep4": "9000010",
+                "originEquipWep5": "9000010",
+                "oldSortId": "2220"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Sanctus]",
+            "differences": {
+                "ID": "1414000",
+                "Name": "Crystal Ring Shield [Sanctus]",
+                "sortId": "2221",
+                "originEquipWep": "9001010",
+                "originEquipWep1": "9001010",
+                "originEquipWep2": "9001010",
+                "originEquipWep3": "9001010",
+                "originEquipWep4": "9001010",
+                "originEquipWep5": "9001010",
+                "oldSortId": "2221"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Bloodshield]",
+            "differences": {
+                "ID": "1414100",
+                "Name": "Crystal Ring Shield [Bloodshield]",
+                "sortId": "2222",
+                "originEquipWep": "9002010",
+                "originEquipWep1": "9002010",
+                "originEquipWep2": "9002010",
+                "originEquipWep3": "9002010",
+                "originEquipWep4": "9002010",
+                "originEquipWep5": "9002010",
+                "oldSortId": "2222"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield [Black Iron Greatshield]",
+            "differences": {
+                "ID": "1414200",
+                "Name": "Crystal Ring Shield [Black Iron Greatshield]",
+                "sortId": "2223",
+                "originEquipWep": "9003010",
+                "originEquipWep1": "9003010",
+                "originEquipWep2": "9003010",
+                "originEquipWep3": "9003010",
+                "originEquipWep4": "9003010",
+                "originEquipWep5": "9003010",
+                "oldSortId": "2223"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield",
+            "differences": {
+                "ID": "1414300",
+                "Name": "Crystal Ring Shield",
+                "sortId": "2224",
+                "originEquipWep": "9004010",
+                "originEquipWep1": "9004010",
+                "originEquipWep2": "9004010",
+                "originEquipWep3": "9004010",
+                "originEquipWep4": "9004010",
+                "originEquipWep5": "9004010",
+                "oldSortId": "2224"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield",
+            "differences": {
+                "ID": "1414400",
+                "Name": "Crystal Ring Shield",
+                "sortId": "2225",
+                "originEquipWep": "9005010",
+                "originEquipWep1": "9005010",
+                "originEquipWep2": "9005010",
+                "originEquipWep3": "9005010",
+                "originEquipWep4": "9005010",
+                "originEquipWep5": "9005010",
+                "oldSortId": "2225"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield",
+            "differences": {
+                "ID": "1414500",
+                "Name": "Crystal Ring Shield",
+                "sortId": "2226",
+                "originEquipWep": "9006010",
+                "originEquipWep1": "9006010",
+                "originEquipWep2": "9006010",
+                "originEquipWep3": "9006010",
+                "originEquipWep4": "9006010",
+                "originEquipWep5": "9006010",
+                "oldSortId": "2226"
+            }
+        },
+        {
+            "name": "Crystal Ring Shield",
+            "differences": {
+                "ID": "1414600",
+                "Name": "Crystal Ring Shield",
+                "sortId": "2227",
+                "originEquipWep": "9007010",
+                "originEquipWep1": "9007010",
+                "originEquipWep2": "9007010",
+                "originEquipWep3": "9007010",
+                "originEquipWep4": "9007010",
+                "originEquipWep5": "9007010",
+                "oldSortId": "2227"
+            }
+        }
+    ]
+}

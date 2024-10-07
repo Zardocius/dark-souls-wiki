@@ -1,0 +1,679 @@
+{
+    "base": {
+        "ID": "1507000",
+        "Name": "Greatshield of Artorias [East-West Shield]",
+        "behaviorVariationId": "4700",
+        "sortId": "2661",
+        "wanderingEquipId": "1599000",
+        "weight": "16",
+        "weaponWeightRate": "0",
+        "fixPrice": "1200",
+        "basicPrice": "5000",
+        "sellValue": "50",
+        "correctStrength": "34",
+        "correctAgility": "0",
+        "correctMagic": "0",
+        "correctFaith": "0",
+        "physGuardCutRate": "100",
+        "magGuardCutRate": "50",
+        "fireGuardCutRate": "80",
+        "thunGuardCutRate": "40",
+        "spEffectBehaviorId0": "-1",
+        "spEffectBehaviorId1": "-1",
+        "spEffectBehaviorId2": "-1",
+        "residentSpEffectId": "-1",
+        "residentSpEffectId1": "-1",
+        "residentSpEffectId2": "-1",
+        "materialSetId": "1300",
+        "originEquipWep": "1400010",
+        "originEquipWep1": "1400010",
+        "originEquipWep2": "1400010",
+        "originEquipWep3": "1400010",
+        "originEquipWep4": "1400010",
+        "originEquipWep5": "1400010",
+        "originEquipWep6": "-1",
+        "originEquipWep7": "-1",
+        "originEquipWep8": "-1",
+        "originEquipWep9": "-1",
+        "originEquipWep10": "-1",
+        "originEquipWep11": "-1",
+        "originEquipWep12": "-1",
+        "originEquipWep13": "-1",
+        "originEquipWep14": "-1",
+        "originEquipWep15": "-1",
+        "antiDemonDamageRate": "1",
+        "antSaintDamageRate": "1",
+        "antWeakA_DamageRate": "1",
+        "antWeakB_DamageRate": "1",
+        "vagrantItemLotId": "101200",
+        "vagrantBonusEneDropItemLotId": "101210",
+        "vagrantItemEneDropItemLotId": "101220",
+        "equipModelId": "1534",
+        "iconId": "137",
+        "durability": "600",
+        "durabilityMax": "600",
+        "attackThrowEscape": "1",
+        "parryDamageLife": "10",
+        "attackBasePhysics": "80",
+        "attackBaseMagic": "0",
+        "attackBaseFire": "0",
+        "attackBaseThunder": "0",
+        "attackBaseStamina": "35",
+        "saWeaponDamage": "20",
+        "saDurability": "0",
+        "guardAngle": "0",
+        "staminaGuardDef": "88",
+        "reinforceTypeId": "1500",
+        "trophySGradeId": "1534",
+        "trophySeqId": "-1",
+        "throwAtkRate": "0",
+        "bowDistRate": "-1",
+        "equipModelCategory": "7",
+        "equipModelGender": "0",
+        "weaponCategory": "12",
+        "wepmotionCategory": "47",
+        "guardmotionCategory": "1",
+        "atkMaterial": "0",
+        "defMaterial": "79",
+        "defSfxMaterial": "50",
+        "correctType": "0",
+        "spAttribute": "1",
+        "spAtkcategory": "0",
+        "wepmotionOneHandId": "0",
+        "wepmotionBothHandId": "15",
+        "properStrength": "34",
+        "properAgility": "0",
+        "properMagic": "0",
+        "properFaith": "0",
+        "overStrength": "99",
+        "attackBaseParry": "0",
+        "defenseBaseParry": "0",
+        "guardBaseRepel": "65",
+        "attackBaseRepel": "60",
+        "guardCutCancelRate": "0",
+        "guardLevel": "4",
+        "slashGuardCutRate": "0",
+        "blowGuardCutRate": "0",
+        "thrustGuardCutRate": "0",
+        "poisonGuardResist": "100",
+        "diseaseGuardResist": "100",
+        "bloodGuardResist": "100",
+        "curseGuardResist": "100",
+        "isDurabilityDivergence": "0",
+        "rightHandEquipable": "1",
+        "leftHandEquipable": "1",
+        "bothHandEquipable": "1",
+        "arrowSlotEquipable": "0",
+        "boltSlotEquipable": "0",
+        "enableGuard": "1",
+        "enableParry": "0",
+        "enableMagic": "0",
+        "enableSorcery": "0",
+        "enableMiracle": "0",
+        "enableVowMagic": "0",
+        "isNormalAttackType": "0",
+        "isBlowAttackType": "1",
+        "isSlashAttackType": "0",
+        "isThrustAttackType": "0",
+        "isEnhance": "0",
+        "isLuckCorrect": "0",
+        "isCustom": "1",
+        "disableBaseChangeReset": "0",
+        "disableRepair": "0",
+        "isDarkHand": "0",
+        "simpleModelForDlc": "0",
+        "lanternWep": "0",
+        "isVersusGhostWep": "0",
+        "baseChangeCategory": "45",
+        "isDragonSlayer": "0",
+        "isDeposit": "1",
+        "disableMultiDropShare": "0",
+        "pad_0": "0",
+        "oldSortId": "2661",
+        "pad_1": "[0|0|0|0|0|0|0|0]",
+        "slug": "greatshield-of-artorias",
+        "description": "Weapon type: Greatshield\nAttack type: Strike\n\nShield born from the soul of the great grey\nwolf Sif, guardian of the grave of the\nAbysswalker Knight Artorias.\nBoasts consistent defense and divine\nprotection against various status effects."
+    },
+    "variants": [
+        {
+            "name": "Greatshield of Artorias [Wooden Shield]",
+            "differences": {
+                "ID": "1507100",
+                "Name": "Greatshield of Artorias [Wooden Shield]",
+                "sortId": "2662",
+                "originEquipWep": "1401010",
+                "originEquipWep1": "1401010",
+                "originEquipWep2": "1401010",
+                "originEquipWep3": "1401010",
+                "originEquipWep4": "1401010",
+                "originEquipWep5": "1401010",
+                "oldSortId": "2662"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Plank Shield]",
+            "differences": {
+                "ID": "1507200",
+                "Name": "Greatshield of Artorias [Plank Shield]",
+                "sortId": "2663",
+                "originEquipWep": "1409010",
+                "originEquipWep1": "1409010",
+                "originEquipWep2": "1409010",
+                "originEquipWep3": "1409010",
+                "originEquipWep4": "1409010",
+                "originEquipWep5": "1409010",
+                "oldSortId": "2663"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Large Leather Shield]",
+            "differences": {
+                "ID": "1507300",
+                "Name": "Greatshield of Artorias [Large Leather Shield]",
+                "sortId": "2664",
+                "originEquipWep": "1402010",
+                "originEquipWep1": "1402010",
+                "originEquipWep2": "1402010",
+                "originEquipWep3": "1402010",
+                "originEquipWep4": "1402010",
+                "originEquipWep5": "1402010",
+                "oldSortId": "2664"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Small Leather Shield]",
+            "differences": {
+                "ID": "1507400",
+                "Name": "Greatshield of Artorias [Small Leather Shield]",
+                "sortId": "2665",
+                "originEquipWep": "1403010",
+                "originEquipWep1": "1403010",
+                "originEquipWep2": "1403010",
+                "originEquipWep3": "1403010",
+                "originEquipWep4": "1403010",
+                "originEquipWep5": "1403010",
+                "oldSortId": "2665"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Leather Shield]",
+            "differences": {
+                "ID": "1507500",
+                "Name": "Greatshield of Artorias [Leather Shield]",
+                "sortId": "2666",
+                "originEquipWep": "1408010",
+                "originEquipWep1": "1408010",
+                "originEquipWep2": "1408010",
+                "originEquipWep3": "1408010",
+                "originEquipWep4": "1408010",
+                "originEquipWep5": "1408010",
+                "oldSortId": "2666"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Target Shield]",
+            "differences": {
+                "ID": "1507600",
+                "Name": "Greatshield of Artorias [Target Shield]",
+                "sortId": "2667",
+                "originEquipWep": "1404010",
+                "originEquipWep1": "1404010",
+                "originEquipWep2": "1404010",
+                "originEquipWep3": "1404010",
+                "originEquipWep4": "1404010",
+                "originEquipWep5": "1404010",
+                "oldSortId": "2667"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Buckler]",
+            "differences": {
+                "ID": "1507700",
+                "Name": "Greatshield of Artorias [Buckler]",
+                "sortId": "2668",
+                "originEquipWep": "1405010",
+                "originEquipWep1": "1405010",
+                "originEquipWep2": "1405010",
+                "originEquipWep3": "1405010",
+                "originEquipWep4": "1405010",
+                "originEquipWep5": "1405010",
+                "oldSortId": "2668"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Cracked Round Shield]",
+            "differences": {
+                "ID": "1507800",
+                "Name": "Greatshield of Artorias [Cracked Round Shield]",
+                "sortId": "2669",
+                "originEquipWep": "1406010",
+                "originEquipWep1": "1406010",
+                "originEquipWep2": "1406010",
+                "originEquipWep3": "1406010",
+                "originEquipWep4": "1406010",
+                "originEquipWep5": "1406010",
+                "oldSortId": "2669"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Caduceus Round Shield]",
+            "differences": {
+                "ID": "1507900",
+                "Name": "Greatshield of Artorias [Caduceus Round Shield]",
+                "sortId": "2670",
+                "originEquipWep": "1410010",
+                "originEquipWep1": "1410010",
+                "originEquipWep2": "1410010",
+                "originEquipWep3": "1410010",
+                "originEquipWep4": "1410010",
+                "originEquipWep5": "1410010",
+                "oldSortId": "2670"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Heater Shield]",
+            "differences": {
+                "ID": "1508000",
+                "Name": "Greatshield of Artorias [Heater Shield]",
+                "sortId": "2671",
+                "originEquipWep": "1450010",
+                "originEquipWep1": "1450010",
+                "originEquipWep2": "1450010",
+                "originEquipWep3": "1450010",
+                "originEquipWep4": "1450010",
+                "originEquipWep5": "1450010",
+                "oldSortId": "2671"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Knight Shield]",
+            "differences": {
+                "ID": "1508100",
+                "Name": "Greatshield of Artorias [Knight Shield]",
+                "sortId": "2672",
+                "originEquipWep": "1451010",
+                "originEquipWep1": "1451010",
+                "originEquipWep2": "1451010",
+                "originEquipWep3": "1451010",
+                "originEquipWep4": "1451010",
+                "originEquipWep5": "1451010",
+                "oldSortId": "2672"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Tower Kite Shield]",
+            "differences": {
+                "ID": "1508200",
+                "Name": "Greatshield of Artorias [Tower Kite Shield]",
+                "sortId": "2673",
+                "originEquipWep": "1452010",
+                "originEquipWep1": "1452010",
+                "originEquipWep2": "1452010",
+                "originEquipWep3": "1452010",
+                "originEquipWep4": "1452010",
+                "originEquipWep5": "1452010",
+                "oldSortId": "2673"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Grass Crest Shield]",
+            "differences": {
+                "ID": "1508300",
+                "Name": "Greatshield of Artorias [Grass Crest Shield]",
+                "sortId": "2674",
+                "originEquipWep": "1453010",
+                "originEquipWep1": "1453010",
+                "originEquipWep2": "1453010",
+                "originEquipWep3": "1453010",
+                "originEquipWep4": "1453010",
+                "originEquipWep5": "1453010",
+                "oldSortId": "2674"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Hollow Soldier Shield]",
+            "differences": {
+                "ID": "1508400",
+                "Name": "Greatshield of Artorias [Hollow Soldier Shield]",
+                "sortId": "2675",
+                "originEquipWep": "1454010",
+                "originEquipWep1": "1454010",
+                "originEquipWep2": "1454010",
+                "originEquipWep3": "1454010",
+                "originEquipWep4": "1454010",
+                "originEquipWep5": "1454010",
+                "oldSortId": "2675"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Balder Shield]",
+            "differences": {
+                "ID": "1508500",
+                "Name": "Greatshield of Artorias [Balder Shield]",
+                "sortId": "2676",
+                "originEquipWep": "1455010",
+                "originEquipWep1": "1455010",
+                "originEquipWep2": "1455010",
+                "originEquipWep3": "1455010",
+                "originEquipWep4": "1455010",
+                "originEquipWep5": "1455010",
+                "oldSortId": "2676"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Warrior's Round Shield]",
+            "differences": {
+                "ID": "1508600",
+                "Name": "Greatshield of Artorias [Warrior's Round Shield]",
+                "sortId": "2677",
+                "originEquipWep": "1460010",
+                "originEquipWep1": "1460010",
+                "originEquipWep2": "1460010",
+                "originEquipWep3": "1460010",
+                "originEquipWep4": "1460010",
+                "originEquipWep5": "1460010",
+                "oldSortId": "2677"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Iron Round Shield]",
+            "differences": {
+                "ID": "1508700",
+                "Name": "Greatshield of Artorias [Iron Round Shield]",
+                "sortId": "2678",
+                "originEquipWep": "1461010",
+                "originEquipWep1": "1461010",
+                "originEquipWep2": "1461010",
+                "originEquipWep3": "1461010",
+                "originEquipWep4": "1461010",
+                "originEquipWep5": "1461010",
+                "oldSortId": "2678"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Spider Shield]",
+            "differences": {
+                "ID": "1508800",
+                "Name": "Greatshield of Artorias [Spider Shield]",
+                "sortId": "2679",
+                "originEquipWep": "1462010",
+                "originEquipWep1": "1462010",
+                "originEquipWep2": "1462010",
+                "originEquipWep3": "1462010",
+                "originEquipWep4": "1462010",
+                "originEquipWep5": "1462010",
+                "oldSortId": "2679"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Spiked Shield]",
+            "differences": {
+                "ID": "1508900",
+                "Name": "Greatshield of Artorias [Spiked Shield]",
+                "sortId": "2680",
+                "originEquipWep": "1470010",
+                "originEquipWep1": "1470010",
+                "originEquipWep2": "1470010",
+                "originEquipWep3": "1470010",
+                "originEquipWep4": "1470010",
+                "originEquipWep5": "1470010",
+                "oldSortId": "2680"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Pierce Shield]",
+            "differences": {
+                "ID": "1509000",
+                "Name": "Greatshield of Artorias [Pierce Shield]",
+                "sortId": "2681",
+                "originEquipWep": "1475010",
+                "originEquipWep1": "1475010",
+                "originEquipWep2": "1475010",
+                "originEquipWep3": "1475010",
+                "originEquipWep4": "1475010",
+                "originEquipWep5": "1475010",
+                "oldSortId": "2681"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Sunlight Shield]",
+            "differences": {
+                "ID": "1509100",
+                "Name": "Greatshield of Artorias [Sunlight Shield]",
+                "sortId": "2682",
+                "originEquipWep": "1472010",
+                "originEquipWep1": "1472010",
+                "originEquipWep2": "1472010",
+                "originEquipWep3": "1472010",
+                "originEquipWep4": "1472010",
+                "originEquipWep5": "1472010",
+                "oldSortId": "2682"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Red and White Round Shield",
+            "differences": {
+                "ID": "1509200",
+                "Name": "Greatshield of Artorias [Red and White Round Shield",
+                "sortId": "2683",
+                "originEquipWep": "1476010",
+                "originEquipWep1": "1476010",
+                "originEquipWep2": "1476010",
+                "originEquipWep3": "1476010",
+                "originEquipWep4": "1476010",
+                "originEquipWep5": "1476010",
+                "oldSortId": "2683"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Caduceus Kite Shield",
+            "differences": {
+                "ID": "1509300",
+                "Name": "Greatshield of Artorias [Caduceus Kite Shield",
+                "sortId": "2684",
+                "originEquipWep": "1477010",
+                "originEquipWep1": "1477010",
+                "originEquipWep2": "1477010",
+                "originEquipWep3": "1477010",
+                "originEquipWep4": "1477010",
+                "originEquipWep5": "1477010",
+                "oldSortId": "2684"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Gargoyle's Shield]",
+            "differences": {
+                "ID": "1509400",
+                "Name": "Greatshield of Artorias [Gargoyle's Shield]",
+                "sortId": "2685",
+                "originEquipWep": "1478010",
+                "originEquipWep1": "1478010",
+                "originEquipWep2": "1478010",
+                "originEquipWep3": "1478010",
+                "originEquipWep4": "1478010",
+                "originEquipWep5": "1478010",
+                "oldSortId": "2685"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Eagle Shield]",
+            "differences": {
+                "ID": "1509500",
+                "Name": "Greatshield of Artorias [Eagle Shield]",
+                "sortId": "2686",
+                "originEquipWep": "1500010",
+                "originEquipWep1": "1500010",
+                "originEquipWep2": "1500010",
+                "originEquipWep3": "1500010",
+                "originEquipWep4": "1500010",
+                "originEquipWep5": "1500010",
+                "oldSortId": "2686"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Tower Shield]",
+            "differences": {
+                "ID": "1509600",
+                "Name": "Greatshield of Artorias [Tower Shield]",
+                "sortId": "2687",
+                "originEquipWep": "1501010",
+                "originEquipWep1": "1501010",
+                "originEquipWep2": "1501010",
+                "originEquipWep3": "1501010",
+                "originEquipWep4": "1501010",
+                "originEquipWep5": "1501010",
+                "oldSortId": "2687"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Giant Shield]",
+            "differences": {
+                "ID": "1509700",
+                "Name": "Greatshield of Artorias [Giant Shield]",
+                "sortId": "2688",
+                "originEquipWep": "1502010",
+                "originEquipWep1": "1502010",
+                "originEquipWep2": "1502010",
+                "originEquipWep3": "1502010",
+                "originEquipWep4": "1502010",
+                "originEquipWep5": "1502010",
+                "oldSortId": "2688"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Bonewheel Shield]",
+            "differences": {
+                "ID": "1509800",
+                "Name": "Greatshield of Artorias [Bonewheel Shield]",
+                "sortId": "2689",
+                "originEquipWep": "1506010",
+                "originEquipWep1": "1506010",
+                "originEquipWep2": "1506010",
+                "originEquipWep3": "1506010",
+                "originEquipWep4": "1506010",
+                "originEquipWep5": "1506010",
+                "oldSortId": "2689"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Effigy Shield]",
+            "differences": {
+                "ID": "1509900",
+                "Name": "Greatshield of Artorias [Effigy Shield]",
+                "sortId": "2690",
+                "originEquipWep": "9000010",
+                "originEquipWep1": "9000010",
+                "originEquipWep2": "9000010",
+                "originEquipWep3": "9000010",
+                "originEquipWep4": "9000010",
+                "originEquipWep5": "9000010",
+                "oldSortId": "2690"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Sanctus]",
+            "differences": {
+                "ID": "1510000",
+                "Name": "Greatshield of Artorias [Sanctus]",
+                "sortId": "2691",
+                "originEquipWep": "9001010",
+                "originEquipWep1": "9001010",
+                "originEquipWep2": "9001010",
+                "originEquipWep3": "9001010",
+                "originEquipWep4": "9001010",
+                "originEquipWep5": "9001010",
+                "oldSortId": "2691"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Bloodshield]",
+            "differences": {
+                "ID": "1510100",
+                "Name": "Greatshield of Artorias [Bloodshield]",
+                "sortId": "2692",
+                "originEquipWep": "9002010",
+                "originEquipWep1": "9002010",
+                "originEquipWep2": "9002010",
+                "originEquipWep3": "9002010",
+                "originEquipWep4": "9002010",
+                "originEquipWep5": "9002010",
+                "oldSortId": "2692"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias [Black Iron Greatshield]",
+            "differences": {
+                "ID": "1510200",
+                "Name": "Greatshield of Artorias [Black Iron Greatshield]",
+                "sortId": "2693",
+                "originEquipWep": "9003010",
+                "originEquipWep1": "9003010",
+                "originEquipWep2": "9003010",
+                "originEquipWep3": "9003010",
+                "originEquipWep4": "9003010",
+                "originEquipWep5": "9003010",
+                "oldSortId": "2693"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias",
+            "differences": {
+                "ID": "1510300",
+                "Name": "Greatshield of Artorias",
+                "sortId": "2694",
+                "originEquipWep": "9004010",
+                "originEquipWep1": "9004010",
+                "originEquipWep2": "9004010",
+                "originEquipWep3": "9004010",
+                "originEquipWep4": "9004010",
+                "originEquipWep5": "9004010",
+                "oldSortId": "2694"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias",
+            "differences": {
+                "ID": "1510400",
+                "Name": "Greatshield of Artorias",
+                "sortId": "2695",
+                "originEquipWep": "9005010",
+                "originEquipWep1": "9005010",
+                "originEquipWep2": "9005010",
+                "originEquipWep3": "9005010",
+                "originEquipWep4": "9005010",
+                "originEquipWep5": "9005010",
+                "oldSortId": "2695"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias",
+            "differences": {
+                "ID": "1510500",
+                "Name": "Greatshield of Artorias",
+                "sortId": "2696",
+                "originEquipWep": "9006010",
+                "originEquipWep1": "9006010",
+                "originEquipWep2": "9006010",
+                "originEquipWep3": "9006010",
+                "originEquipWep4": "9006010",
+                "originEquipWep5": "9006010",
+                "oldSortId": "2696"
+            }
+        },
+        {
+            "name": "Greatshield of Artorias",
+            "differences": {
+                "ID": "1510600",
+                "Name": "Greatshield of Artorias",
+                "sortId": "2697",
+                "originEquipWep": "9007010",
+                "originEquipWep1": "9007010",
+                "originEquipWep2": "9007010",
+                "originEquipWep3": "9007010",
+                "originEquipWep4": "9007010",
+                "originEquipWep5": "9007010",
+                "oldSortId": "2697"
+            }
+        }
+    ]
+}

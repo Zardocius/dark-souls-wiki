@@ -1,0 +1,68 @@
+.category-container {
+    display: flex; /* Flexbox for horizontal alignment of categories */
+    flex-wrap: wrap; /* Allow categories to wrap to the next line if needed */
+    justify-content: space-around; /* Space around categories */
+    padding: 20px; /* Padding around the container itself */
+  }
+  
+  .weapon-category {
+    margin: 10px; /* Space between categories */
+    display: flex; /* Use flexbox for categories */
+    flex-direction: column; /* Stack category title above items */
+    align-items: center; /* Center category title and items */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for depth */
+    flex-grow: 1; /* Allow categories to grow and take up available space */
+    min-width: 250px; /* Set a minimum width to ensure items aren't too small */
+    max-width: 100%; /* Prevent categories from growing too large */
+  }
+  
+  .weapon-category h2 {
+    margin-bottom: 10px; /* Space between the category title and the weapon list */
+    text-align: center; /* Center the category text */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove default list styling (dots) */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Display list items in a row */
+    flex-wrap: wrap; /* Allow wrapping to the next line if needed */
+    justify-content: center; /* Center items horizontally */
+  }
+  
+  .weapon-item {
+    display: flex; /* Use flexbox for weapon items */
+    flex-direction: column; /* Stack image above the name */
+    align-items: center; /* Center items horizontally */
+    margin: 10px; /* Space around items */
+    transition: transform 0.3s ease; /* Smooth transition for hover effect */
+    text-align: center; /* Center text */
+    flex-basis: 120px; /* Allow the items to take up equal space */
+  }
+  
+  .weapon-item:hover {
+    transform: scale(1.05); /* Slightly scale up the item on hover */
+  }
+  
+  .weapon-link {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Inherit text color */
+    display: flex; /* Make the link a flex container for better alignment */
+    flex-direction: column; /* Stack image above the name */
+    align-items: center; /* Center items */
+  }
+  
+  .weapon-image {
+    width: 100px; /* Adjust the size of the weapon image */
+    height: 120px; /* Adjust the size of the weapon image */
+    transition: transform 0.3s ease; /* Smooth transition for image */
+  }
+  
+  .weapon-image:hover {
+    transform: scale(1.1); /* Slightly scale up the image on hover */
+  }
+  
+  .weapon-name {
+    margin-top: 5px; /* Space between image and text */
+    text-align: center; /* Ensure text is centered */
+  }
+  
