@@ -1,0 +1,1164 @@
+###ID 77
+
+###100000
+Dark Souls
+
+###100002###100003
+SAVE DATA
+
+###120000
+Level Up
+
+###120001
+Attune Magic
+
+###120010
+Purchase
+
+###120011
+Repair
+
+###120012
+Forge Weapons
+
+###120016
+Feed
+
+###120017
+List
+
+###120018
+Bottomless Box
+
+###120019
+Restore Humanity
+
+###120020
+Forge Armor
+
+###120021
+Modify Equipment
+
+###120022
+<?goodsNameId@108?>
+
+###120023
+<?goodsNameId@112?>
+
+###122000
+Required souls
+
+###122050
+Soul Value
+
+###130000
+PRESS START BUTTON
+
+###130001
+NEW GAME
+
+###130002
+LOAD GAME
+
+###130003
+⑬2011 NBGI ⑬2011 FromSoftware, Inc.
+
+###130004
+⑬2011 NAMCO BANDAI Games Inc.
+
+###130020
+Data List
+
+###130021
+Create Character
+
+###132010
+Male
+
+###132011
+Female
+
+###132020
+Warrior
+
+###132021
+Knight
+
+###132022
+Wanderer
+
+###132023
+Thief
+
+###132024
+Bandit
+
+###132025
+Hunter
+
+###132026
+Sorcerer
+
+###132027
+Pyromancer
+
+###132028
+Cleric
+
+###132029
+Deprived
+
+###132050
+None
+
+###132051
+Goddess's Blessing
+
+###132052
+Black Firebomb
+
+###132053
+Twin Humanities
+
+###132054
+Binoculars
+
+###132055
+Pendant
+
+###132056
+Master Key
+
+###132057
+Tiny Being's Ring
+
+###132058
+Old Witch's Ring
+
+###132080###133104###133704
+Customize
+
+###132100###132200
+Enter character name
+
+###132201###145002
+---
+
+###132310
+Male character
+Abilities not affected
+
+###132311
+Female character
+Abilities not affected
+
+###132320
+Fearless warrior.
+Weapon expert. High
+strength, dexterity.
+
+###132321
+Low-ranking knight.
+High HP, solid armor.
+Not easily toppled.
+
+###132322
+Aimless wanderer.
+Wields scimitar.
+High dexterity.
+
+###132323
+Guilt-ridden thief.
+High critical hits.
+Has Master Key.
+
+###132324
+Savage bandit.
+High strength. Wields
+heavy battle axe.
+
+###132325
+Bow-wielding hunter.
+OK at close-range
+but weak with magic.
+
+###132326
+Sorcerer of Vinheim
+Dragon School.
+Casts soul sorceries.
+
+###132327
+Swamp pyromancer.
+Casts fire spells and
+wields a hand axe.
+
+###132328
+Cleric on Pilgrimage
+Wields a mace and
+casts healing miracles.
+
+###132329
+Unclothed enigma.
+Only armed with club
+and old plank shield.
+
+###132350
+No sign of a gift
+
+###132351
+Divine holy water.
+Fully restores HP
+and status.
+
+###132352
+Explodes upon impact
+when thrown. More
+deadly than std bomb.
+
+###132353
+Tiny sprite called
+humanity. Sometimes
+found on carcasses.
+
+###132354
+Binoculars.
+Use to peer at
+faraway sights.
+
+###132355
+Trinket. No effect,
+but fond memories
+comfort travelers.
+
+###132356
+Opens any basic
+lock. Initial equip
+for thief.
+
+###132357
+Special tribal ring.
+HP recovers slowly
+while equipped.
+
+###132358
+Gift from a witch.
+Ancient ring with
+no obvious effect.
+
+###132380
+Standard physique
+
+###132381
+Slim physique
+
+###132382
+Very slim physique.
+Skin and bones.
+
+###132383
+Large physique.
+
+###132384
+Very large build.
+Serious presence.
+
+###132385
+Rippled physique,
+esp. upper body
+
+###132386
+Large physique,
+mostly lower body
+
+###132387
+Large head. Could
+be very intellectual.
+
+###132388
+Proportionately
+small head
+
+###132400###132410
+Very average
+commoner face
+
+###132401###132411
+Commonly seen
+face in the
+Fivefinger Delta
+
+###132402
+Handsome face of
+the refined.
+Common in Astora
+
+###132403###132413
+Intelligent, sharp
+lines, but scholarly
+looks invite insult
+
+###132404###132414
+Look common in
+Thorolund, known for
+its stalwart clerics
+
+###132405###132415
+Jovial features of
+Catarina, known for
+festivity and drink
+
+###132406###132416
+Ominous features
+associated with the
+Earl of Carim
+
+###132407###132417
+Thoughtful, mature
+face common in
+historical Zena
+
+###132408###132418
+Great Swamp heretics
+face prejudice for
+their atypical looks
+
+###132409###132419
+Face from a distant
+Eastern land of almond
+eyes and thin lips
+
+###132412
+Beautiful face of
+the refined.
+Common in Astora
+
+###132420###132430
+Cleanly shaved
+bald head
+
+###132421
+Rough warrior hair.
+Shows age.
+
+###132422
+Clipped short with
+a slight wave
+
+###132423
+Long hair pulled
+back
+
+###132424
+Long hair pulled
+back and bound
+
+###132425
+Natural long hair,
+accented by sweat
+
+###132426
+Neatly kept hair,
+common for youth
+
+###132427
+Neatly kept hair,
+slightly long
+
+###132428
+Sharply curled hair,
+cut short
+
+###132429
+Neatly trimmed,
+as the old nobility
+
+###132431
+Masculine hairstyle.
+Clipped short.
+
+###132432
+Wildly curled,
+short hair
+
+###132433
+Squarely chopped
+straight hair,
+with bangs
+
+###132434
+Squarely chopped
+straight hair,
+with bangs parted
+
+###132435
+Long hair pulled
+back and bound,
+with bangs
+
+###132436
+Long hair and
+bangs pulled back
+and bound
+
+###132437
+Long hair bound
+on both sides
+
+###132438
+Long hair,
+bound loosely
+
+###132439
+Long braided hair,
+as the old nobility
+
+###132440###132450
+Black hair/eyes.
+Basic color.
+
+###132441###132451
+Dark brown hair/eyes.
+Basic color.
+
+###132442###132452
+Light brown hair/eyes.
+Basic color.
+
+###132443###132453
+Dark red hair/eyes.
+Basic color.
+
+###132444###132454
+Dark blue hair/eyes.
+Common in Carim.
+
+###132445###132455
+Gray hair/eyes.
+Common in N. Catarina.
+
+###132446###132456
+Gold hair/eyes.
+Beloved by certain
+members of nobility.
+
+###132447###132457
+Silver hair/eyes.
+Considered antiquated
+in these times.
+
+###132448###132458
+Dark purple hair/eyes.
+Rare color of a
+near-extinct race.
+
+###132449###132459
+Burning red hair/eyes.
+Very rare color.
+
+###133000
+Brightness
+
+###133001
+Adjust brightness until flame
+
+###133002
+is visible and dragon invisible.
+
+###133100
+Physique
+
+###133101
+Face
+
+###133102###133800
+Hair
+
+###133103
+Color
+
+###133200###133250
+Average
+
+###133201###133251
+Slim
+
+###133202###133252
+Very Slim
+
+###133203###133253###136512###136812###136832###137022###137031###137322###137342###137402
+Large
+
+###133204###133254
+Very Large
+
+###133205###133255
+Large Upper Body
+
+###133206###133256
+Large Lower Body
+
+###133207###133257
+Top-heavy
+
+###133208###133258
+Tiny Head
+
+###133300###133350
+Commoner
+
+###133301###133351
+Delta Farmer
+
+###133302
+Astora Noble
+
+###133303###133353
+Dragon Scholar
+
+###133304###133354
+Thorolund Cleric
+
+###133305###133355
+Jubilant Catarina
+
+###133306###133356
+Dubious Carim
+
+###133307###133357
+Classic Zena
+
+###133308###133358
+Eerie Great Swamp
+
+###133309###133359
+Far East Traveler
+
+###133352
+Astora Royalty
+
+###133700
+Face Type
+
+###133701
+Random
+
+###133702
+Create Similar Face
+
+###133703
+Initialize
+
+###133711
+Same
+
+###133712
+Different
+
+###133720
+Maturity
+
+###133721
+Young
+
+###133722
+Old
+
+###133730
+Hormones
+
+###133731
+Masculine
+
+###133732
+Feminine
+
+###133740
+Features
+
+###133741
+Weak
+
+###133742
+Strong
+
+###133801###135208
+Hair Color
+
+###133802###135079###136141###136152###136162###136632###137501###137600
+Red
+
+###133803###136142###137601
+Green
+
+###133804###136122###137502###137602
+Blue
+
+###135030
+Central
+
+###135031
+Astora
+
+###135032
+Catarina
+
+###135033
+Carim
+
+###135070
+Black
+
+###135071
+Dark Brown
+
+###135072
+Light Brown
+
+###135073###137211
+Dark Red
+
+###135074###137221
+Dark Blue
+
+###135075###137212
+Gray
+
+###135076
+Gold
+
+###135077
+Silver
+
+###135078
+Dark Purple
+
+###135200
+Entire
+
+###135201###136012
+Forehead
+
+###135202
+Eyebrow
+
+###135203###135270
+Eyes
+
+###135204###136011
+Nose
+
+###135205###135310###136940
+Cheeks
+
+###135206###135331
+Mouth
+
+###135207###135351
+Jaw
+
+###135210
+Balance
+
+###135211
+Color Tone
+
+###135230
+Brow/Forehead
+
+###135250
+Brow Ridge
+
+###135251
+Eyebrows
+
+###135271
+Eye Area
+
+###135290
+Nose Ridge
+
+###135291
+Nostrils
+
+###135330
+Lips
+
+###135332###137210###137220
+Lipstick
+
+###135350
+Chin
+
+###135352
+Beard
+
+###136000
+Nose Length
+
+###136001###136041###136061###136202###136262###136531###136821###137141###137361###137411
+Wide
+
+###136002###136042###136062###136201###136261###136532###136822###137142###137362###137412
+Narrow
+
+###136010
+Nose/Forehead Size
+
+###136020
+Face Aspect Ratio
+
+###136021
+Horizontal
+
+###136022
+Vertical
+
+###136030
+Face Asperity
+
+###136031###136221###136242###136252###136742###136932###137041###137101
+Convex
+
+###136032###136222###136241###136251###136741###136931###137042###137102
+Concave
+
+###136040
+Vertical Spacing
+
+###136050
+Parts Inclination
+
+###136051###136502###136722###136762###136802###137111###137122###137131
+Up
+
+###136052###136501###136721###136761###136801###137112###137121###137132
+Down
+
+###136060
+Horizontal Spacing
+
+###136100###136110###136120###136130###136140
+Skin Color
+
+###136101###137201
+Blush
+
+###136102###136151###136631###137202
+Pale
+
+###136111###136601###136611###136622###136642###136652###136952
+Dark
+
+###136112###136602###136612###136621###136641###136651###136951
+Light
+
+###136121
+Orange
+
+###136131
+Purple
+
+###136132
+Yellow
+
+###136150
+Nose Bridge Color
+
+###136160
+Cheek Color
+
+###136161
+White
+
+###136200
+Brow Width
+
+###136210
+Brow Depth
+
+###136211###137331
+Slight
+
+###136212###137332
+Deep
+
+###136220
+Brow Asperity
+
+###136230
+Nose Bridge Height
+
+###136231###136302###136311###136322###136411###136731###136751###136901###136911###136921###137351###137422
+Low
+
+###136232###136301###136312###136321###136412###136732###136752###136902###136912###136922###137352###137421
+High
+
+###136240
+Nose Bridge Asperity 1
+
+###136250
+Nose Bridge Asperity 2
+
+###136260
+Nose Bridge Width
+
+###136300
+Brow Ridge Height
+
+###136310
+Inner Brow Ridge
+
+###136320
+Outer Brow Ridge
+
+###136400
+Eyebrow Density
+
+###136401###136442###136452###136461###137512###137522###137532###137542###137552
+Dense
+
+###136402###136441###136451###136462###137511###137521###137531###137541###137551
+Sparse
+
+###136410
+Eyebrow Position
+
+###136420
+Eyebrow Thickness 1
+
+###136421###136432###137052###137432
+Thick
+
+###136422###136431###136942###137051###137431
+Thin
+
+###136430
+Eyebrow Thickness 2
+
+###136440
+Lower Brow
+
+###136450
+Outer Brow
+
+###136460
+Upper Brow
+
+###136500
+Eye Position
+
+###136510
+Eye Size
+
+###136511###136811###136831###137021###137032###137321###137341###137401
+Small
+
+###136520
+Eye Slant
+
+###136521
+In
+
+###136522
+Out
+
+###136530
+Eye Spacing
+
+###136540
+Pupil Red
+
+###136550
+Pupil Green
+
+###136560
+Pupil Blue
+
+###136600
+Eye Socket Color
+
+###136610
+Eye Socket Brightness
+
+###136620
+Eyelid Brightness
+
+###136630
+Eyelid Color
+
+###136640
+Eyeliner
+
+###136650
+Eye Shadow
+
+###136700
+Nose Ridge Depth
+
+###136701###136711###137151###137312
+Short
+
+###136702###136712###137152###137311
+Long
+
+###136710
+Nose Ridge Length
+
+###136720
+Nose Position
+
+###136730
+Nose Tip Height
+
+###136740
+Nose Asperity
+
+###136750
+Nose Placement
+
+###136760
+Nose Slant
+
+###136800
+Nostril Slant
+
+###136810
+Nostril Size
+
+###136820
+Nostril Width
+
+###136830
+Nasal Size
+
+###136900
+Cheekbone Height
+
+###136910
+Cheekbone Depth
+
+###136920
+Cheekbone Width
+
+###136930
+Cheekbone Asperity
+
+###136941
+Fat
+
+###136950
+Nasolabial Fold
+
+###137000
+Lip Shape
+
+###137001
+Open
+
+###137002
+Purse
+
+###137010
+Mouth Expression
+
+###137011
+Happy
+
+###137012
+Sad
+
+###137020
+Lip Fullness
+
+###137030
+Lip Size
+
+###137040
+Lip Asperity
+
+###137050
+Lip Thickness
+
+###137100
+Mouth Asperity
+
+###137110
+Mouth Slant
+
+###137120
+Occlusion
+
+###137130
+Mouth Position
+
+###137140
+Mouth Width
+
+###137150
+Mouth-Chin Distance
+
+###137200
+Lip Color
+
+###137222
+Bright Red
+
+###137300
+Chin Tip Position
+
+###137301
+Front
+
+###137302
+Back
+
+###137310
+Chin Length
+
+###137320
+Chin Protrusion
+
+###137330
+Chin Depth
+
+###137340
+Chin Size
+
+###137350
+Chin Height
+
+###137360
+Chin Width
+
+###137400
+Jaw Protrusion
+
+###137410
+Jaw Width
+
+###137420
+Lower Jaw
+
+###137430
+Jaw Contour
+
+###137500
+Whole Beard Color
+
+###137510
+Whole Beard
+
+###137520
+Sideburns
+
+###137530
+Around Mouth
+
+###137540
+Goatee
+
+###137550
+Moustache
+
+###140000
+Multiplayer Victories
+
+###141000
+Indict this invader?
+
+###141001
+Time left
+
+###141002
+seconds
+
+###141003
+Indictment
+
+###143010
+Message
+
+###143011
+＋ Rating
+
+###143012
+- Rating
+
+###143013
+Cancel
+
+###143014
+Rate this message
+
+###143015
+Rating
+
+###143020
+Rate message
+
+###143021
+View your messages
+
+###143022
+Write message
+
+###144000
+Messages
+
+###145000
+Rank
+
+###145001
+<?platmsg@10006?>
+
+###145003
+Retrieving data...
+
+###145010
+Category 1
+
+###145011
+Category 2
+
+###145012
+Category 3
+
+###145013
+Category 4
+
+###145014
+Category 5
+
+###145015
+Category 6
+
+###145016
+Category 7
+
+###145017
+Category 8
+
+###145018
+Category 9
+
+###145019
+Category 10
+
+###145100
+Severity of Sin
+
+###145101
+Contribution
+
+###150000
+Held
+
+###150001
+Storage
+
+###150100
+<?categoryChangeL?>
+
+###150101
+<?categoryChangeR?>

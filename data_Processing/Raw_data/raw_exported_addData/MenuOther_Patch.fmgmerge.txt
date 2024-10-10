@@ -1,0 +1,43 @@
+###ID 123
+
+###100010
+DARK SOULS Savedata (NA)
+
+###100011
+DARK SOULS Savedata (EU)
+
+###100012
+DARK SOULS Savedata (UK)
+
+###100013
+DARK SOULS Savedata (ASIA)
+
+###120024###120025###120026###120027###120028
+Duel Legends
+
+###120029###120030###120031###120032###120033
+Team Legends
+
+###120034###120035###120036###120037###120038
+Deathmatch Legends
+
+###130003
+DARK SOULSTM PREPARE TO DIE EDITION & ⑬2012 NAMCO BANDAI Games Inc. ⑬2011-2012 FromSoftware, Inc.
+
+###130010
+PC settings
+
+###130011
+Key settings
+
+###130012
+Quit Dark Souls
+
+###130013
+Steam
+
+###135208
+Hair Color
+
+###145102
+Streak

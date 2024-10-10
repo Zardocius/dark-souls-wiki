@@ -1,0 +1,909 @@
+###ID 92
+
+###1
+OK
+
+###2
+CANCEL
+
+###3
+YES
+
+###4
+NO
+
+###5
+Accept
+
+###6
+Do Not Accept
+
+###18300
+<?selectUD?>:Select <?conclusion?>:Details <?commando?>:Gamer card <?cancel?>:Close <?categoryChangeL?>:Previous 100 <?categoryChangeR?>:Next 100 <?shortCutL?>:Show top <?shortCutR?>:Your Grades
+
+###18310
+<?selectUD?>:Select <?selectLR?>Change level tier <?conclusion?>:Details <?commando?>:Steam User Info <?cancel?>:Close <?categoryChangeL?>:Above 100 <?categoryChangeR?>:Below 100 <?shortCutL?>:Show leaders <?shortCutR?>:Your rank
+
+###41000
+This will delete selected save data.
+Is this OK?
+
+###45000
+This game uses an autosave function.
+Do not turn off the power or quit
+the game while the save indicator
+is seen at upper-right of screen.
+
+###45001
+Save file version differs from game version.
+Quit game, sign in to Steam,
+and download update.
+
+###45100###45103
+Insufficient free space on hard drive.
+At least 9 MB is required to play
+Dark Souls.
+
+###45110
+SAVE DATA was corrupted.
+
+###45111
+SAVE DATA was corrupted.
+Would you like to create new SAVE DATA?
+The current SAVE DATA will be overwritten.
+
+Select OK to overwrite SAVE DATA.
+Select CANCEL to reload current SAVE DATA.
+
+###45120
+Failed to load SAVE DATA.
+
+###45121
+Failed to load SAVE DATA
+Would you like to create new SAVE DATA?
+The current SAVE DATA will be overwritten.
+
+Press the CANCEL button to reload SAVE DATA
+
+###45122
+Last time, the game may not have been
+closed using Quit Game in the System menu.
+To quit the game, always select Quit Game
+from the System menu.
+
+Failing to quit the game properly can result
+in losing some progress.
+
+###45200###45201
+Failed to save SAVE DATA
+
+###45250
+Failed to install Trophy Set
+Quit the game and reload DARK SOULS
+to reinstall
+
+###45400
+You can't create any more characters.
+Delete an existing character and create a new one?
+
+*You can create up to 10 characters.
+
+###47000
+Checking number of files
+
+###47100
+Loading save data.
+Do not turn off the power
+or quit the game.
+
+###47101
+Checking save data.
+Do not turn off the power
+or quit the game.
+
+###47102
+Loading...
+Do not turn off the power
+or quit the game.
+
+###47110###47111
+Updating save data.
+Do not turn off the power
+or quit the game.
+
+###47112
+Creating save data.
+Do not turn off the power
+or quit the game.
+
+###47113
+Deleting character...
+Do not turn off the power
+or quit the game.
+
+###48000
+Discard changes and return
+
+###50001
+Acquiring Ranking Data
+
+###50002
+Ranking Data cannot be acquired in Offline Mode
+
+###50501
+Game will start in offline mode.
+
+###50502
+You are not connected to Steam. You are not able to
+access online mode.
+
+###50503
+Your Steam account
+is restricted by a parental lock, preventing
+access to online play.
+
+###50504
+You are not signed in
+You must sign in to access Steam multiplayer.
+Would you like to sign in?
+
+###50505
+A network error has occurred.
+Cannot use Steam multiplayer.
+
+###50506
+Steam multiplayer cannot be used with this
+version.
+
+###50507
+You are not signed in. Do you still wish
+to start the game? You will only be able
+to play offline.
+
+###50520
+Service not available at this time
+You will only be able to play offline
+
+###50521
+Service not yet available
+You will only be able to play offline
+
+###50522
+Currently undergoing maintenance
+You will only be able to play offline
+
+###50523
+No response from server
+You will only be able to play offline
+
+###50524###50525
+Cannot use server at this time
+You will only be able to play offline
+
+###51100
+You were signed out
+Returning to Main Menu
+
+###65000
+You are not signed in and will be unable
+to save the game. Is this OK? If you
+continue playing without signing in, your
+progress will not be saved.
+
+###65001
+You are not signed in. Game will start
+in single-player mode. Data will not
+be saved.
+
+###65002
+Save file version differs from game version.
+Sign in to Steam and
+acquire newest version of the game.
+Closing game.
+
+###65003
+Your multiplayer privileges are blocked.
+Unable to access Steam multiplayer.
+
+###65004
+You are in a party session.
+Online Mode is inaccessible.
+
+###65005
+A sign-in change has occurred...
+
+###65100
+You cannot use online play because
+you are not connected to Steam.
+
+###65101
+This gamer profile does not have
+permission to access Steam multiplayer.
+
+###65200
+No storage device is selected. Game cannot
+be saved. Is this OK? If you continue
+playing, your progress will not be saved,
+and you will be unable to use online play.
+
+###65201
+Not enough free space on the hard drive.
+At least <?dataSize?> MB of free space
+is required to save data.
+
+###65202###65203
+Failed to load save data.
+The data may be corrupted.
+
+Do you wish to create new save data?
+This will overwrite your old save data.
+
+Select "No" to attempt to load again.
+
+###65205
+No storage device selected. Failed to load save data.
+
+###65206
+Unable to access selected storage device.
+Failed to create save data.
+
+###65207
+Unable to access selected storage device. 
+Failed to load the selected character.
+
+###65208
+Cannot create a new character because 
+a sign-in change has occurred...
+
+###65209
+Cannot load an existing character
+because a sign-in change has occurred...
+
+###65210
+You have signed out of the gamer profile.
+Returning to the Title Screen. 
+
+###65211
+Failed to create save data due to
+disconnection from Steam.
+
+###65212###65213
+Failed to load save data due to disconnection
+from Steam.
+
+###65300
+You cannot create any more profiles.
+Do you wish to erase existing profile data
+and create a new profile?
+
+###65301
+No save data found.
+Create save data?
+- Note -
+This game supports autosave. Data will
+be overwritten automatically to the
+hard drive.
+
+###65400
+Add this character to rankings?
+If a previous character has already been
+added, its rankings will be overwritten.
+
+###65401
+Remove this character from rankings?
+
+###65410
+Downloading advanced data
+
+###65411
+Failed to download advanced data
+
+*Advanced data is only tallied for players near top
+
+###65412
+Acquiring your data
+
+###65413
+Your data was not found
+
+###70000
+Save failed.
+Unable to locate hard drive.
+Returning to title screen...
+
+###20001000
+Disconnected from master of world.
+Returning to your world.
+
+###20001001
+Network connection has become unstable.
+Leaving session.
+
+###20001002###20001005
+You have been disconnected from Steam. Exiting online mode...
+
+###20001003
+Failed to create session.
+
+###20001004
+Failed to join session.
+
+###20001010
+A sign-in change has occurred.
+Exiting game session...
+
+###20001011
+Cannot continue game because you are in party chat.
+Returning to title screen...
+
+###20001015
+P2P connection has been lost
+Returning to Main Menu
+
+###30001000
+Dark Souls ROM not detected.
+Insert Dark Souls ROM into drive.
+
+###30001010
+This game requires DirectX 9.
+Please install DirectX 9 to play.
+
+###30001020
+This computer is running an older version of Windows.
+To play this game, install version xxx or higher.
+
+###30002000
+An error occurred while reading game data.
+Closing game.
+
+###30003100
+PC settings
+
+###30003101
+Display
+
+###30003102
+Resolution
+
+###30003103
+Vertical sync
+
+###30003104
+Full screen
+
+###30003105
+FPS display
+
+###30003106
+Quality
+
+###30003107
+Anti-Aliasing
+
+###30003108
+Motion Blur
+
+###30003109
+Frequency
+
+###30003130
+<?pcenvValue01?>
+
+###30003131
+<?pcenvValue02?>
+
+###30003132
+<?pcenvValue03?>
+
+###30003133
+<?pcenvValue04?>
+
+###30003134
+<?pcenvValue05?>
+
+###30003135
+<?pcenvValue06?>
+
+###30003136
+<?pcenvValue07?>
+
+###30003200
+ON
+
+###30003201
+OFF
+
+###30003202
+Hz
+
+###30003203
+x
+
+###30003204
+bit
+
+###30003205
+<?pcenvInitValue01?>
+
+###30004090
+Key settings
+
+###30004100
+Run (forward)
+
+###30004101
+Run (backward)
+
+###30004102
+Run (right)
+
+###30004103
+Run (left)
+
+###30004104
+Walk (forward)
+
+###30004105
+Walk (backward)
+
+###30004106
+Walk (right)
+
+###30004107
+Walk (left)
+
+###30004110
+Move forward
+
+###30004111
+Move backward
+
+###30004112
+Move right
+
+###30004113
+Move left
+
+###30004114
+Lock target on or off/Reset camera
+
+###30004120
+Switch right weapon
+
+###30004121
+Switch left weapon
+
+###30004122
+Switch item
+
+###30004123
+Switch magic
+
+###30004130
+Right weapon action (attack)
+
+###30004131
+Right weapon action (heavy attack)
+
+###30004132
+Left weapon action (block)
+
+###30004133
+Left weapon action (parry)
+
+###30004140
+Use item
+
+###30004141
+Dash/Roll/Backstep
+
+###30004142
+Action/Gesture
+
+###30004143
+Toggle one-hand/two-hand grip
+
+###30004150
+Open Start Menu
+
+###30004151
+Open Gesture Menu
+
+###30004152
+Open Steam Overlay
+
+###30004160
+Select (up)
+
+###30004161
+Select (down)
+
+###30004162
+Select (left)
+
+###30004163
+Select (right)
+
+###30004164
+Confirm
+
+###30004165
+Cancel
+
+###30004166
+Menu function 1: switch status, etc.
+
+###30004167
+Menu func. 2: toggle disp./remove equip., etc.
+
+###30004168
+Switch menu (R)
+
+###30004169
+Switch menu (L)
+
+###30004200
+Movement
+
+###30004201
+Camera
+
+###30004202
+Switch equipment
+
+###30004203
+Actions
+
+###30004204
+Menu display
+
+###30004205
+Menu control
+
+###40000000
+<?keyCategory?>
+
+###40000010
+<?keyAction1?>
+
+###40000011
+<?keyAction2?>
+
+###40000012
+<?keyAction3?>
+
+###40000013
+<?keyAction4?>
+
+###40000014
+<?keyAction5?>
+
+###40000015
+<?keyAction6?>
+
+###40000016
+<?keyAction7?>
+
+###40000017
+<?keyAction8?>
+
+###40000018
+<?keyAction9?>
+
+###40000019
+<?keyAction10?>
+
+###40000020
+<?key1?>
+
+###40000021
+<?key2?>
+
+###40000022
+<?key3?>
+
+###40000023
+<?key4?>
+
+###40000024
+<?key5?>
+
+###40000025
+<?key6?>
+
+###40000026
+<?key7?>
+
+###40000027
+<?key8?>
+
+###40000028
+<?key9?>
+
+###40000029
+<?key10?>
+
+###40001001
+Left click
+
+###40001002
+Right click
+
+###40001004
+L.
+
+###40001005
+R.
+
+###40001006
+(Num.Key)
+
+###40001007
++
+
+###40001008
+Backspace
+
+###40001009
+Tab
+
+###40001013
+Enter
+
+###40001016
+Shift
+
+###40001017
+Ctrl
+
+###40001018
+Alt
+
+###40001020
+Caps Lock
+
+###40001027
+Esc
+
+###40001032
+Space
+
+###40001033
+Page Up
+
+###40001034
+Page Down
+
+###40001035
+End
+
+###40001036
+Home
+
+###40001037
+←
+
+###40001038
+↑
+
+###40001039
+→
+
+###40001040
+↓
+
+###40001045
+Insert
+
+###40001046
+Delete
+
+###40001048
+0
+
+###40001049
+1
+
+###40001050
+2
+
+###40001051
+3
+
+###40001052
+4
+
+###40001053
+5
+
+###40001054
+6
+
+###40001055
+7
+
+###40001056
+8
+
+###40001057
+9
+
+###40001065
+A
+
+###40001066
+B
+
+###40001067
+C
+
+###40001068
+D
+
+###40001069
+E
+
+###40001070
+F
+
+###40001071
+G
+
+###40001072
+H
+
+###40001073
+I
+
+###40001074
+J
+
+###40001075
+K
+
+###40001076
+L
+
+###40001077
+M
+
+###40001078
+N
+
+###40001079
+O
+
+###40001080
+P
+
+###40001081
+Q
+
+###40001082
+R
+
+###40001083
+S
+
+###40001084
+T
+
+###40001085
+U
+
+###40001086
+V
+
+###40001087
+W
+
+###40001088
+X
+
+###40001089
+Y
+
+###40001090
+Z
+
+###40001101
+Shift + left click
+
+###40001102
+Shift + right click
+
+###40001165
+Shift+A
+
+###40001166
+Shift+B
+
+###40001167
+Shift+C
+
+###40001168
+Shift+D
+
+###40001169
+Shift+E
+
+###40001170
+Shift+F
+
+###40001171
+Shift+G
+
+###40001172
+Shift+H
+
+###40001173
+Shift+I
+
+###40001174
+Shift+J
+
+###40001175
+Shift+K
+
+###40001176
+Shift+L
+
+###40001177
+Shift+M
+
+###40001178
+Shift+N
+
+###40001179
+Shift+O
+
+###40001180
+Shift+P
+
+###40001181
+Shift+Q
+
+###40001182
+Shift+R
+
+###40001183
+Shift+S
+
+###40001184
+Shift+T
+
+###40001185
+Shift+U
+
+###40001186
+Shift+V
+
+###40001187
+Shift+W
+
+###40001188
+Shift+X
+
+###40001189
+Shift+Y
+
+###40001190
+Shift+Z
+
+###40002001
+L.Ctrl+W
+
+###40002002
+L.Ctrl+S
+
+###40002003
+L.Ctrl+D
+
+###40002004
+L.Ctrl+A
+
+###40002005
+L.Shift
+
+###40002006
+L.Alt

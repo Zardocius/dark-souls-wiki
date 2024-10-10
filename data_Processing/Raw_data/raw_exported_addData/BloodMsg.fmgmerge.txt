@@ -1,0 +1,1227 @@
+###ID 2
+
+###20
+****
+
+###1000
+Try sliding down
+
+###1001
+Weakness: Head
+
+###1002
+Imminent shortcut...
+
+###1003###10011
+I can't take this...
+
+###1100
+Imminent drake…
+
+###1101###1102###5000
+Prisoner ahead
+
+###1103###3002
+Blacksmith ahead
+
+###1104
+Jumping off ahead
+
+###1200###4001###5101###7001
+Path ahead
+
+###1201###10010
+Here!
+
+###1202
+Imminent merchant…
+
+###2000
+Follow the shining flowers
+
+###2001
+Are the trees moving?
+
+###2002
+Ember ahead
+
+###3000
+Try lightning
+
+###3001
+Try divine
+
+###3003###1000028
+Liar
+
+###3100
+Try Light
+
+###4000
+Illusory wall ahead
+
+###4002
+bug?
+
+###4100
+Safe zone ahead
+
+###5100
+Try Projectile
+
+###6000
+Need curses
+
+###6001
+Need covenant
+
+###6002
+Imminent jumping off…
+
+###6003
+Ring ahead
+
+###7000
+Try resignation
+
+###7002
+Imminent fall…
+
+###8100
+Get away!
+
+###8101
+Get your Shield!
+
+###8102
+<?categoryChangeR?> while falling : Plunging Attack
+
+###8103
+Good job. Go straight ahead.
+
+###8110###1004021
+Exchange
+
+###9000
+Right stick : Camera Controls
+
+###9001
+<?startMenuSwitch?> : Open Menu
+Arms Icon : Change Equipment
+
+###9002
+<?categoryChangeR?> : Attack
+
+###9003
+<?shortCutR?> : Strong Attack
+
+###9004
+Left stick + Hold <?cancel?> : Dash
+
+###9005
+<?cancel?> : Backstep
+Left stick + <?cancel?> : Roll
+
+###9006
+<?spinReset?> : Target Lock/Release
+
+###9007
+<?categoryChangeL?> with left shield equipped : Guard
+
+###9008
+<?commando?> : Use Item
+
+###9009
+Rest at bonfire : Replenish Estus Flask
+
+###9010
+<?shortCutL?> : Parry (Repel an enemy attack)
+After parrying, <?categoryChangeR?> : Riposte
+
+###9011
+<?selectLR?> : Change Weapons
+<?selectD?> : Toggle Items
+
+###9012
+With Catalyst equipped <?categoryChangeR?> : Use Sorcery
+<?selectU?> : Change Sorcery
+
+###9013
+With Sorcery Flame equipped <?categoryChangeR?> : Use Pyromancy
+<?selectU?> : Change Pyromancy
+
+###9014
+With Bow equipped <?categoryChangeR?> : Use Bow (Shoot)
+<?shortCutL?><?shortCutR?> : Change Arrows
+
+###9015
+With Bow pulled <?categoryChangeL?> : Precision Fire Mode/Release
+In Precision Fire Mode <?selectUD?> : Zoom
+
+###9016
+<?categoryChangeL?> with left weapon equipped : Left Weapon Attack
+
+###9018
+<?categoryChangeR?> : Attack
+<?shortCutR?> : Strong Attack
+
+###9019
+Rest at bonfire : Recover HP
+
+###9024
+With Talisman equipped <?categoryChangeR?> : Use Miracle
+<?selectU?> : Toggle Miracles
+
+###9025
+Resting at bonfire revives enemies
+
+###9026
+Left stick + <?categoryChangeR?> : Kick
+Left stick + <?shortCutR?> : Jump Attack
+
+###9027
+<?categoryChangeR?> behind an enemy : Critical Hit
+
+###9028
+<?viewChange?> : Wield Right Weapon Two-Handed
+
+###9029
+<?slectMenuSwitch?> : Gesture
+
+###10000
+<?bmsg?> ahead <?upr?>
+
+###10001
+Be wary of <?bmsg?> <?low?>
+
+###10002
+Try <?bmsg?> <?low?>
+
+###10003
+Need <?bmsg?> <?low?>
+
+###10004
+Imminent <?bmsg?>... <?low?>
+
+###10005
+Weakness: <?bmsg?> <?upr?>
+
+###10006
+<?bmsg?><?upr?>
+
+###10007
+<?bmsg?>?<?upr?>
+
+###10008
+Good luck
+
+###10009
+I did it!
+
+###10012
+Praise the Sun!
+
+###30000###1000000
+Characters
+
+###30001
+enemy
+
+###30002
+tough enemy
+
+###30003###1000003
+Hollow
+
+###30004
+soldier
+
+###30005
+knight
+
+###30006
+sniper
+
+###30007
+caster
+
+###30008
+giant
+
+###30009
+skeleton
+
+###30010
+ghost
+
+###30011
+bug
+
+###30012
+poison bug
+
+###30013
+lizard
+
+###30014
+drake
+
+###30015
+flier
+
+###30016
+golem
+
+###30017
+statue
+
+###30018
+monster
+
+###30019
+strange creature
+
+###30020
+demon
+
+###30021###1000021
+Darkwraith
+
+###30022
+dragon
+
+###30023
+boss
+
+###30024
+saint
+
+###30025
+wretch
+
+###30026
+charmer
+
+###30027
+miscreant
+
+###30028
+liar
+
+###30029
+fatty
+
+###30030
+beanpole
+
+###30031
+merchant
+
+###30032
+blacksmith
+
+###30033
+master
+
+###30034
+prisoner
+
+###31000###1001000
+Objects
+
+###31001
+bonfire
+
+###31002
+fog wall
+
+###31003
+humanity
+
+###31004
+lever
+
+###31005
+switch
+
+###31006
+key
+
+###31007
+treasure
+
+###31008
+chest
+
+###31009
+weapon
+
+###31010
+shield
+
+###31011
+projectile
+
+###31012
+armour
+
+###31013
+item
+
+###31014
+ring
+
+###31015
+sorcery scroll
+
+###31016
+pyromancy scroll
+
+###31017
+miracle scroll
+
+###31018
+ember
+
+###31019
+trap
+
+###31020
+covenant
+
+###31021
+amazing key
+
+###31022
+amazing treasure
+
+###31023
+amazing chest
+
+###31024
+amazing weapon
+
+###31025
+amazing armour
+
+###31026
+amazing item
+
+###31027
+amazing ring
+
+###31028
+amazing sorcery scroll
+
+###31029
+amazing pyromancy scroll
+
+###31030
+amazing miracle scroll
+
+###31031
+amazing ember
+
+###31032
+amazing trap
+
+###32000###1002000
+Techniques
+
+###32001
+close-ranged battle
+
+###32002
+ranged battle
+
+###32003
+eliminating one at a time
+
+###32004
+luring it out
+
+###32005
+beating to a pulp
+
+###32006
+lying in ambush
+
+###32007
+stealth
+
+###32008
+mimicry
+
+###32009
+pincer attack
+
+###32010
+hitting them in one swoop
+
+###32011
+fleeing
+
+###32012
+charging
+
+###32013
+stabbing in the back
+
+###32014
+sweeping attack
+
+###32015
+shield breaking
+
+###32016
+head shots
+
+###32017
+sorcery
+
+###32018
+pyromancy
+
+###32019
+miracles
+
+###32020
+jumping off
+
+###32021
+sliding down
+
+###32022
+dashing through
+
+###33000###1003000
+Actions
+
+###33001
+rolling
+
+###33002
+backstepping
+
+###33003
+jumping
+
+###33004
+attacking
+
+###33005
+holding with both hands
+
+###33006
+kicking
+
+###33007
+a plunging attack
+
+###33008
+blocking
+
+###33009
+parrying
+
+###33010
+locking-on
+
+###34000###1004000
+Geography
+
+###34001
+path
+
+###34002
+hidden path
+
+###34003###34006
+shortcut
+
+###34004
+detour
+
+###34005
+illusory wall
+
+###34007
+dead end
+
+###34008
+swamp
+
+###34009
+lava
+
+###34010
+forest
+
+###34011
+cave
+
+###34012
+labyrinth
+
+###34013
+safe zone
+
+###34014
+danger zone
+
+###34015
+sniper spot
+
+###34016
+bright spot
+
+###34017
+dark spot
+
+###34018
+open area
+
+###34019
+tight spot
+
+###34020
+hiding place
+
+###34021
+exchange
+
+###34022
+gorgeous view
+
+###34023
+fall
+
+###35000###1005000
+Orientation
+
+###35001###1005001
+Front
+
+###35002###1005002###1005009###1006004
+Back
+
+###35003###1005003
+Left
+
+###35004###1005004
+Right
+
+###35005###1005005
+Up
+
+###35006###1005006
+Down
+
+###35007
+feet
+
+###35008###36001
+head
+
+###35009###36004
+back
+
+###36000###1006000
+Body parts
+
+###36002
+neck
+
+###36003
+stomach
+
+###36005
+arm
+
+###36006
+leg
+
+###36007
+heel
+
+###36008
+rear
+
+###36009
+tail
+
+###36010
+wings
+
+###36011
+anywhere
+
+###37000###1007000
+Attribute
+
+###37001
+strike
+
+###37002
+thrust
+
+###37003
+slash
+
+###37004
+magic
+
+###37005
+fire
+
+###37006
+lightning
+
+###37007
+critical hits
+
+###37008
+bleeding
+
+###37009
+poison
+
+###37010
+strong poison
+
+###37011
+curses
+
+###37012
+divine
+
+###37013
+occult
+
+###37014
+crystal
+
+###38000###1008000
+Concepts
+
+###38001
+chance
+
+###38002
+hint
+
+###38003
+secret
+
+###38004
+happiness
+
+###38005
+sorrow
+
+###38006
+life
+
+###38007
+death
+
+###38008###1008008
+Undead
+
+###38009
+elation
+
+###38010
+grief
+
+###38011
+hope
+
+###38012
+despair
+
+###38013###1008013
+Light
+
+###38014###1008014
+Dark
+
+###38015
+bravery
+
+###38016
+resignation
+
+###38017
+comfort
+
+###38018
+tears
+
+###1000001
+Enemy
+
+###1000002
+Tough enemy
+
+###1000004
+Soldier
+
+###1000005
+Knight
+
+###1000006
+Sniper
+
+###1000007
+Caster
+
+###1000008
+Giant
+
+###1000009
+Skeleton
+
+###1000010
+Ghost
+
+###1000011
+Bug
+
+###1000012
+Poison bug
+
+###1000013
+Lizard
+
+###1000014
+Drake
+
+###1000015
+Flier
+
+###1000016
+Golem
+
+###1000017
+Statue
+
+###1000018
+Monster
+
+###1000019
+Strange creature
+
+###1000020
+Demon
+
+###1000022
+Dragon
+
+###1000023
+Boss
+
+###1000024
+Saint
+
+###1000025
+Wretch
+
+###1000026
+Charmer
+
+###1000027
+Miscreant
+
+###1000029
+Fatty
+
+###1000030
+Beanpole
+
+###1000031
+Merchant
+
+###1000032
+Blacksmith
+
+###1000033
+Master
+
+###1000034
+Prisoner
+
+###1001001
+Bonfire
+
+###1001002
+Fog wall
+
+###1001003
+Humanity
+
+###1001004
+Lever
+
+###1001005
+Switch
+
+###1001006
+Key
+
+###1001007
+Treasure
+
+###1001008
+Chest
+
+###1001009
+Weapon
+
+###1001010
+Shield
+
+###1001011
+Projectile
+
+###1001012
+Armour
+
+###1001013
+Item
+
+###1001014
+Ring
+
+###1001015
+Sorcery scroll
+
+###1001016
+Pyromancy scroll
+
+###1001017
+Miracle scroll
+
+###1001018
+Ember
+
+###1001019
+Trap
+
+###1001020
+Covenant
+
+###1001021
+Amazing key
+
+###1001022
+Amazing treasure
+
+###1001023
+Amazing chest
+
+###1001024
+Amazing weapon
+
+###1001025
+Amazing armour
+
+###1001026
+Amazing item
+
+###1001027
+Amazing ring
+
+###1001028
+Amazing sorcery scroll
+
+###1001029
+Amazing pyromancy scroll
+
+###1001030
+Amazing miracle scroll
+
+###1001031
+Amazing ember
+
+###1001032
+Amazing trap
+
+###1002001
+Close-ranged battle
+
+###1002002
+Ranged battle
+
+###1002003
+Eliminating one at a time
+
+###1002004
+Luring it out
+
+###1002005
+Beating to a pulp
+
+###1002006
+Lying in ambush
+
+###1002007
+Stealth
+
+###1002008
+Mimicry
+
+###1002009
+Pincer attack
+
+###1002010
+Hitting them in one swoop
+
+###1002011
+Fleeing
+
+###1002012
+Charging
+
+###1002013
+Stabbing in the back
+
+###1002014
+Sweeping attack
+
+###1002015
+Shield breaking
+
+###1002016
+Head shots
+
+###1002017
+Sorcery
+
+###1002018
+Pyromancy
+
+###1002019
+Miracles
+
+###1002020
+Jumping off
+
+###1002021
+Sliding down
+
+###1002022
+Dashing through
+
+###1003001
+Rolling
+
+###1003002
+Backstepping
+
+###1003003
+Jumping
+
+###1003004
+Attacking
+
+###1003005
+Holding with both hands
+
+###1003006
+Kicking
+
+###1003007
+A plunging attack
+
+###1003008
+Blocking
+
+###1003009
+Parrying
+
+###1003010
+Locking-on
+
+###1004001
+Path
+
+###1004002
+Hidden path
+
+###1004003###1004006
+Shortcut
+
+###1004004
+Detour
+
+###1004005
+Illusory wall
+
+###1004007
+Dead end
+
+###1004008
+Swamp
+
+###1004009
+Lava
+
+###1004010
+Forest
+
+###1004011
+Cave
+
+###1004012
+Labyrinth
+
+###1004013
+Safe zone
+
+###1004014
+Danger zone
+
+###1004015
+Sniper spot
+
+###1004016
+Bright spot
+
+###1004017
+Dark spot
+
+###1004018
+Open area
+
+###1004019
+Tight spot
+
+###1004020
+Hiding place
+
+###1004022
+Gorgeous view
+
+###1004023
+Fall
+
+###1005007
+Feet
+
+###1005008###1006001
+Head
+
+###1006002
+Neck
+
+###1006003
+Stomach
+
+###1006005
+Arm
+
+###1006006
+Leg
+
+###1006007
+Heel
+
+###1006008
+Rear
+
+###1006009
+Tail
+
+###1006010
+Wings
+
+###1006011
+Anywhere
+
+###1007001
+Strike
+
+###1007002
+Thrust
+
+###1007003
+Slash
+
+###1007004
+Magic
+
+###1007005
+Fire
+
+###1007006
+Lightning
+
+###1007007
+Critical hits
+
+###1007008
+Bleeding
+
+###1007009
+Poison
+
+###1007010
+Strong poison
+
+###1007011
+Curses
+
+###1007012
+Divine
+
+###1007013
+Occult
+
+###1007014
+Crystal
+
+###1008001
+Chance
+
+###1008002
+Hint
+
+###1008003
+Secret
+
+###1008004
+Happiness
+
+###1008005
+Sorrow
+
+###1008006
+Life
+
+###1008007
+Death
+
+###1008009
+Elation
+
+###1008010
+Grief
+
+###1008011
+Hope
+
+###1008012
+Despair
+
+###1008015
+Bravery
+
+###1008016
+Resignation
+
+###1008017
+Comfort
+
+###1008018
+Tears

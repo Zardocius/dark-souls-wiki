@@ -1,0 +1,18 @@
+###ID 109
+
+###116
+
+This magic crown-shaped ring was granted
+to Princess Dusk of Oolacile upon her birth.
+
+The ringstone allows its wearer to cast
+additional sorceries, but at the cost of
+one-half of HP.
+
+###150
+A ring enchanted by the orange eye
+of Kalameet, the bringer of calamity.
+Doubles damage received by its wearer.
+
+A useless ring befitting of no finger.
+Best left unknown, or at least well hidden.

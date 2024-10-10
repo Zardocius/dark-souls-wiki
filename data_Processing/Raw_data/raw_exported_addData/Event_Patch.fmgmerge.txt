@@ -1,0 +1,477 @@
+###ID 101
+
+###141200
+Gravelord Servant is spreading disasters of the Eyes of Death
+
+###141210
+Disasters are gone after the defeat of the Gravelord Servant
+
+###150000
+Waiting for competitors. Remain put.
+
+###150001
+Waiting for arrivals
+
+###150010
+Summoning competitor
+
+###150011
+<?joinName?> was summoned
+
+###150013
+<?leaveName?> has returned home
+
+###150020###150021
+You are being summoned to a Battle of Stoicism
+
+###150022
+You were summoned by <?hostName?>
+
+###150023
+You were defeated. Try again.
+
+###150030###150040
+Battle of Stoicism diffused
+
+###150031
+You left Battle of Stoicism
+
+###150050
+You win. One win added to streak.
+
+###150055
+Draw. Does not break win streak.
+
+###150060
+You lose. Streak reset.
+
+###150070
+<?coliseumDeadNameA?> was defeated
+
+###150071
+<?coliseumDeadNameB?> was defeated
+
+###150072
+<?coliseumDeadNameC?> was defeated
+
+###150073
+<?coliseumDeadNameD?> was defeated
+
+###150100
+One minute remaining
+
+###150105
+2 min. remaining
+
+###150110
+30 seconds remaining
+
+###150115
+1 min. remaining
+
+###150200
+Begin battle. 3-minute timer.
+
+###150205
+Begin battle. Time: 6 min.
+
+###150210
+Begin battle. 90-second timer.
+
+###150215
+Begin battle. Time: 3 min.
+
+###150300
+Battle complete
+
+###150400
+Battle of Stoicism is only available online.
+
+###150401
+Plaque of Legends is only available online.
+
+###10010130
+View Plaque of Legends
+
+###10010131
+Duel: Ruins
+
+###10010132
+Duel: Dais
+
+###10010133
+Team: Ruins
+
+###10010134
+Team: Dais
+
+###10010135
+Deathmatch: Ruins
+
+###10010136
+Deathmatch: Dais
+
+###10010137
+Retire to gazebo
+
+###10010691
+"DLC Artorias of the Abyss" was deleted.
+You were returned to Firelink Shrine,
+without any items obtained in DLC.
+
+###10010810
+Use <?gdsparam@709?>?
+
+###10010811
+Use <?gdsparam@710?>?
+
+###10010812
+Use <?gdsparam@711?>?
+
+###10010884
+You used <?gdsparam@2022?>
+
+###10020080
+Give <?gdsparam@710?>?
+
+###15000400
+Duel Legends
+
+###15000405
+Team Legends
+
+###15000410
+Deathmatch Legends
+
+###20000436
+Leave Battle of Stoicism?
+
+###20000437
+A competitor left Battle of Stoicism
+
+###20001017
+<?sysmsg@20001017?>
+
+###20001100
+Dark spirit Marvelous Chester has invaded!
+
+###20001101
+Dark spirit Marvelous Chester has returned home.
+
+###20001105
+Dark spirit Marvelous Chester was vanquished
+
+###20001110
+Phantom Great Grey Wolf Sif summoned
+
+###20001111
+Phantom Great Grey Wolf Sif was summoned
+
+###20001115
+Phantom Great Grey Wolf Sif was vanquished
+
+###59999999
+Streak: 100+
+
+###60000000
+Streak: 0
+
+###60000001
+Streak: 1
+
+###60000002
+Streak: 2
+
+###60000003
+Streak: 3
+
+###60000004
+Streak: 4
+
+###60000005
+Streak: 5
+
+###60000006
+Streak: 6
+
+###60000007
+Streak: 7
+
+###60000008
+Streak: 8
+
+###60000009
+Streak: 9
+
+###60000010
+Streak: 10
+
+###60000011
+Streak: 11
+
+###60000012
+Streak: 12
+
+###60000013
+Streak: 13
+
+###60000014
+Streak: 14
+
+###60000015
+Streak: 15
+
+###60000016
+Streak: 16
+
+###60000017
+Streak: 17
+
+###60000018
+Streak: 18
+
+###60000019
+Streak: 19
+
+###60000020
+Streak: 20
+
+###60000021
+Streak: 21
+
+###60000022
+Streak: 22
+
+###60000023
+Streak: 23
+
+###60000024
+Streak: 24
+
+###60000025
+Streak: 25
+
+###60000026
+Streak: 26
+
+###60000027
+Streak: 27
+
+###60000028
+Streak: 28
+
+###60000029
+Streak: 29
+
+###60000030
+Streak: 30
+
+###60000031
+Streak: 31
+
+###60000032
+Streak: 32
+
+###60000033
+Streak: 33
+
+###60000034
+Streak: 34
+
+###60000035
+Streak: 35
+
+###60000036
+Streak: 36
+
+###60000037
+Streak: 37
+
+###60000038
+Streak: 38
+
+###60000039
+Streak: 39
+
+###60000040
+Streak: 40
+
+###60000041
+Streak: 41
+
+###60000042
+Streak: 42
+
+###60000043
+Streak: 43
+
+###60000044
+Streak: 44
+
+###60000045
+Streak: 45
+
+###60000046
+Streak: 46
+
+###60000047
+Streak: 47
+
+###60000048
+Streak: 48
+
+###60000049
+Streak: 49
+
+###60000050
+Streak: 50
+
+###60000051
+Streak: 51
+
+###60000052
+Streak: 52
+
+###60000053
+Streak: 53
+
+###60000054
+Streak: 54
+
+###60000055
+Streak: 55
+
+###60000056
+Streak: 56
+
+###60000057
+Streak: 57
+
+###60000058
+Streak: 58
+
+###60000059
+Streak: 59
+
+###60000060
+Streak: 60
+
+###60000061
+Streak: 61
+
+###60000062
+Streak: 62
+
+###60000063
+Streak: 63
+
+###60000064
+Streak: 64
+
+###60000065
+Streak: 65
+
+###60000066
+Streak: 66
+
+###60000067
+Streak: 67
+
+###60000068
+Streak: 68
+
+###60000069
+Streak: 69
+
+###60000070
+Streak: 70
+
+###60000071
+Streak: 71
+
+###60000072
+Streak: 72
+
+###60000073
+Streak: 73
+
+###60000074
+Streak: 74
+
+###60000075
+Streak: 75
+
+###60000076
+Streak: 76
+
+###60000077
+Streak: 77
+
+###60000078
+Streak: 78
+
+###60000079
+Streak: 79
+
+###60000080
+Streak: 80
+
+###60000081
+Streak: 81
+
+###60000082
+Streak: 82
+
+###60000083
+Streak: 83
+
+###60000084
+Streak: 84
+
+###60000085
+Streak: 85
+
+###60000086
+Streak: 86
+
+###60000087
+Streak: 87
+
+###60000088
+Streak: 88
+
+###60000089
+Streak: 89
+
+###60000090
+Streak: 90
+
+###60000091
+Streak: 91
+
+###60000092
+Streak: 92
+
+###60000093
+Streak: 93
+
+###60000094
+Streak: 94
+
+###60000095
+Streak: 95
+
+###60000096
+Streak: 96
+
+###60000097
+Streak: 97
+
+###60000098
+Streak: 98
+
+###60000099
+Streak: 99
+
+###60000100
+Streak: 100

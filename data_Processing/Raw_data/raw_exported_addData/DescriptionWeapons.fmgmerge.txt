@@ -1,0 +1,2015 @@
+###ID 25
+
+###100000###100100###100200###100300###100400###100500###100600###100700###100800###100900
+Weapon type: Dagger
+Attack type: Slash/Thrust
+
+This standard small dagger has only a modest
+attack but can be jabbed in rapid succession,
+and is effective in critical hits such as
+after a parry or when stabbing in the back.
+With both slash and thrust attacks, this
+dagger is useful in various situations.
+
+###101000###101100###101200###101300###101400###101500###101600###101700###101800###101900
+Weapon type: Dagger
+Attack type: Slash/Thrust
+
+This dagger is useful after parrying and is
+normally equipped in the left hand.
+
+A favorite of the knights of Carim, who are
+famous for fighting without a shield.
+
+###102000
+Weapon type: Dagger
+Attack type: Slash/Thrust
+
+The ghosts of New Londo clutch this wickedly
+sharp dagger with their bony hands and make
+mincemeat of the living.
+
+One of the cursed weapons which can inflict
+damage upon ghosts.
+
+###103000###103100###103200###103300###103400###103500###103600###103700###103800###103900
+Weapon type: Dagger
+Attack type: Slash
+
+This wide single-edged shortsword is
+the favorite of lowly thieves and bandits.
+
+Primarily a slicing weapon, but highly
+effective when used for critical hits,
+such as after parrying or from behind.
+
+###104000
+Weapon type: Dagger
+Attack type: Slash
+
+This sword, one of the rare dragon weapons,
+came from the tail of Priscilla, the Dragon
+Crossbreed in the painted world of Ariamis.
+Possessing the power of lifehunt, it dances
+about when wielded, in a fashion reminiscent
+of the white-robed painting guardians.
+
+###200000###200100###200200###200300###200400###200500###200600###200700###200800###200900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+This small straight sword is widely used,
+to an extent only matched by the longsword.
+
+An accessible sword which inflicts consistent
+regular damage and high slash damage, making
+it applicable to a variety of situations.
+
+###201000###201100###201200###201300###201400###201500###201600###201700###201800###201900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+Widely-used standard straight sword, only
+matched in ubiquity by the shortsword.
+
+An accessible sword which inflicts consistent
+regular damage and high slash damage, making
+it applicable to a variety of situations.
+
+###202000###202100###202200###202300###202400###202500###202600###202700###202800###202900
+Weapon type: Straight Sword
+Attack type: Regular
+
+The wide blade of this straight sword
+emphasizes slicing and has no thrust attack.
+
+The horizontal sweeping motion makes this
+sword effective against multiple enemies.
+
+###203000###203100###203200###203300###203400###203500###203600###203700###203800###203900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+Half of the blade of this straight sword is
+broken off.
+
+Only the completely Hollowed would even
+consider using this as a weapon.
+
+###204000###204100###204200###204300###204400###204500###204600###204700###204800###204900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+The knights of the ancient kingdom of Balder
+wielded these rock-solid, long swords which
+are excellent for thrust attacks.
+Balder was the home of Knight King Rendal,
+but the kingdom was reduced to ruins after
+a widespread outbreak of Undead.
+
+###205000
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+A fully crystallized straight sword.
+How such a weapon was created
+is entirely unknown.
+The crystallization boosts its attack, but
+makes the blade brittle. The sword cannot be
+used for long, as it cannot be repaired.
+
+###206000###206100###206200###206300###206400###206500###206600###206700###206800###206900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+This standard longsword, belonging to Solaire
+of Astora, is of high quality, is well-
+forged, and has been kept in good repair.
+
+Easy-to-use and dependable, but unlikely to
+live up to its grandiose name.
+
+###207000
+Weapon type: Straight Sword
+Attack type: Thrust
+
+The choice weapon of the infamous Darkwraith
+Kirk, also known as the Knight of Thorns for
+the gnarly spikes on his favorite weapon.
+
+This frightful sword deals only thrust
+attacks, and causes heavy bleeding.
+
+###207100###207200###207300###207400###207500###207600###207700###207800###207900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+The choice weapon of the infamous Darkwraith
+Kirk, also known as the Knight of Thorns for
+the gnarly spikes on his favorite weapon.
+
+The sharp spikes of this ghastly weapon
+cause heavy bleeding.
+
+###208000
+Weapon type: Straight Sword
+Attack type: Regular
+
+The silver knights of Anor Londo guard the
+city using this beautifully slender weapon.
+
+Its chain attacks, in which the wielder takes
+great advancing steps and makes use of his
+bodyweight, are deadly even in single hits.
+
+###209000
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+Straight sword of an unknown knight,
+likely one of Astora's superiors.
+
+High-quality weapon with a powerful blessing.
+
+###209100###209200###209300###209400###209500###209600###209700###209800###209900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+Straight sword of an unknown knight,
+likely a high-ranked knight of Astora.
+
+High-quality weapon with a powerful blessing.
+
+###210000###210100###210200###210300###210400###210500###210600###210700###210800###210900
+Weapon type: Straight Sword
+Attack type: Regular
+
+The sword of the knights of the Four Kings of
+New Londo. Its blade is wide and thick, and
+it is wielded in an unusual manner.
+When the Four Kings were seduced by evil,
+their knights became Darkwraiths, servants
+of the Dark who wielded these darkswords.
+
+###211000
+Weapon type: Straight Sword
+Attack type: Regular
+
+This sword, one of the rare dragon weapons,
+is formed by a drake's tail. Drakes are
+seen as undeveloped imitators of the dragons,
+but in they are likely their distant kin.
+The sword is imbued with a mystical power,
+to be released when held with both hands.
+
+###212000###212100###212200###212300###212400###212500###212600###212700###212800###212900
+Weapon type: Straight Sword
+Attack type: Regular/Thrust
+
+The hilt of this lost sword was found
+discarded in the Undead Asylum.
+
+Only slightly better than one's bare hands,
+and not recommended for extensive use.
+Be certain to find a replacement quickly.
+
+###300000###300100###300200###300300###300400###300500###300600###300700###300800###300900
+Weapon type: Greatsword
+Attack type: Regular
+
+This standard greatsword is normally wielded
+with two hands due to its great weight.
+
+Usually swung in large arcs and effective
+against multiple foes. Far from ideal when
+fighting in tight quarters.
+
+###301000###301100###301200###301300###301400###301500###301600###301700###301800###301900
+Weapon type: Greatsword
+Attack type: Regular/Thrust
+
+This larger type of greatsword is normally
+wielded with two hands due to its weight.
+
+This highly flexible greatsword can be used
+to attack in swings or thrusts.
+
+###302000###302100###302200###302300###302400###302500###302600###302700###302800###302900
+Weapon type: Greatsword
+Attack type: Regular
+
+This single-bladed blood-stained greatsword
+is the choice weapon of the slithering 
+serpent men of Sen's Fortress.
+
+An ordinary human will have great difficulty
+swinging this heavy beast effectively.
+
+###303000###303100###303200###303300###303400###303500###303600###303700###303800###303900
+Weapon type: Greatsword
+Attack type: Slash
+
+This greatsword with an undulating blade is
+the choice weapon of the slithering serpent
+men of Sen's Fortress.
+
+This weapon is designed to flay the skin and
+causes heavy bleeding.
+
+###304000
+Weapon type: Greatsword
+Attack type: Regular
+
+A fully crystallized straight sword.
+How such a weapon was created
+is entirely unknown.
+The crystallization boosts its attack, but
+makes the blade brittle. The sword cannot be
+used for long, as it cannot be repaired.
+
+###306000
+Weapon type: Greatsword
+Attack type: Regular
+
+The stone knights who guard the Darkroot
+Garden wield this moss-covered greatsword.
+
+The same magic which created the stone
+knights is imbued in the sword. Unleash this
+power by wielding the sword with two hands.
+
+###307000###307100
+Weapon type: Greatsword
+Attack type: Regular/Thrust
+
+Sword born from the soul of the great grey
+wolf Sif, guardian of the grave of the
+Abysswalker Knight Artorias.
+
+Sir Artorias hunted the Darkwraiths, and his
+sword strikes harder against dark servants.
+
+###308000###314000###314100###314200###314300###314400###314500###314600###314700###314800###314900###315000###315100###315200###315300###315400###315500###315600###315700
+Weapon type: Greatsword
+Attack type: Regular
+
+Greatsword born from the soul of Gwyn,
+Lord of Cinder. As bearer of the ultimate
+soul, Gwyn wielded the bolts of the sun,
+but before linking the fire, divided that
+power amongst his children, and set off with
+only this greatsword as his companion.
+
+###309000
+Weapon type: Greatsword
+Attack type: Regular
+
+This sword, one of the rare dragon weapons,
+came from the tail of Seath the Scaleless,
+the pale white dragon who betrayed his own.
+Seath is the grandfather of sorcery, and this
+sword is imbued with his magic, which shall
+be unleashed as a wave of moonlight.
+
+###310000
+Weapon type: Greatsword
+Attack type: Regular/Thrust
+
+Greatsword of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+
+###311000###311100###311200###311300###311400###311500###311600###311700###311800###311900###312000###312100###312200###312300###312400###312500###312600###312700
+Weapon type: Greatsword
+Attack type: Regular/Thrust
+
+Sword born from the soul of the great grey
+wolf Sif, guardian of the grave of the
+Abysswalker Knight Artorias.
+The sword can damage ghosts, as it was
+cursed when Artorias joined a covenant
+with the creatures of the Abyss.
+
+###350000###350100###350200###350300###350400###350500###350600###350700###350800###350900
+Weapon type: Ultra Greatsword
+Attack type: Regular
+
+One of the gigantic straight greatswords.
+
+As the name suggests, the Zweihander is held
+with two hands, but its wielder must still be
+inhumanly strong. It is this great weight
+that sends foes flying when hit solidly.
+
+###351000###351100###351200###351300###351400###351500###351600###351700###351800###351900
+Weapon type: Ultra Greatsword
+Attack type: Regular/Thrust
+
+One of the gigantic straight greatswords.
+
+Very few have what it takes to wield this
+incredibly heavy, damage-dealing monster.
+A favorite of the Knights Berenike, known for
+their heavy armor, and Black Iron Tarkus.
+
+###352000###352100###352200###352300###352400###352500###352600###352700###352800###352900
+Weapon type: Ultra Greatsword
+Attack type: Regular
+
+The lesser Capra demons use these greatswords
+in pairs. The blade is cast iron and hooked.
+
+The sword is imbued with no particular magic,
+but for those who have the strength, its
+great weight will smash foes mercilessly.
+
+###354000
+Weapon type: Ultra Greatsword
+Attack type: Regular
+
+This sword, one of the rare dragon weapons,
+came from the tail of the stone dragon of
+Ash Lake, descendant of the ancient dragons.
+
+Its great mystical power will be unleashed
+when wielded with two hands.
+
+###355000
+Weapon type: Ultra Greatsword
+Attack type: Regular/Thrust
+
+Greatsword of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+
+###400000###400100###400200###400300###400400###400500###400600###400700###400800###400900
+Weapon type: Curved Sword
+Attack type: Slash
+
+Small curved sword. Each hit inflicts little
+damage, but fluid chain attacks are deadly.
+
+The scimitar's sharp slashing attacks are
+effective against cloth and flesh, but not
+against metal armor or tough scales.
+
+###401000###401100###401200###401300###401400###401500###401600###401700###401800###401900
+Weapon type: Curved Sword
+Attack type: Slash
+
+Small curved sword. Each hit inflicts little
+damage, but fluid chain attacks are deadly.
+
+The falchion's sharp slashing attacks are
+effective against cloth and flesh, but not
+against metal armor or tough scales.
+
+###402000###402100###402200###402300###402400###402500###402600###402700###402800###402900
+Weapon type: Curved Sword
+Attack type: Slash
+
+Curved sword with sharply curved blade.
+
+Created by Arstor, Earl of Carim.
+Requires great skill to wield, but evades
+shield defense to sneak in damage.
+
+###403000
+Weapon type: Curved Sword
+Attack type: Slash/Thrust
+
+Jagged blade wielded by New Londo ghosts.
+Violent thrust attack.
+
+One of the cursed weapons.
+Inflicts damage to ghosts.
+
+###405000###405100###405200###405300###405400###405500###405600###405700###405800###405900
+Weapon type: Curved Sword
+Attack type: Slash
+
+Curved sword of Anor Londo painting guards.
+Unique shape with flat tip.
+The guardians, who strike down those who
+dare threaten the paintings, attack in a
+continuous, circular dancing motion,
+a technique passed down through generations.
+
+###406000###406100###406200###406300###406400###406500
+Weapon type: Curved Sword
+Attack type: Slash
+
+A curved sword born from the soul of
+Quelaag, daughter of the Witch of Izalith,
+who was transformed into a chaos demon.
+Like Quelaag's body, the sword features
+shells, spikes, and a coating of chaos fire.
+Power affected by wielder's humanity.
+
+###450000###450100###450200###450300###450400###450500###450600###450700
+Weapon type: Curved Greatsword
+Attack type: Slash
+
+A curved greatsword used in a
+mysterious ancient rite.
+
+Imbued with a frightful occult energy
+which restores HP with each hit.
+
+###450800###450900
+Weapon type: Curved Greatsword
+Attack type: Slash
+
+A curved greatsword used in a
+mysterious ancient rite.
+
+Imbued with a frightful heretical energy,
+this sword absorbs HP upon a foe's death.
+
+###451000###451100###451200###451300###451400###451500###451600###451700###451800###451900
+Weapon type: Curved Greatsword
+Attack type: Slash
+
+Giant curved sword forged using special
+methods in an Eastern land.
+This unparalleled weapon cuts like a Katana
+but is heavier than a Nata machete.
+Requires extreme strength, dexterity,
+and stamina to wield.
+
+###453000
+Weapon type: Curved Greatsword
+Attack type: Slash/Thrust
+
+Sword wielded only by servants of
+Gravelord Nito, the first of the dead.
+Crafted from the bones of the fallen.
+
+The miasma of death exudes from the sword,
+a veritable toxin to any living being.
+
+###454000
+King's Greatswords
+
+###500000###500100###500200###500300###500400###500500###500600###500700###500800###500900
+Weapon type: Katana
+Attack type: Slash/Thrust
+
+Katana forged in an Eastern land.
+Known for its brisk slashing motions.
+
+The Uchigatana cuts beautifully and causes
+bleeding, but its blade is easily nicked.
+
+###501000###501100###501200###501300###501400###501500###501600###501700###501800###501900
+Weapon type: Katana
+Attack type: Slash/Thrust
+
+Katana forged in an Eastern land.
+Very unusual specimen with a long blade.
+
+The blade is extremely long,
+but as a result, quite easily broken.
+
+###502000###502100###502200###502300###502400###502500###502600###502700###502800###502900
+Weapon type: Katana
+Attack type: Slash
+
+Katana forged in an Eastern land.
+The Katana is drawn from the scabbard at
+lightning speed, using an Iaijutsu technique.
+
+Iaijutsu allows the wielder to charge
+forward to swiftly cut down distant foes.
+
+###503000###503100###503200
+Weapon type: Katana
+Attack type: Slash
+
+A curved sword born from the soul of
+Quelaag, daughter of the Witch of Izalith,
+who was transformed into a chaos demon.
+This blade inherits only the chaotic nature
+of Quelaag, and has a unique speckled design.
+Blade wielder erodes along with opponents.
+
+###600000###600100###600200###600300###600400###600500###600600###600700###600800###600900
+Weapon type: Thrusting Sword
+Attack type: Thrust
+
+Standard small thrusting sword.
+Unsharpened but pointed solid
+shaft can pierce tough armor.
+
+Can be thrust using the weight of one's body,
+and is very effective for critical attacks.
+
+###601000###601100###601200###601300###601400###601500###601600###601700###601800###601900
+Weapon type: Thrusting Sword
+Attack type: Thrust
+
+Standard thrusting sword. Regular one-handed
+attack can be delivered with shield held up.
+Can parry with use of left hand.
+
+Thrusting attacks pierce and are effective
+against foes with hard exteriors, but the
+wielder is left open to damage after a swing.
+
+###602000###602100###602200###602300###602400###602500###602600###602700###602800###602900
+Weapon type: Thrusting Sword
+Attack type: Regular/Thrust
+
+The largest of the thrusting swords.
+Can pierce an armored knight in one thrust.
+
+The blade is also sharp,
+allowing slicing as well.
+
+###603000
+Weapon type: Thrusting Sword
+Attack type: Regular/Thrust
+
+A symbolic, powerful thrusting sword used
+by the Pardoner serving Velka,
+Goddess of Sin.
+It is no mere symbol to be sure; the Pardoner
+is an inhuman swordsman, and wields this
+enchanted blade with special sword technique.
+
+###604000###604100###604200###604300###604400###604500###604600###604700###604800###604900
+Weapon type: Thrusting Sword
+Attack type: Thrust
+
+A rapier with intricate decorations. Chosen
+weapon of the infamous Undead Prince Ricard.
+Ricard's exploits are told in a monomyth.
+He was born into royalty, but wandered the
+lands in a fateful ill-conceived journey.
+He became Undead, and disappeared up North.
+
+###700000###700100###700200###700300###700400###700500###700600###700700###700800###700900
+Weapon type: Axe
+Attack type: Regular
+
+Small hand axe. Appears identical to a
+lumberjack's tool, but has an ideal weight
+and strength, and is easy to handle.
+One wrong swing leaves the wielder wide
+open, so timing and proximity to the enemy
+must be judged carefully.
+
+###701000###701100###701200###701300###701400###701500###701600###701700###701800###701900
+Weapon type: Axe
+Attack type: Regular
+
+Standard battle axe. Inflicts regular damage,
+making it effective in various situations.
+Powerful attack due to its weight, but one
+wrong swing leaves the wielder wide open,
+so timing and proximity to the enemy must
+be judged carefully.
+
+###702000###702100###702200###702300###702400###702500###702600###702700###702800###702900
+Weapon type: Axe
+Attack type: Regular
+
+Well-used old bronze battle axe with a
+long hilt and a crescent-shaped blade.
+
+One of the blessed weapons of the Way of
+White. The Crescent Axe is bequeathed to
+cleric warriors who have proven their faith.
+
+###703000###703100###703200###703300###703400###703500###703600###703700###703800###703900
+Weapon type: Axe
+Attack type: Regular
+
+Giant butcher knife wielded by the Undead
+man-eating cook lurking in the Depths.
+More a tool for subduing and preparing live
+catches than an actual weapon. Those who
+have faced this deadly blade have a deeper
+sense of how helpless prey must feel.
+
+###704000###704100###704200###704300###704400###704500###704600
+Weapon type: Axe
+Attack type: Regular
+
+An axe born from the soul of the Iron Golem,
+guardian of Sen's Fortress who repelled
+countless heroes who sought Anor Londo.
+Its powerful one-handed attack imitates the
+golem's blade of wind, but the heavy iron
+blade makes it quite unwieldy.
+
+###705000
+Weapon type: Axe
+Attack type: Regular
+
+Sliced tail of the gargoyle guarding the
+Bell of Awakening in the Undead Church
+or patrolling in Anor Londo.
+
+Can be used as a bronze battle axe.
+Bends dramatically during large attacks,
+owing to its nature as a tail.
+
+###705100###705200###705300###705400###705500###705600###705700###705800###705900
+Weapon type: Axe
+Attack type: Regular
+
+Sliced tail of the gargoyle guarding the
+Bell of Awakening in the Undead Church.
+
+Can be used as a bronze battle axe.
+Bends dramatically during large attacks,
+owing to its nature as a tail.
+
+###750000###750100###750200###750300###750400###750500###750600###750700###750800###750900
+Weapon type: Greataxe
+Attack type: Regular
+
+This greataxe is a veritable mass of iron.
+Its weight sends foes flying, but makes it
+difficult to handle without inhuman strength.
+
+Any miss makes one very vulnerable, as each
+swing requires the full force of the body.
+
+###751000###751100###751200###751300###751400###751500###751600###751700###751800###751900
+Weapon type: Greataxe
+Attack type: Regular
+
+Carved from the bones of fellow demons.
+Wielded by the lesser Taurus demons.
+
+This axe is imbued with no special power,
+but can merrily beat foes to a pulp,
+providing you have the strength to wield it.
+
+###752000
+Weapon type: Greataxe
+Attack type: Regular
+
+This axe, one of the rare dragon weapons,
+is formed by the tail of the Gaping Dragon,
+a distant, deformed descendant of the
+everlasting dragons.
+The axe is imbued with a mystical power,
+to be released when held with both hands.
+
+###753000
+Weapon type: Greataxe
+Attack type: Regular
+
+Greataxe of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+
+###800000###800100###800200###800300###800400###800500###800600###800700###800800###800900
+Weapon type: Hammer
+Attack type: Strike
+
+A simple wooden club.
+This simple bladeless strike weapon is
+effective against most foes, is easily
+handled, and can break the guard of a shield.
+However, a single miss makes one wide open,
+so timing and proximities are crucial.
+
+###801000###801100###801200###801300###801400###801500###801600###801700###801800###801900
+Weapon type: Hammer
+Attack type: Strike
+
+Iron hammer with a protrusive pommel.
+Standard weapon for clerics.
+This simple bladeless strike weapon is
+effective against most foes, and can
+break the guard of a shield. However,
+one miss leaves one wide open.
+
+###802000
+Weapon type: Hammer
+Attack type: Thrust
+
+Hammer with a sharp spike on its pommel.
+One of the more barbaric cleric weapons.
+
+Uniquely, this hammer inflicts thrust damage,
+and causes bleeding.
+
+###802100###802200###802300###802400###802500###802600###802700###802800###802900
+Weapon type: Hammer
+Attack type: Strike
+
+Hammer with sharp spikes on its pommel.
+One of the more barbaric cleric weapons.
+
+The effect of these spikes makes this
+strike-based weapon also cause bleeding.
+
+###803000###803100###803200###803300###803400###803500###803600###803700###803800###803900
+Weapon type: Hammer
+Attack type: Thrust
+
+Hammer with a large beak-shaped pommel.
+Originally a pickaxe; redesigned for battle.
+
+This simple but deadly weapon hits heavily
+with thrust damage, such that it easily
+cracks metal armor.
+
+###804000###804100###804200###804300###804400###804500###804600###804700###804800###804900
+Weapon type: Hammer
+Attack type: Thrust
+
+Traditionally a mining tool, but the hard
+cone on the pommel is effective in battle.
+
+A downward swing of the Pickaxe can crush
+stone; a human head would be an afterthought.
+
+###809000###809100###809200###809300###809400###809500###809600###809700###809800###809900
+Weapon type: Hammer
+Attack type: Strike
+
+A club with leather nailed to the pommel.
+The burg Undead merchant proudly peddles
+this club, but its reinforcement is shoddy.
+Indeed, its attack is stronger, but the
+club is no longer dependably sturdy.
+
+###810000###810100###810200###810300###810400###810500###810600###810700###810800###810900
+Weapon type: Hammer
+Attack type: Strike
+
+Metal hammer of Andre of Astora,
+blacksmith at the Old Church.
+
+Can be used as a strike weapon, but better
+left in the hands of its talented owner.
+
+###811000###811100###811200###811300###811400###811500###811600###811700###811800###811900
+Weapon type: Hammer
+Attack type: Strike
+
+Wooden hammer of the giant blacksmith in
+Anor Londo who handles lightning weapons.
+
+The giant blacksmith forges with this wooden
+hammer, as it would be hazardous to handle
+lightning weapons with metals.
+
+###812000###812100###812200###812300###812400###812500###812600###812700###812800###812900
+Weapon type: Hammer
+Attack type: Strike
+
+Metal hammer of Vamos, a skeleton blacksmith
+deep within the Catacombs who rarely speaks.
+
+Can be used as a strike weapon, but better
+left in the hands of its talented owner.
+
+###850000###850100###850200###850300###850400###850500###850600###850700###850800###850900
+Weapon type: Great Hammer
+Attack type: Strike
+
+Giant tree branch serves as a wooden club.
+Smashes enemies from upside the head.
+
+The leaping attack is a trademark of clubs,
+and this giant club is no exception.
+
+###851000
+Weapon type: Great Hammer
+Attack type: Strike
+
+A legendary weapon of the Way of White,
+granted to an Undead paladin long ago.
+
+This mass of iron can only be lifted by those
+with inhuman strength, but it is blessed,
+and very effective against agents of Dark.
+
+###852000###852100###852200###852300###852400###852500###852600###852700###852800###852900
+Weapon type: Great Hammer
+Attack type: Strike
+
+Demon weapon built from the stone archtrees.
+Used by lesser demons at North Undead Asylum.
+
+This hammer is imbued with no special power,
+but can merrily beat foes to a pulp,
+providing you have the strength to wield it.
+
+###854000
+Weapon type: Great Hammer
+Attack type: Strike
+
+Created from an everlasting dragon tooth.
+Legendary great hammer of Havel the Rock.
+
+The dragon tooth will never break as it is
+harder than stone, and it grants its wielder
+resistance to magic and flame.
+
+###855000###855100###855200###855300###855400###855500###855600###855700###855800###855900
+Weapon type: Great Hammer
+Attack type: Strike
+
+Large wooden club.
+
+The giant Undead of Blighttown wield these
+clubs, which became poisonous from the
+influence of their surroundings.
+
+###856000###856100###856200###856300###856400###856500###856600###856700###856800###856900###857000###857100
+Weapon type: Great Hammer
+Attack type: Strike
+
+Great hammer from the soul of executioner
+Smough, who guards the cathedral in the forsaken city of Anor Londo.
+Smough loved his work, and ground the bones
+of his victims into his own feed, ruining his
+hopes of being ranked with the Four Knights.
+
+###900000
+Bare fists
+
+###901000###901100###901200###901300###901400###901500###901600###901700###901800###901900
+Weapon type: Fists
+Attack type: Strike
+
+The weapon augments one's bare hands
+with thick, studded leather.
+
+The Caestus has a short reach, but quick
+cool down. Amount of damage inflicted is
+dependent on its wearer's strength.
+
+###902000###902100###902200###902300###902400###902500###902600###902700###902800###902900
+Weapon type: Fists
+Attack type: Slash
+
+A weapon formed by three sharp claws.
+
+Attacks cause bleeding, and the wounds
+inflicted are not easily mended. Preferred
+weapon of the spooks of an Eastern land.
+
+###903000###903100
+Weapon type: Fists
+Attack type: Strike
+
+A weapon from the soul of the Iron Golem,
+guardian of Sen's Fortress who repelled
+countless heroes who sought Anor Londo.
+The Gods fused the power of the soul with
+the great bones of the dragons, forming an
+appropriate core for the giant golem.
+
+###904000
+Weapon type: Fists
+Attack type: Strike
+
+The Darkwraiths, incited by Kaathe, use the
+power of the dark soul to absorb humanity, an
+art shared by this weapon, which also acts as
+a special shield. The ancients, particularly,
+could sap the humanity of even a replete
+saint in the blink of an eye.
+
+###1000000###1000100###1000200###1000300###1000400###1000500###1000600###1000700###1000800###1000900
+Weapon type: Spear
+Attack type: Thrust
+
+Standard spear used commonly by soldiers.
+Long reach, and can be used with shield up.
+Effective against hard exteriors, and can hit
+for high damage at the right moment of an
+enemy's swing. But the hit radius is small,
+and it is easily blocked by shields.
+
+###1001000###1001100###1001200###1001300###1001400###1001500###1001600###1001700###1001800###1001900
+Weapon type: Spear
+Attack type: Thrust
+
+A long-hilted spear with a barbed point.
+Long reach, and can be used with shield up.
+Effective against hard exteriors, and hits
+for high damage at the right moment of an
+enemy's swing. But the hit radius is small,
+and it is easily blocked by shields.
+
+###1002000###1002100###1002200###1002300###1002400###1002500###1002600###1002700###1002800###1002900
+Weapon type: Spear
+Attack type: Regular/Thrust
+
+Spear with blade attached to broad point.
+Boasts long reach, and can slice.
+
+The wide range of this spear makes it
+adaptable to many situations. Its strength
+lies in its length, but in cramped quarters,
+this backfires, and slices ricochet off walls.
+
+###1003000###1003100###1003200###1003300###1003400###1003500###1003600###1003700###1003800###1003900
+Weapon type: Spear
+Attack type: Thrust
+
+Carved from the bones of fellow demons.
+Wielded by the slim lesser Batwing demons.
+
+The weapon of these chaos demons wandering
+Anor Londo are different from those of other
+chaos demons, and are imbued with lightning.
+
+###1004000###1004100###1004200###1004300###1004400###1004500###1004600###1004700###1004800###1004900
+Weapon type: Spear
+Attack type: Thrust
+
+Trident of the Six-eyed Channelers,
+sorcerers who serve Seath the Scaleless
+in collecting human specimens.
+Thrusted in circular motions in a unique
+martial arts dance that stirs nearby allies
+into a bloodthirsty frenzy.
+
+###1006000
+Weapon type: Spear
+Attack type: Regular/Thrust
+
+The silver knights of Anor Londo guard the
+city using this beautifully slender weapon.
+
+The spear can be wielded by both hands in a
+focused thrust that uses one's body weight,
+or swung in a large sweeping motion.
+
+###1050000###1050100###1050200###1050300###1050400###1050500###1050600###1050700###1050800###1050900
+Weapon type: Long Spear
+Attack type: Thrust
+
+Long spear with a very long red hilt.
+Traditionally used by groups of soldiers.
+Specially designed for distance thrusting.
+Has the longest range of the non-projectile
+weapons, but its very length makes it
+somewhat difficult to handle.
+
+###1051000###1051100###1051200###1051300###1051400###1051500###1051600###1051700###1051800###1051900
+Weapon type: Spear
+Attack type: Thrust
+
+Cross spear born from the soul of Ornstein, a
+Dragonslayer guarding Anor Londo cathedral.
+Inflicts lightning damage; effective against
+dragons. Two-handed thrust relies on cross
+and buries spear deep within a dragon's hide,
+and sends human foes flying.
+
+###1052000###1052100###1052200###1052300###1052400###1052500###1052600###1052700###1052800###1052900
+Weapon type: Spear
+Attack type: Thrust
+
+Weapon born from the mystical creature of
+the Darkroot Garden, the Moonlight Butterfly.
+
+The horns of the butterfly, a being created
+by Seath, are imbued with a pure magic power.
+
+###1100000###1100100###1100200###1100300###1100400###1100500###1100600###1100700###1100800###1100900
+Weapon type: Halberd
+Attack type: Regular/Thrust
+
+Long-hilted weapon mixing spear and axe is
+difficult to handle, requiring both strength
+and dexterity. The Halberd has two elementary
+attacks: spear-like thrusting and large
+sweeping swings. However, one false swing
+and the wielder is left wide open.
+
+###1101000###1101100###1101200###1101300###1101400###1101500###1101600###1101700###1101800###1101900
+Weapon type: Halberd
+Attack type: Regular/Thrust
+
+Large halberd made of old brass, used by
+the giant sentinels of Anor Londo.
+
+Brass contains traces of lightning,
+but as the halberd is designed for the giant
+sentinels, its weight is unbearable.
+
+###1102000
+Weapon type: Halberd
+Attack type: Regular
+
+Weapon of the titanite demon, a faceless
+stone monster born from titanite slab.
+One of the enchanted weapons, perhaps from
+residual power of the titanite slab.
+Known for its leaping attack which comes
+smashing down on foes from above.
+
+###1103000###1103100###1103200###1103300###1103400###1103500###1103600###1103700###1103800###1103900
+Weapon type: Halberd
+Attack type: Regular
+
+Halberd of the gargoyle guarding the
+Bell of Awakening in the Undead Church.
+
+Perfectly standard bronze halberd
+without any special power.
+
+###1105000
+Weapon type: Halberd
+Attack type: Slash
+
+Halberd of the black knights who wander
+Lordran. Used to face chaos demons.
+
+The large motion that puts the weight of the
+body into the attack reflects the great size
+of their adversaries long ago.
+
+###1106000###1106100###1106200###1106300###1106400###1106500###1106600###1106700###1106800###1106900
+Weapon type: Halberd
+Attack type: Thrust
+
+Halberd with a large, hard beak-like
+protrusion. Inflicts thrust damage.
+Instead of thrusting like a spear, the
+wielder of the Lucerne aims to club
+the head with its hard beak.
+
+###1107000###1107100###1107200###1107300###1107400###1107500###1107600###1107700###1107800###1107900
+Weapon type: Halberd
+Attack type: Slash
+
+Halberd with a large blade.
+Scythe adjusted for battle.
+
+Designed especially for slicing. However,
+one false swing leaves one wide open.
+
+###1150000###1150100###1150200###1150300###1150400###1150500###1150600###1150700###1150800###1150900
+Weapon type: Halberd
+Attack type: Slash
+
+Weapon with a long curved blade. Converted
+from a wheat-harvesting tool.
+
+The magnificent sharp curved blade
+instills fear in opponents. Perhaps it is
+their survival instinct at work.
+
+###1151000###1151100###1151200###1151300###1151400###1151500###1151600###1151700
+Weapon type: Halberd
+Attack type: Slash
+
+Scythe born from the soul of Priscilla, the
+stark white crossbreed trapped inside the
+Painted World of Ariamis.
+Even the Gods feared Priscilla's lifehunt
+ability, and in the hands of a mortal, its
+power will turn upon its wielder.
+
+###1200000###1200100###1200200###1200300###1200400###1200500###1200600###1200700###1200800###1200900
+Weapon type: Bow
+Attack type: none
+
+Small bow. Standard projectile weapon.
+Equip arrows to use.
+
+Hold bow and press <?platmsg@10002?> to aim.
+Aim for heads of humanoid foes.
+Press <?platmsg@10003?>/<?platmsg@10004?> to change type of arrows.
+
+###1201000###1201100###1201200###1201300###1201400###1201500###1201600###1201700###1201800###1201900
+Weapon type: Bow
+Attack type: none
+
+Large bow. Projectile weapon for experienced
+hunters. Equip arrows to use.
+
+Hold bow and press <?platmsg@10002?> to aim.
+Aim for heads of humanoid foes.
+Press <?platmsg@10003?>/<?platmsg@10004?> to change type of arrows.
+
+###1202000###1202100###1202200###1202300###1202400###1202500###1202600###1202700###1202800###1202900
+Weapon type: Bow
+Attack type: none
+
+The preferred black bow of the heroic
+archer Pharis.
+
+Has a longer range than standard bows,
+but is more difficult to use. Without proper
+abilities, results will be underwhelming.
+
+###1203000
+Weapon type: Greatbow
+Attack type: none
+
+Bow of the Dragonslayers, led by Hawkeye
+Gough, one of Gwyn's Four Knights.
+
+This bow's unusual size requires that it be
+anchored to the ground when fired.
+Only uses specialized great arrows.
+
+###1204000###1204100###1204200###1204300###1204400###1204500###1204600###1204700###1204800###1204900
+Weapon type: Bow
+Attack type: none
+
+Composite bow emphasizing power.
+Requires more strength than standard bows.
+
+However, its range is shorter, making it
+unfit for sniping.
+
+###1205000###1205100###1205200###1205300
+Weapon type: Bow
+Attack type: none
+
+Bow born from the soul of the Dark Sun
+Gwyndolin, Darkmoon deity who watches over
+the abandoned city of Gods, Anor Londo.
+
+This golden bow is imbued with powerful magic
+and is most impressive with Moonlight Arrows.
+
+###1250000###1250100###1250200###1250400###1250600###1250800
+Weapon type: Crossbow
+Attack type: none
+
+Standard crossbow issued to soldiers.
+While bows require both hands, a crossbow is
+held in one, but arming each bolt takes time.
+
+Equip bolts to use.
+Press <?platmsg@10003?>/<?platmsg@10004?> to change type of bolt.
+
+###1251000###1251100###1251200###1251400###1251600###1251800
+Weapon type: Crossbow
+Attack type: none
+
+Powerful large crossbow.
+While bows require both hands, a crossbow is
+held in one, but arming each bolt takes time.
+
+Equip bolts to use.
+Press <?platmsg@10003?>/<?platmsg@10004?> to change type of bolt.
+
+###1252000###1252100###1252200###1252400###1252600###1252800
+Weapon type: Crossbow
+Attack type: none
+
+Repeating crossbow cherished by the weapon
+craftsman Eidas. Its elaborate design makes
+it closer to a work of art than a weapon.
+Intricate mechanism makes heavy damage
+possible through triple-shot firing of bolts,
+but in fact each bolt inflicts less damage.
+
+###1253000###1253100###1253200###1253400###1253600###1253800
+Weapon type: Crossbow
+Attack type: none
+
+Large crossbow with long distance used by
+Carim snipers. Often used with sniper bolts.
+
+But while crossbows are normally easy to
+use, the Sniper Crossbow requires dexterity.
+
+###1300000
+Weapon type: Catalyst
+Attack type: Strike
+
+Sorcery catalyst used by sorcerers of
+Vinheim Dragon School.
+
+Equip catalyst to use sorceries.
+Attune sorceries from a scroll at a bonfire.
+Most sorceries have limited no. of uses.
+
+###1301000
+Weapon type: Catalyst
+Attack type: Strike
+
+Catalyst belonging to Beatrice, the rogue
+witch. Contrasts with Vinheim catalysts.
+
+This ancient catalyst shows signs of being
+used for age-old sorceries. It has passed
+the hands of many generations to get here.
+
+###1302000
+Weapon type: Catalyst
+Attack type: Thrust
+
+Catalyst of the banishment sorcerers who
+flooded New Londo to seal off away the
+Darkwraiths and the Kings who fell to Dark.
+In contrast to other catalysts, the metal
+catalyst qualifies as a weapon, as it
+inflicts physical damage, however small.
+
+###1303000
+Weapon type: Catalyst
+Attack type: Strike
+
+Catalyst of Big Hat Logan, the great sorcerer
+and seeker of knowledge.
+Originally the same catalyst employed by the
+Vinheim sorcerers, only terribly strengthened
+over time due to Logan's use. Very powerful
+when used by one of superior intelligence.
+
+###1304000###1304100###1304200###1304300###1304400
+Weapon type: Catalyst
+Attack type: Strike
+
+Catalyst born from the soul of the Dark Sun
+Gwyndolin, Darkmoon deity who watches over
+the abandoned city of Gods, Anor Londo.
+Gwyndolin is Gwyn's lastborn and a legitimate
+god, but he is also a Moon sorcerer, and this
+wand is boosted by faith, not intelligence.
+
+###1305000
+Weapon type: Catalyst
+Attack type: Strike
+
+Sorcery catalyst of lost land of Oolacile.
+Formed by enchanted whitebark branches.
+
+The whitebark boosts sorcery adjustment,
+but the sorceries of this lost land are
+gentle and not affected by intelligence.
+
+###1306000
+Weapon type: Catalyst
+Attack type: Thrust
+
+Catalyst imbued in terrifying crystal magic.
+Used by Logan after his fixation on Seath.
+
+Makes all sorceries incredibly powerful, but
+demands extremely high intelligence from its
+wielder, and halves sorcery usages.
+
+###1307000
+Weapon type: Catalyst
+Attack type: Thrust
+
+Demon catalyst formed from Izalith molten
+rock. Can be used as fire weapon.
+The Demon Firesage was the first demon,
+and the last master of the original fire
+arts, before the Witch of Izalith was
+engulfed by Chaos, creating pyromancy.
+
+###1308000
+Weapon type: Catalyst
+Attack type: Strike
+
+Catalyst of the Witch of Izalith of long ago,
+when her daughters were still flame witches,
+before they were engulfed by the Chaos Flame.
+Before the birth of pyromancy, their wands
+were mediums for sorcery, but knowledge of
+this flame sorcery has long since vanished.
+
+###1330000###1330100###1330200###1330300###1330400###1330500###1330600###1330700###1330800###1330900###1331000###1331100###1331200###1331300###1331400###1331500
+Weapon type: Pyromancy Flame
+Attack type: Strike
+
+Flame medium used by Great Swamp pyromancers.
+Pyromancers arouse this flame to produce
+various fire arts.
+Equip pyromancer flame to produce pyromancy.
+Attune pyromancies from a scroll at bonfire.
+Most pyromancies have limited no. of uses.
+
+###1332000###1332100###1332200###1332300###1332400###1332500
+Weapon type: Pyromancy Flame
+Attack type: Strike
+
+Pyromancy flame drawing upon the latent power
+of Quelana of Izalith, mother of pyromancy.
+For the pyromancer, a flame is a precious
+thing indeed, to be nurtured, often for an
+entire lifetime. When the flame is shared, it
+creates an eternal bond between the parties.
+
+###1360000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Standard talisman issued to common believers.
+
+Equip talisman to cast miracles. 
+Attune miracles from a scroll at a bonfire.
+Most miracles have limited no. of uses.
+
+###1361000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Canvas Talisman is for clerics on pilgrimage.
+
+Equip talisman to cast miracles. 
+Attune miracles from a scroll at a bonfire.
+Most miracles have limited no. of uses.
+
+###1362000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+This talisman is only granted to high-
+ranking Thorolund clerics. Has high
+miracle adjustment which, thanks to divine
+protection, is not dependent upon faith.
+
+###1363000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Ivory Talismans are granted only to female
+clerics, and their value is affected
+dramatically by their owner's faith.
+
+###1364000
+Dragon Talismans
+
+###1365000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+The talisman of Solaire of Astora, the Knight
+of Sunlight, is decorated with a holy symbol,
+illustrated by Solaire himself.
+This talisman is a projection of Solaire's
+upstanding, unwavering faith.
+
+###1366000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+Granted to Darkmoon Blade knights, adherents
+to the Covenant of the Dark Sun Gwyndolin.
+This talisman demands dutiful faith from its
+owner, but has very high miracle adjustment.
+
+###1367000
+Weapon type: Talisman
+Attack type: Strike
+
+Medium for casting miracles of the Gods.
+This black tuft of hair that serves as a
+talisman belongs to Velka, Goddess of Sin.
+It casts miracles not by drawing upon
+faith, but intelligence.
+
+###1396000
+Weapon type: Lantern
+Attack type: Strike
+
+Skull Lantern of the Catacombs necromancer.
+Droops from his long beard locks.
+
+This lantern alights the Tomb of the Giants,
+Nito's light-devouring domain of death.
+Also serves as a fire damage strike weapon.
+
+###1400000###1400100###1400200###1400400###1400600###1400800
+Weapon type: Shield
+Attack type: Strike
+
+Wooden shield.
+Decorated with the ancient symbol of
+a double-headed eagle, painted yellow.
+
+Wood shields are lighter than metal shields,
+but with lower physical damage reduction,
+and reduced shield stability.
+
+###1401000###1401100###1401200###1401400###1401600###1401800
+Weapon type: Shield
+Attack type: Strike
+
+Vertically elongated wooden shield.
+Decorated with a white dragon.
+
+Wood shields are lighter than metal shields,
+but with lower physical damage reduction,
+and reduced shield stability.
+
+###1402000###1402100###1402200###1402400###1402600###1402800
+Weapon type: Shield
+Attack type: Strike
+
+Large, leather-covered round shield.
+Choice shield for hunters.
+
+Wood shields are lighter than metal shields,
+but with lower physical damage reduction,
+and reduced shield stability.
+
+###1403000###1403100###1403200###1403400###1403600###1403800
+Weapon type: Small Shield
+Attack type: Strike
+
+Small, leather-covered round shield,
+reinforced in critical spots with metal.
+
+Small shields are always less stable, but
+landing critical hits after parry is easier.
+
+###1404000###1404100###1404200###1404400###1404600###1404800
+Weapon type: Small Shield
+Attack type: Strike
+
+Small round metal shield.
+Four protrusions used to parry attacks.
+
+Small shields are always less stable, but
+landing critical hits after parry is easier.
+This shield is specialized for parrying.
+
+###1405000###1405100###1405200###1405400###1405600###1405800
+Weapon type: Small Shield
+Attack type: Strike
+
+Very small round metal shield.
+Parry attacks with large center protrusion.
+
+Small shields are always less stable, but
+landing critical hits after parry is easier.
+This shield is specialized for parrying.
+
+###1406000###1406100###1406200###1406400###1406600###1406800
+Weapon type: Small Shield
+Attack type: Strike
+
+Round wooden shield.
+Cracked and nearly broken.
+
+Wood shields are lighter than metal shields,
+but this one has lower physical damage
+reduction stability, partly due to cracking.
+
+###1408000###1408100###1408200###1408400###1408600###1408800
+Weapon type: Small Shield
+Attack type: Strike
+
+Round leather-covered shield.
+A standard, widely-used shield.
+
+Small shields are always less stable, but
+landing critical hits after parry is easier.
+
+###1409000###1409100###1409200###1409400###1409600###1409800
+Weapon type: Small Shield
+Attack type: Strike
+
+Makeshift shield built from wood planks.
+Provides minimal protection,
+but at a cost of moderate humiliation.
+
+###1410000###1410100###1410200###1410400###1410600###1410800
+Weapon type: Small Shield
+Attack type: Strike
+
+Round wooden shield crafted in Lordran.
+Decorated by an ancient blue Caduceus.
+The giant trees in Lordran are distant
+offspring of the great stone archtrees.
+This shield inherits their properties,
+and the wood greatly reduces magic damage.
+
+###1411000###1411100###1411200###1411300###1411400###1411500###1411600###1411700###1411800###1411900###1412000###1412100###1412200###1412300###1412400###1412500###1412600###1412700###1412800###1412900###1413000###1413100###1413200###1413300###1413400###1413500###1413600###1413700###1413800###1413900###1414000###1414100###1414200###1414300###1414400###1414500###1414600
+Weapon type: Small Shield
+Attack type: Strike
+
+Weapon born from the mystical creature of
+the Darkroot Garden, the Moonlight Butterfly.
+Imbued with a powerful crystal power, like
+the butterfly created by Seath the Scaleless.
+Can emit crystal light rings.
+
+###1450000###1450100###1450200###1450400###1450600###1450800
+Weapon type: Shield
+Attack type: Strike
+
+Small metal shield.
+A standard, widely-used shield.
+
+This shield is easy to use, and is one of
+the smallest shields that offers
+100% physical damage reduction.
+
+###1451000###1451100###1451200###1451400###1451600###1451800
+Weapon type: Shield
+Attack type: Strike
+
+This medium metal shield is elegantly
+carved and painted.
+Although it is thought to have been used by
+ancient knights of the nobility, its defense
+capabilities are similar to other shields.
+
+###1452000###1452100###1452200###1452400###1452600###1452800
+Weapon type: Shield
+Attack type: Strike
+
+Medium metal shield. Decorated with a tower,
+the symbol of protection.
+A standard, widely-used shield.
+
+###1453000###1453100###1453200###1453400###1453600###1453800
+Weapon type: Shield
+Attack type: Strike
+
+Old medium metal shield of unknown origin.
+The grass crest is lightly imbued with magic,
+which slightly speeds stamina recovery.
+
+###1454000###1454100###1454200###1454400###1454600###1454800
+Weapon type: Shield
+Attack type: Strike
+
+Metal shield wielded by Hollow soldiers.
+Heavily rusted but sturdy, providing a
+strong defense.
+
+###1455000###1455100###1455200###1455400###1455600###1455800
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the knights of the ancient kingdom
+of Balder. Tweaked for improved stability.
+Balder was the home of Knight King Rendal,
+but the kingdom was reduced to ruins after
+a widespread outbreak of Undead.
+
+###1456000
+Weapon type: Shield
+Attack type: Strike
+
+Shield of a nameless knight, likely a
+high-ranked knight of Astora.
+
+One of the enchanted blue shields.
+The Crest Shield greatly reduces
+magic damage.
+
+###1457000
+Weapon type: Shield
+Attack type: Strike
+
+Shield of a nameless knight, likely a
+high-ranked knight of Astora.
+
+One of the enchanted blue shields.
+The Dragon Crest Shield greatly reduces
+fire damage.
+
+###1460000###1460100###1460200###1460400###1460600###1460800
+Weapon type: Small Shield
+Attack type: Strike
+
+Round wooden shield crafted in Lordran.
+Decorated with the ancient Labrys axe.
+The giant trees in Lordran are distant
+offspring of the great stone archtrees.
+This shield inherits their properties, 
+and the wood reduces magic damage.
+
+###1461000###1461100###1461200###1461400###1461600###1461800
+Weapon type: Shield
+Attack type: Strike
+
+Thick iron shield of Shiva of the East.
+Heaviest of the standard shields.
+Deflects enemy attacks. A famous specimen
+from Shiva's collection, but none who have
+faced it have lived to tell the tale.
+
+###1462000###1462100###1462200###1462400###1462600###1462800
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the savage mountain bandits.
+Uniquely-shaped with a large black spider
+etched upon it.
+Has resistance to poison.
+
+###1470000###1470100###1470200###1470400###1470600###1470800
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the infamous Darkwraith Kirk,
+Knight of Thorns. Covered with spikes.
+
+Can be used as a weapon.
+Sharp spikes cause heavy bleeding.
+
+###1471000
+Weapon type: Shield
+Attack type: Strike
+
+A fully crystallized straight shield.
+How such a weapon was created
+is entirely unknown.
+The crystallization boosts its defense, but
+makes the shield brittle. The shield cannot
+be used for long, as it cannot be repaired.
+
+###1472000###1472100###1472200###1472400###1472600###1472800
+Weapon type: Shield
+Attack type: Strike
+
+Shield of Solaire of Astora, Knight of
+Sunlight. Decorated with a holy symbol,
+but Solaire illustrated it himself, and it
+has no divine powers of its own. As it turns
+out, Solaire's incredible prowess is a product
+of his own training, and nothing more.
+
+###1473000
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the Silver Knights of Anor Londo.
+A flowing canal is carved deep into its face.
+The Silver Knights stayed behind in Anor
+Londo to defend the illusory goddess,
+and their shields are blessed with her
+divine protection.
+
+###1474000
+Weapon type: Shield
+Attack type: Strike
+
+Shield of the Black Knights that wander
+Lordan. A flowing canal is chiseled deeply
+into its face. 
+Long ago, the black knights faced the chaos
+demons, and were charred black, but their
+shields became highly resistant to fire.
+
+###1475000###1475100###1475200###1475400###1475600###1475800
+Weapon type: Shield
+Attack type: Thrust
+
+Shield of certain knights of Catarina, used
+in attacks with a large protrusion in center.
+
+Can be used as a thrust weapon.
+
+###1476000###1476100###1476200###1476400###1476600###1476800
+Weapon type: Small Shield
+Attack type: Strike
+
+Round wooden shield crafted in Lordran
+featuring an impressive red and white design.
+The giant trees in Lordran are distant
+offspring of the great stone archtrees.
+This shield inherits their properties, and
+the wood greatly reduces magic damage.
+
+###1477000###1477100###1477200###1477400###1477600###1477800
+Weapon type: Shield
+Attack type: Strike
+
+Medium metal shield.
+Decorated by an ancient blue Caduceus.
+A standard, widely-used shield.
+
+###1478000###1478100###1478200###1478400###1478600###1478800
+Weapon type: Shield
+Attack type: Strike
+
+Bronze shield of the gargoyle guarding the
+Bell of Awakening in the Undead Church.
+The gargoyle's skin is tough by itself, and
+perhaps its shield may have been a prop,
+for it is a rare example of a metal shield
+that does not reduce physical damage 100%.
+
+###1500000###1500100###1500200###1500400###1500600###1500800
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield with an eagle design. Lightest
+and easiest greatshield to handle.
+
+Greatshields are very stable, and deflect
+attacks. But one cannot parry, and instead
+bashes with the shield.
+
+###1501000###1501100###1501200###1501400###1501600###1501800
+Weapon type: Greatshield
+Attack type: Strike
+
+Metal greatshield. Used by Knight Berenike,
+known for his heavy armor. This thick plate
+of iron is heavily defensive but ultra heavy.
+Greatshields are very stable, and deflect
+attacks. However, one cannot parry,
+and instead bashes with the shield.
+
+###1502000###1502100###1502200###1502400###1502600###1502800
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield made of bronze and marcasite.
+Used by giant sentinels of Anor Londo.
+Marcasite, or white iron, is effective
+against non-physical damage, but as the
+shield is designed for the giant sentinels,
+its weight is unbearable.
+
+###1503000
+Weapon type: Greatshield
+Attack type: Strike
+
+Mossy round greatshield used by the guardian
+of the Darkroot Garden, the Stone Knight.
+The Stone Knight is a creation of ancient
+magic, and this shield is imbued with the
+same power, but is also extremely heavy.
+
+###1505000
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield of the legendary Havel the Rock.
+Cut straight from a great slab of stone.
+This greatshield is imbued with the magic
+of Havel, provides strong defense, and is
+incredibly heavy. A true divine heirloom
+on par with the Dragon Tooth.
+
+###1506000###1506100###1506200###1506400###1506600###1506800
+Weapon type: Greatshield
+Attack type: Strike
+
+Giant wooden wheel encircled by spikes.
+Half-melded to a strange skeleton.
+
+Can be used as a greatshield, only for the
+great gaps. But at least the spikes turn into
+weapons with a good spin. Strange indeed!
+
+###1507000###1507100###1507200###1507300###1507400###1507500###1507600###1507700###1507800###1507900###1508000###1508100###1508200###1508300###1508400###1508500###1508600###1508700###1508800###1508900###1509000###1509100###1509200###1509300###1509400###1509500###1509600###1509700###1509800###1509900###1510000###1510100###1510200###1510300###1510400###1510500###1510600
+Weapon type: Greatshield
+Attack type: Strike
+
+Shield born from the soul of the great grey
+wolf Sif, guardian of the grave of the
+Abysswalker Knight Artorias.
+Boasts consistent defense and divine
+protection against various status effects.
+
+###1600000###1600100###1600200###1600300###1600400###1600500###1600600###1600700###1600800###1600900
+Weapon type: Whip
+Attack type: Regular
+
+Leather whip.
+Not intended for battle.
+
+Virtually ineffective against armor and tough
+scales, but quite formidable against enemies
+with exposed skin.
+
+###1601000###1601100###1601200###1601300###1601400###1601500###1601600###1601700###1601800###1601900
+Weapon type: Whip
+Attack type: Regular
+
+Whip with sharp spikes.
+
+Only slightly effective against armor and
+tough scales, but quite formidable against
+enemies with exposed skin.
+Also causes heavy bleeding.
+
+###2000000
+Weapon type: Arrow
+Attack type: Thrust
+
+Standard arrow.
+Arrows must be equipped to be fired.
+
+###2001000
+Weapon type: Arrow
+Attack type: Thrust
+
+Large arrow.
+Heavier arrows cause more damage,
+but have a shorter range.
+
+###2002000
+Weapon type: Arrow
+Attack type: Thrust
+
+Red feather arrows of the Lord's hunters.
+Their long range makes them effective for
+sniping.
+
+###2003000
+Weapon type: Arrow
+Attack type: Thrust
+
+Arrows fired with flaming tips.
+Inflicts fire damage.
+
+###2004000
+Weapon type: Arrow
+Attack type: Thrust
+
+Arrow with point dipped in poison.
+Ensures the demise of prey in a hunt,
+or the target in an assassination.
+Once an enemy is poisoned, one need
+only wait.
+
+###2005000
+Weapon type: Arrow
+Attack type: Thrust
+
+Arrow granted to those bound by
+Covenant to the Dark Sun Gwyndolin,
+Lord Gwyn's lastborn.
+Moonlight Arrows glow silver,
+and inflict magic damage.
+
+###2006000
+Weapon type: Arrow
+Attack type: Thrust
+
+Standard arrow.
+These arrows do not fly particularly far,
+nor do they inflict a terrible amount of
+damage, but their cheap cost makes them
+useful when volume is required.
+
+###2007000
+Weapon type: Great Arrow
+Attack type: Thrust
+
+Giant dragon-hunting arrows, resembling
+iron spears. Used by Hawkeye Gough and
+his Dragonslayers, they puncture human
+flesh easily. Dragonslayer Arrows can only
+be used with the Dragonslayer Greatbow,
+and vice-versa. 
+
+###2100000
+Weapon type: Bolt
+Attack type: Thrust
+
+Standard crossbow bolt.
+Used mainly with the Light Crossbow.
+
+Equip crossbow with a bolt to fire.
+
+###2101000
+Weapon type: Bolt
+Attack type: Thrust
+
+Large bolt.
+Used mainly with the Heavy Crossbow.
+
+These weighty bolts inflict high damage,
+but have reduced range.
+
+###2102000
+Weapon type: Bolt
+Attack type: Thrust
+
+Red feather bolts used with the Sniper
+Crossbow. Their long range makes them
+effective for sniping.
+
+###2103000
+Weapon type: Bolt
+Attack type: Thrust
+
+Basic wood bolt.
+
+These bolts do not fly particularly far,
+nor do they inflict a terrible amount of
+damage, but their cheap cost makes them
+useful when volume is required.
+
+###2104000
+Weapon type: Bolt
+Attack type: Thrust
+
+Special bolts imbued with lightning, crafted
+by the giant blacksmith of Anor Londo.
+
+The giant blacksmith has never seen a
+crossbow, but remembers the specifications
+of the bolts requested by ancient warriors.
+
+###9000000###9000100###9000200###9000400###9000600###9000800
+Weapon type: Small Shield
+Attack type: Strike
+
+Frightful occult shield. Defends against
+divine weapons and lightning.
+
+In an ill-fated plot to destroy the very
+gods, the followers of the occult once
+attempted to steal the power of
+Gravelord Nito, the first of the dead.
+
+###9001000###9001100###9001200###9001400###9001600###9001800
+Weapon type: Shield
+Attack type: Strike
+
+A legendary weapon of the Way of White,
+granted to an Undead paladin long ago.
+
+Once blessed with the protection of a white
+flame, but its power has all but faded, so
+that it provides only slight HP recovery.
+
+###9002000###9002100###9002200###9002400###9002600###9002800
+Weapon type: Shield
+Attack type: Strike
+
+The bloodshield spoken of in the lost
+legends. The red of blood is slightly
+enchanted, and boosts various resistances.
+
+###9003000###9003100###9003200###9003400###9003600###9003800
+Weapon type: Greatshield
+Attack type: Strike
+
+Greatshield of the mighty knight Tarkus.
+
+Built of special black iron and even heavier
+than Knight Berenike's tower shield.
+Especially resistant to fire attacks and
+effective for shield bashing.

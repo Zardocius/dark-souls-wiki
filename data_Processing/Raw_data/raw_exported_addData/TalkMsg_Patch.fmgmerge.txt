@@ -1,0 +1,1000 @@
+###ID 104
+
+###14012501
+The three young clerics…
+headed for the Catacombs, to seek Kindling.
+
+###56000000
+...Mmn...ahh...
+
+###56000010
+...Aah...mmn...
+
+###56000020
+...Hmm...mm...
+
+###56000100
+...This may strike thine ear as somewhat peculiar, but...
+
+###56000110
+Long ago, in my homeland of Oolacile,
+I was beset by a creature from the Abyss.
+
+###56000120
+I would have perished then,
+were it not for the great knight Artorias.
+
+###56000130
+In truth, I saw little of what transpired,
+for mine senses were already fled!
+
+###56000140
+But even still, there was something about Artorias...
+A certain balance of the humours...
+
+###56000150
+...That quite perfectly fits your semblance.
+
+###56000160
+Heavens, could it be that...
+
+###56000170###60000310
+...
+
+###56000180
+Oh, dear me. That was Oolacile,
+many centuries ago.
+
+###56000190
+Please excuse my fanciful musings. 
+
+###56000200
+Excuse me for such whimsical utterances.
+
+###56000210
+Only, it was so very odd...
+
+###56000220
+You, and Artorias. I owe my life to each of you.
+And both seem to share some resonance of sorts...
+
+###56000230
+Perhaps it is the nature of true greatness.
+
+###56000300
+I still think on that creature from the Abyss that preyed upon me.
+
+###56000310
+My faculties were far from lucid, but I quite clearly sensed certain emotions.
+
+###56000320
+A wrenching nostalgia, a lost joy, an object of obsession,
+and a sincere hope to reclaim it...
+
+###56000330
+Could these thoughts belong to the beast from the Abyss?
+
+###56000340
+But if that were true, then perhaps it is no beast after all?
+
+###56000350
+Oh, please forgive my ramblings.
+
+###56000360
+It's just that, I wish to know the truth.
+
+###56000370
+And no one, not even loving Elizabeth, will tell me.
+
+###56005000
+Aah...
+
+###56005010
+Eek!
+
+###57000000
+...Whatever thou art, stay away...
+
+###57000010
+...Soon, I will be consumed...
+
+###57000020
+...By them, by the Dark...
+
+###57000030
+Oogh...
+
+###57000040
+Grrah!
+
+###57000050
+Hrgg, hrgggrah!
+
+###57000100
+...Thou art strong, human...
+
+###57000110
+...Surely thine kind are more than pure Dark...
+
+###57000120
+...I beg of thee...the spread of the Abyss...
+...it must be stopped...
+
+###57000130
+Cough!
+
+###57000140
+...Ah, Sif, there you are, all of you...Forgive me...
+
+###57000150
+...For I have availed you nothing...
+
+###57005000
+Hrgg...
+
+###57005010###57005020###57005200###57005210###57005220
+Hrggraaah!
+
+###57005100
+Hrgkt!
+
+###57005110
+Ergkt!
+
+###57005120
+Hrgg!
+
+###58000000###58002300
+Hm? A visitor, have we?
+
+###58000010###58002310
+Thou must be the one who freed Artorias.
+
+###58000020###58002320
+An old friend he was, and thanks to thee...
+
+###58000030###58002330
+He left this world with honour intact.
+
+###58000040
+...And here I am, retired and blind.
+
+###58000050
+Of little help to thee, I am afraid.
+
+###58000100
+Well, thou hast come again. This is a surprise.
+
+###58000200
+Well, thou com'st again. Thou art a strange one.
+
+###58000300
+Good morrow...Is the Black Dragon posing thee duress?
+
+###58000400
+Yes, I thought as much.
+
+###58000410
+He is called Kalameet.
+
+###58000420
+A ferocious dragon indeed, even mighty Anor Londo dared not provoke his ire.
+
+###58000430
+I see little good coming from this, but...
+
+###58000440
+...Thy intent is to persevere... to the bitter end, hmm?
+
+###58000500
+Hah hah hah!
+
+###58000510
+Good, good. What is bravery, without a dash of recklessness!
+
+###58000520
+I have taken a liking to thee.
+
+###58000530
+And I owe thee much for thy service to Artorias.
+Now watch, and see how Gough hunts dragons.
+
+###58000540
+Hrrmmm...
+
+###58000550
+Haah!
+
+###58000560
+Hah hah! Yes, a truer shot was never loosed!
+
+###58000570
+That bat will be grounded for a good spell!
+
+###58000580
+The rest is in thine hands. I await good tidings.
+
+###58000590
+Ahh, dragon slaying. Knighthood's highest calling...
+
+###58000600
+...Strange. I am rarely wrong on such matters...
+
+###58000700
+A wise choice. Why foist thyself unto the fiery maw?
+
+###58000800
+The Black Dragon troubles you yet, I see.
+
+###58000900
+...Hmm, yes, I see. I was mistaken...
+
+###58001000
+...Art thou prepared to challenge great Kalameet?
+
+###58001100
+Yes, surely that is best.
+
+###58001200
+Ah, hello there. What of Kalameet?
+
+###58001210
+He is an ancient dragon.
+Skyward or no, he will not be put down easily.
+
+###58001300
+Why, thou hast defeated Kalameet!
+
+###58001310###58002350###58002410
+Wondrously played. Lord Gwyn's blessing upon thee.
+
+###58001320
+That beast will never take to the skies again.
+
+###58001400###58001500
+Farewell, human.
+
+###58001410
+Lead thy life as thou seest fit.
+
+###58001510
+I await good tidings.
+
+###58001600
+Farewell, proud human.
+
+###58001610
+May every honour be bestowed upon thee.
+
+###58001700
+If thou seeketh to explore this domain, be wary of a black dragon.
+
+###58001710
+I fear thee no match for this terrible beast.
+
+###58001800
+I should confer...If thine was the blade to which Artorias fell.
+
+###58001810
+Then thou must be wary of Ciaran.
+
+###58001820
+She had strong feelings for the great Artorias.
+
+###58001830
+The poor, poor girl.
+
+###58001900
+Me?
+
+###58001910
+There is very little to be said.
+
+###58001920
+What good is a dog, with no hares to hunt?
+
+###58001930
+...I am lucky to be alive, I suppose.
+
+###58002000
+Now, do not mistake my words.
+
+###58002010
+I cherish my work. Wood carving is a nuanced art.
+
+###58002020
+I would have much to talk about with that blacksmith.
+
+###58002030
+In truth, how is the old chap, I wonder?
+
+###58002040
+Still hammering away, I should hope.
+
+###58002100
+The dragons shall never be forgotten...
+
+###58002110
+We knights fought valiantly, but for every one of them,
+we lost three score of our own.
+
+###58002120
+Exhilaration, pride, hatred, rage...
+The dragons teased out
+our dearest emotions.
+
+###58002130
+...Thou will understand, one day.
+
+###58002140
+At thy twilight, old thoughts return, in great waves of nostalgia.
+
+###58002200
+Ahh, this Greatbow?
+
+###58002210
+I shan't need it, with no dragons to hunt.
+
+###58002220
+I know not if a human could even operate it, but here...
+
+###58002230
+Thy need outweighs mine.
+
+###58002340
+And I see that the great black dragon Kalameet is dusted by thine hand.
+
+###58002360
+I am retired, and blind.
+
+###58002370
+To receive a visit by one as lofty as thyself, is a great honour indeed.
+
+###58002400
+I see that thou hast dusted the great black dragon Kalameet.
+
+###58002420
+I see that there is at least one legend among ye humans.
+
+###58002430
+Dear me... That old bat will never fly again.
+
+###58002500
+Thou com'st again, legend of humans.
+
+###58002510
+It is always an honour to speak with thee.
+
+###58002600
+I suspect thou hast taken a gander at it,
+
+###58002610
+But the Dark of the Abyss, which swallowed poor Artorias,
+threatens to devour our entire land of Oolacile.
+
+###58002620
+It seems that this dire fate is unavoidable.
+
+###58002630
+But, seduced by a Dark serpent or no,
+
+###58002640
+They awoke that thing themselves, and drove it mad.
+
+###58002650
+...One's demise is always one's own making.
+
+###58002700
+If thine wish is to succeed poor Artorias, and challenge the spread of the Dark,
+
+###58002710
+Then thou must face Manus, Father of the Abyss.
+
+###58002720
+The Dark emanates from Manus himself.
+
+###58002730
+Even if this land shall expire,
+thou may be able to prevent further corrosion.
+
+###58002740
+...But even so, one day the flames will fade, and only Dark will remain.
+
+###58002750
+And even a legend such as thineself can do nothing to stop that.
+
+###58005000
+Cease this.
+
+###58005010
+Stop it, I say.
+
+###58005020
+Understand this. I wish thee no harm.
+
+###58005030###61005030
+Stop that!
+
+###58005040
+By the Gods!
+
+###58005100
+Ahh, so this is true human nature.
+
+###58005110
+Artorias is in your debt, but thou leavest me little choice...
+
+###58005120
+May you perish, for the good of all!
+
+###58005200###58005210
+Mmgraah!
+
+###58005220
+Hahh...
+
+###58005300
+Oog!
+
+###58005310###59005200
+Ooph!
+
+###58005320
+Hrg!
+
+###58005400
+Arrgggg!
+
+###58005410
+Humans...hmph...
+
+###58005420
+What vile creatures...
+
+###58006000
+Hello
+
+###58006001
+Thank you
+
+###58006002
+Very good!
+
+###58006003
+I'm sorry!
+
+###58006004
+Help me!
+
+###59000000
+Hm...Oh, let me guess...
+
+###59000010
+Snatched by a shadowy limb,
+and dragged off to the past?
+
+###59000100
+Yes, of course. Exactly what happened to me.
+
+###59000110
+We are both strangers in this strange land.
+
+###59000120
+But, at least now there are two of us.
+
+###59000200
+Oh, well, my mistake...
+
+###59000210
+But we are both travellers.
+
+###59000220
+We ought to help one another out.
+
+###59000300
+Oh, still alive, are you?
+
+###59000310
+Think of anything that you might need?
+
+###59000400
+Oh, for Juniper's sake.
+
+###59000410
+Put some spring into your step!
+
+###59000420###59000520###59000840###59000940
+Mwah hah hah!
+
+###59000500
+Oh, you again...
+
+###59000510
+What ever's the matter? No, I can tell. 
+You need me more than ever.
+
+###59000600###59000700
+So long.
+
+###59000710
+...We'll be seeing each other...
+
+###59000720
+Gee hee hee!
+
+###59000800
+Did you happen across Knight Artorias?
+
+###59000810
+The legendary Abysswalker, from the old tales.
+
+###59000820
+...Well, if you haven't, it's just as well...
+
+###59000830
+He's a colourless sort, if you ask me.
+
+###59000900
+Did you really slay Knight Artorias?
+
+###59000910
+I'd heard the Abyss found him first,
+but even still...
+
+###59000920
+That's absolutely treacherous.
+
+###59000930
+Yes, magnificently so!
+
+###59001000
+So, what did that giant mushroom make you do?
+
+###59001010
+Not that I care. It's none of my business.
+
+###59001020
+But I do wonder about those sorceries of hers...
+
+###59001030###59001660
+Heh heh heh...
+
+###59001100
+Hm? I've little to talk about, really.
+
+###59001110
+Oh, you know me. What do I know?
+
+###59001120
+Heh heh!
+
+###59001200
+What? If you've something to say, then say it!
+
+###59001210
+Just don't say the wrong thing...
+
+###59001220
+Heh heh heh!
+
+###59001300
+...Oh, you!
+
+###59001310
+You have quite some nerve. Or are you just thick?
+
+###59001320
+Fine, then. What is it that you need?
+
+###59001400
+I'll be seeing you.
+
+###59001410
+If you survive your travels...
+
+###59001500
+...Well, you've quite the nerve!
+
+###59001510
+I've had enough of you!
+
+###59001600
+Believe it or not,
+
+###59001610
+Oolacile has brought the Abyss upon itself.
+
+###59001620
+Fooled by that toothy serpent,
+they upturned the grave of primeval man,
+and incited his ornery wrath.
+
+###59001630
+What could they have been thinking?
+
+###59001640
+But to you and I, it's all ancient history.
+
+###59001650
+You have to ask yourself. Does it really matter?
+
+###59005000
+Oh! It's come to blows, has it?
+
+###59005010
+Fine, then. I've had enough of you, anyway!
+
+###59005100
+What now? You think this my fault?
+
+###59005110
+How very, very petty of you!
+
+###59005120
+Very petty, indeed!
+
+###59005210###60005110
+Erg!
+
+###59005220
+Oww!
+
+###59005230
+That bloody hurts!
+
+###59005300
+There!
+
+###59005310
+Ah-hah, there!
+
+###59005400
+What? Now you're feeling the heat?
+
+###59005410
+You should have thought long and hard...
+
+###59005420
+Before you sided with a bloody mushroom!
+
+###59005430
+Nyah hah hah hah hah!
+
+###59005500
+You damn fool.
+
+###59005510
+I am Marvellous Chester! What did you expect?
+
+###59005600
+Hrrg...
+
+###59005610
+You win...please...
+
+###59005620
+Oh, please...have mercy...
+
+###60000000
+...Human...
+
+###60000010
+...Why have you the ring of Artorias?
+
+###60000011
+...Why have you the soul of Artorias?
+
+###60000020
+...I am Ciaran, and that is a keepsake.
+
+###60000100
+...That ring...
+
+###60000110
+It was purloined by a man in a long coat...
+
+###60000120
+I know not how you came upon it,
+
+###60000130
+but its owner met his death here.
+
+###60000140
+He was a dear companion,
+and I wish to return the ring to his grave.
+
+###60000150###60000730
+Would you be willing to part with it?
+
+###60000200
+Thank you. You are very kind.
+
+###60000210
+Please take this. I no longer need it.
+
+###60000220
+May the Lord guide thee.
+
+###60000300
+Yes, of course...
+
+###60000320
+...I must not be presumptuous.
+
+###60000330
+Artorias would not have approved.
+
+###60000400
+What is it? Something else?
+
+###60000410
+Have you changed your mind?
+
+###60000500
+...Then you have no business with me...
+
+###60000600
+...Are you human?
+
+###60000610
+...I forgive you.
+
+###60000620
+I am here to pay respects to a dear friend.
+
+###60000630
+Please, allow me a moment alone.
+
+###60000700
+...You, is that not...
+
+###60000710
+The soul of the man who fell on this spot?
+
+###60000720
+He was a dear friend. I wish to pay proper respect, with that soul.
+
+###60005000
+Hmph, you humans...
+
+###60005010
+...always taking what you please.
+Then, I shall do the same.
+
+###60005011
+...always resorting to force.
+Then, I shall do the same.
+
+###60005100
+Hrk!
+
+###60005120###61005010
+Ooh!
+
+###60005200
+Hmph, such conceit...
+
+###60005210
+How did you imagine that
+the Lord's Blade would not reach you?
+
+###60005300
+But, how...
+
+###60005310
+You humans...
+
+###61000000
+Well, look at this one.
+
+###61000010
+From what far-away age hast thou come?
+Thy scent is very human, indeed.
+
+###61000020
+...But, not intolerable...
+
+###61000030
+Ah, Princess Dusk's saviour.
+Thine aura is precisely as she described.
+
+###61000031
+Princess Dusk has spoken of thee.
+Thy aura is precisely as she described.
+
+###61000040
+I thank thee deeply,
+for rescuing Her Highness.
+
+###61000050
+But Princess Dusk is here no longer...
+
+###61000060
+...snatched away by that horrifying primeval human.
+
+###61000070
+And so I must ask...
+Couldst thou once more play the saviour?
+
+###61000100
+Thank you.
+
+###61000110
+I am Elizabeth, guardian of this sanctuary.
+
+###61000120
+Something of a godmother to Princess Dusk.
+
+###61000130
+I shall assist thee, to my utmost.
+
+###61000140
+For I am one with the sorceries of Oolacile.
+
+###61000200
+Yes, I understand.
+
+###61000210
+We care dearly for Princess Dusk,
+and are apt to blur our boundaries.
+
+###61000220
+I am ashamed to have been so imposing.
+
+###61000230
+But should thine heart be changed,
+speak to me again.
+
+###61000240
+This sanctuary, and the sorceries of Oolacile,
+are my domain.
+
+###61000250
+My strength could surely assist thee in thy travels.
+
+###61000300
+Hast thou reconsidered?
+
+###61000310
+Such that thou might rescue dear Dusk?
+
+###61000400
+Yes, yes, of course.
+
+###61000410
+But shouldst thine heart be changed,
+speak to me again.
+
+###61000500
+Thank goodness thou art safe.
+
+###61000510
+What is thy wish? I offer thee my all.
+
+###61000600
+Struggling, are we?
+
+###61000610
+If there is anything I can do,
+never hesitate to ask.
+
+###61000700
+I have awaited thee.
+Thou hast rescued Princess Dusk,
+
+###61000710
+...and rid us of that terrible primeval human.
+Even halting the spread of the Abyss!
+
+###61000720
+I salute the grandeur of thine enterprise.
+
+###61000730
+Please, allow me to express my gratitude.
+
+###61000740
+I thank thee... as do we all.
+
+###61000800
+May the flames guide thee.
+
+###61000900
+Thou shalt see further on.
+
+###61000910
+An abyss was begat of the ancient beast, 
+and threatens to swallow the whole of Oolacile.
+
+###61000920
+Knight Artorias came to stop this,
+but such a hero has nary a murmur of Dark.
+
+###61000930
+Without doubt, he will be swallowed by the Abyss,
+overcome by its utter blackness.
+
+###61000940
+...Indeed, the Abyss may be unstoppable...
+
+###61000950
+Still I have faith, that Princess Dusk 
+may be rescued yet...
+
+###61001000
+Thou art from a time far, far ahead.
+
+###61001010
+There are many things I wish to ask.
+
+###61001020
+...But I know that I must not.
+
+###61001030
+The perils of our time are overwhelming enough.
+
+###61001100
+Hah hah...Was thine eye, glancing hither?
+
+###61001110
+Thou needst not hide thy wonder.
+
+###61001120
+I am a mushroom, after all.
+
+###61001130
+Hee hee hee...
+
+###61001200
+Not long ago, I had another visitor.
+
+###61001210
+A human like thineself, from a far-away time.
+
+###61001220
+Only, he was dreadfully odious...
+
+###61001230
+And I am afraid that he is still amongst us.
+
+###61001240
+He wore a hat and a long black coat...
+
+###61001300
+I will remember thee,
+but I will keep thy story to myself.
+
+###61001310
+This is the best way,
+for thou art come from a time far ahead.
+
+###61001320
+No-one will sing thy praises,
+but yet thy greatness shall live on.
+
+###61001330
+For it shall be my purpose,
+to remember all thou hast done for us.
+
+###61005000
+Ah!
+
+###61005020
+Aaah!
+
+###61005040
+Please, no!
+
+###61005050
+Stop!
+
+###61005100
+Aiieeek!
+
+###61005110
+Aiieeegh!
+
+###61005120
+Ooh...aah...
+
+###61005130
+But, why... Why... Dear Dusk...

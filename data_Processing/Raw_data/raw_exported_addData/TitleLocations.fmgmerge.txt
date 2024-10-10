@@ -1,0 +1,97 @@
+###ID 19
+
+###1000
+Depths
+
+###1010
+Undead Burg
+
+###1011
+Undead Parish
+
+###1020###2000
+Firelink Shrine
+
+###1100
+Painted World of Ariamis
+
+###1200
+Darkroot Garden
+
+###1201
+Darkroot Basin
+
+###1300
+The Catacombs
+
+###1310
+Tomb of the Giants
+
+###1320
+The Great Hollow
+
+###1321
+Ash Lake
+
+###1400
+Blighttown
+
+###1401
+Quelaag's Domain
+
+###1410
+Demon Ruins
+
+###1411
+Lost Izalith
+
+###1500
+Sen's Fortress
+
+###1510###2002
+Anor Londo
+
+###1600
+New Londo Ruins
+
+###1601###2005
+The Abyss
+
+###1602
+Valley of Drakes
+
+###1700
+The Duke's Archives
+
+###1701
+Crystal Cave
+
+###1800
+Kiln of the First Flame
+
+###1801
+Firelink Altar
+
+###1810
+Northern Undead Asylum
+
+###2001
+Sunlight Altar
+
+###2003
+Chamber of the Princess
+
+###2004
+Darkmoon Tomb
+
+###2006
+Daughter of Chaos
+
+###2007
+Altar of the Gravelord
+
+###2008
+Stone Dragon
+
+###11000###11010###11011###11020###11100###11200###11201###11300###11310###11320###11321###11400###11401###11410###11411###11500###11510###11600###11601###11602###11700###11701###11800###11801###11810
+ 

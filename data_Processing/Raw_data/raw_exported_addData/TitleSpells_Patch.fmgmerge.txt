@@ -1,0 +1,16 @@
+###ID 118
+
+###3710
+Dark Orb
+
+###3720
+Dark Bead
+
+###3730
+Dark Fog
+
+###3740
+Pursuers
+
+###4530
+Black Flame

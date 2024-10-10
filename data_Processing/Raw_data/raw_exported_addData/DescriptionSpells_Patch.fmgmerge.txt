@@ -1,0 +1,129 @@
+###ID 105
+
+###3050
+Sorcery boosted by the knowledge
+Logan acquired at the Regal Archives.
+Fire homing crystal soulmass.
+
+The mysteries of souls, crystals, and the
+sorceries are deeply intertwined.
+
+###3070
+Sorcery boosted by the knowledge
+Logan acquired at the Regal Archives.
+Fire piercing crystal soul spear.
+
+These pale magic spears, sharpened
+through crystallization, are on par with
+the armaments of the ancient lords.
+
+###3120
+Sorcery boosted by the knowledge
+Logan acquired at the Regal Archives.
+High magic + crystallization: right weapon.
+
+Logan's trials were successful, and the
+crystal medium facilitated a stronger bond
+between weapon and soul.
+
+###3600
+Sorcery of the red-robed remedician
+Ingward, guardian of the seal in New Londo.
+Sacrifice humanity to undo curse.
+
+Abhorrent curses eat away at the core of
+one's very existence, and cleansing oneself
+of curses is no easy task indeed.
+
+###3710
+Abyss sorcery discovered by an Oolacile
+sorcerer on the brink of madness.
+Fire giant Dark Orb.
+In contrast to standard soul sorceries,
+Abyss sorceries are weighty and inflict
+physical damage. Perhaps human souls,
+because of their humanity, produce
+sorceries with more tangible presence.
+
+###3720
+Abyss sorcery discovered by an Oolacile
+sorcerer on the brink of madness.
+Fire successive Dark Orbs.
+
+In contrast to standard soul sorceries,
+Abyss sorceries are weighty and inflict
+physical damage. Perhaps a human soul is
+closer to matter in its humanity.
+
+###3730
+Abyss sorcery discovered by an Oolacile
+sorcerer on the brink of madness.
+Create a cloud of Dark Fog.
+
+Although Dark Fog is, in theory, relatively
+close to humanity, it also happens to be a
+terrible poison for humans. Perhaps it
+reflects man's cruelty against his own.
+
+###3740
+Sorcery of Manus, Father of the Abyss.
+Grant a fleeting will to the Dark of
+humanity, and volley the result.
+
+The will feels envy, or perhaps love,
+and despite the inevitably trite and
+tragic ending, the will sees no alternative,
+and is driven madly toward its target.
+
+###4200
+Unique pyromancy crafted by Eingyi,
+considered a heretic even at the Great Swamp.
+Create poison mist.
+
+Eingyi became an egg-bearing Undead who
+serves a deformed young girl who speaks
+an unintelligible tongue.
+
+###4210
+Unique pyromancy crafted by Eingyi,
+considered a heretic even at the Great Swamp.
+Create intense poison mist.
+
+Why was Eingyi driven from the Great Swamp?
+One only need cast this pyromancy, a perverse
+diversion from the art of fire, to find out.
+
+###4500
+Art of the Flame of Chaos, which engulfed
+the Witch of Izalith and her daughters.
+Hurl a giant chaos fireball.
+
+The Flame of Chaos can melt stone,
+producing a short-lived lava glob.
+
+###4510
+Art of the Flame of Chaos, which engulfed
+the Witch of Izalith and her daughters.
+Erect localized chaos fire pillars.
+
+The Witch of Izalith, in an ambitious attempt
+to copy the First Flame, created instead the
+Flame of Chaos, a twisted bed of life.
+
+###4520
+Art of the Flame of Chaos, which engulfed
+the Witch of Izalith and her daughters.
+Sweep foes with chaos fire whip.
+
+The fire whip was wielded by the
+eldest of the Daughters of Chaos.
+
+###4530
+A pyromancy discovered from
+the Dark of the Abyss by a pyromancer
+who wandered into Oolacile.
+Conjure a great black flame in one's palm.
+
+Black flames are weighty, and inflict
+physical damage, enough to smack away
+the mightiest of shields.

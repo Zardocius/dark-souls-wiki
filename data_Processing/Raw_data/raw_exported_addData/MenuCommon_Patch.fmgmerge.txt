@@ -1,0 +1,32 @@
+###ID 124
+
+###102001
+Durability
+
+###301033
+Resistance to bleeding caused by sharp blades and spiked weapons.
+Higher value indicates lower tendency to bleed.
+
+###302200
+Defence against physical attacks.
+
+###302201
+Defence against strike attacks.
+
+###302202
+Defence against slash attacks.
+
+###302203
+Defence against thrust attacks.
+
+###302204
+Defence against magic attacks.
+
+###302205
+Defence against fire attacks.
+
+###302206
+Defence against lightning attacks.
+
+###305001
+Souls required to level-up, and boost one parameter.

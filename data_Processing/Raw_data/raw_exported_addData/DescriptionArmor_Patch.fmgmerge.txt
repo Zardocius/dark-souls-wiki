@@ -1,0 +1,247 @@
+###ID 108
+
+###60000
+
+Black cloth mask worn by spooks from an
+Eastern land. Designed so as not to hinder
+their unique form of martial arts.
+
+While it sacrifices defense for the sake of
+greater mobility, it does offer resistance
+to bleeding and poison among other things,
+perhaps due to the nature of espionage.
+
+###123000
+
+Moss-covered leggings of the Stone Knight,
+defender of the Darkroot Garden.
+
+The Stone Knight is a product of ancient
+magic, and although these leggings are also
+imbued with magic, they are incredibly heavy.
+
+###130000
+
+Crystallized Helm worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.
+
+###131000
+
+Crystallized armor worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.
+
+###132000
+
+Crystallized gauntlets worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.
+
+###133000
+
+Crystallized leggings worn by a Hollowed knight,
+who was partially crystallized.
+
+The power of the crystal grants high defense.
+
+###660000
+Helm of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of the helm's owner can be
+surmised from the corrosive Dark of the
+Abyss, and the musty azure-blue tassel,
+once a symbol of pride and glory.
+
+###661000
+Armor of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of the armor's owner can be
+surmised from the corrosive Dark of the
+Abyss, and the tattered azure-blue cape,
+once a symbol of pride and glory.
+
+###662000
+Gauntlets of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of their owner can be
+surmised from the corrosive Dark of the
+Abyss, which has compromised their
+protective utility.
+
+###663000
+Leggings of Artorias the Abysswalker,
+one of Gwyn's Four Knights.
+
+The death of their owner can be
+surmised from the corrosive Dark of the
+Abyss, which has compromised their
+protective utility.
+
+###670000
+Mask of the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+The cyclops headpiece is common to all of
+the Lord's Blades, but Ciaran was determined
+to earn this soft porcelain mask as a unique
+decoration of honor. The mask is lined with
+ivory locks of hair.
+
+###671000
+Robe of the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+A robe common to all of the Lord's Blades.
+These deadly women shift nimbly between
+layers of darkness, etching streaks of gold
+into the night air, and planting visions of
+terror into the minds of their targets.
+
+###672000
+Gloves worn by the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+Gloves common to all of the Lord's Blades.
+These deadly women shift nimbly between
+layers of darkness, etching streaks of gold
+into the night air, and planting visions of
+terror into the minds of their targets.
+
+###673000
+Waistcloth worn by the Lord's Blade Ciaran,
+one of Gwyn's Four Knights.
+
+Waistcloth common to all the Lord's Blades.
+These deadly women shift nimbly between
+layers of darkness, etching streaks of gold
+into the night air, and planting visions of
+terror into the minds of their targets.
+
+###680000
+Helm of Hawkeye Gough,
+one of Gwyn's Four Knights.
+Received as a decoration of knightly honor.
+
+A helm crafted especially for the honorable
+Hawkeye Gough, only the eye holes were
+packed with tree resin by those who
+dismissed Gough as a brutish giant.
+
+###681000
+Armor of Hawkeye Gough,
+one of Gwyn's Four Knights.
+
+Armor donned by Gough since his days
+as a dragonslayer. The medallion,
+bequeathed by the Lord Himself,
+and the dragon bone pauldrons are
+symbols of the highest honors.
+
+###682000
+Gauntlets of Hawkeye Gough,
+one of Gwyn's Four Knights.
+
+Received as a decoration of honor.
+Crafted of similar material to the
+gauntlets worn by the Silver Knights.
+
+###683000
+Leggings of Hawkeye Gough,
+one of Gwyn's Four Knights.
+
+Received as a decoration of honor.
+Crafted of similar material to the
+gauntlets worn by the Silver Knights.
+
+###690000
+Helm of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted helms are
+oppressively heavy.
+
+###691000
+Armor of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted armor is
+oppressively heavy.
+
+###692000
+Gauntlets of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted gauntlets are
+oppressively heavy.
+
+###693000
+Leggings of the stone knights,
+guardians of the forest sanctuary.
+
+The stone knights are golems animated
+by magic, and their enchanted leggings are
+oppressively heavy.
+
+###700000
+Black top hat worn by Marvellous Chester,
+a man of mystery lost in the past.
+
+The wearer of this top hat cracks a dubious,
+permanent grin. The Curse of Chester!
+
+###701000
+Black leather long coat hat worn by
+Marvellous Chester, a man of mystery
+lost in the past.
+
+This exquisitely sewn aristocratic suit
+allows its wearer to move in silence,
+lending well to stealth.
+
+###702000
+Leather gloves worn by Marvellous Chester,
+a man of mystery lost in the past.
+
+These gloves have no distinguishing
+features, but are of extremely high quality.
+
+###703000
+Black leather trousers worn by
+Marvellous Chester, a man of mystery
+lost in the past.
+
+These exquisitely sewn trousers are
+decorated with silver trinkets of varying
+sizes, and have straps on the inner legs
+for carrying crossbow bolts.
+
+###710000
+The head of an Oolacile resident whose
+humanity went wild after being devoured
+by the Dark of Manus, Father of the Abyss.
+
+The bloated head is fissured, the cracks
+lined with innumerable tiny red eyeballs.
+With a hard outside and mucous-filled
+inside, no sane person could ever wear it.
+
+###720000
+The head of an Oolacile resident whose
+humanity went wild after being devoured
+by the Dark of Manus, Father of the Abyss.
+
+The bloated head is fissured, the cracks
+lined with innumerable tiny red eyeballs,
+and accented by protruding brain parts.
+It is lightly enchanted, suggesting that it
+may have belonged to a sorcerer.

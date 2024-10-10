@@ -1,0 +1,30 @@
+###ID 103
+
+###45130
+Failed to create new save data.
+Please exit the game and manually delete the save data.
+
+Selecting CANCEL will create new save data again.
+
+###45300
+Save data is corrupted.
+Would you like to attempt to repair the save data?
+Any corrupted characters will be discarded.
+
+Selecting CANCEL will load the save data again.
+
+###50530
+Error with Framerate detected and 
+Online mode is not accessible.
+Either continue the game in Offline mode
+or re-boot the game after solving the issue.
+
+###250059
+<?warpName10?>
+
+###250060
+<?warpName11?>
+
+###20001017
+Framerate is insufficient for Online play. 
+Returning to the Title menu. 

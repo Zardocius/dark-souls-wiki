@@ -1,0 +1,25 @@
+###ID 122
+
+###16020###16021
+<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back
+
+###16030###16031
+<?selectUD?>:Select <?selectLR?>:Change <?conclusion?>:Enter <?cancel?>:Back
+
+###16040###16041
+   
+
+###16504###16505
+<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close
+
+###18220###18320
+<?sysmsg@18310?>
+
+###18221###18301###18311###18321
+<?cancel?>:Close <?viewChange?>:Change Display
+
+###43007
+<?selectUD?>:Select <?selectLR?>:Change Value <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face
+
+###43013
+<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face

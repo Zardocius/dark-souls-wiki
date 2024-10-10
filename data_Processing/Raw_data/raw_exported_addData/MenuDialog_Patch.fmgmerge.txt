@@ -1,0 +1,80 @@
+###ID 102
+
+###45130
+<?sysmsg@45130?>
+
+###45300
+<?sysmsg@45300?>
+
+###50520
+<?sysmsg@50520?>
+
+###50521
+<?sysmsg@50521?>
+
+###50522
+<?sysmsg@50522?>
+
+###50523
+<?sysmsg@50523?>
+
+###50524
+<?sysmsg@50524?>
+
+###50525
+<?sysmsg@50525?>
+
+###50530
+<?sysmsg@50530?>
+
+###65230
+<?sysmsg@20001002?>
+
+###70001
+<?sysmsg@70001?>
+
+###70002
+<?sysmsg@70002?>
+
+###80000
+<?sysmsg@80000?>
+
+###80100
+<?sysmsg@80100?>
+
+###80110
+<?sysmsg@80110?>
+
+###80111
+<?sysmsg@80111?>
+
+###80112
+<?sysmsg@80112?>
+
+###80113
+<?sysmsg@80113?>
+
+###20001020
+<?sysmsg@20001020?>
+
+###30003000
+Resolution changed.
+Change to this setting?
+*Resolution will revert to original setting
+after <?pcenvTimer1?> seconds without a response.
+
+###30003001
+Full screen setting changed.
+Change to this setting?
+*Resolution will revert to original setting
+after <?pcenvTimer1?> seconds without a response.
+
+###30004000
+Duplicate key assignment.
+Please check key settings.
+
+###30004001
+One or more functions have not been assigned.
+
+###30005000
+OK to quit Dark Souls?

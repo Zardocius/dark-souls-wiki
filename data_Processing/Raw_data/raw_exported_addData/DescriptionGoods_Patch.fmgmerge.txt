@@ -1,0 +1,299 @@
+###ID 100
+
+###100
+Online play item.
+Leave summon sign.
+
+Be summoned to another world as a phantom
+through your sign, and defeat the area boss
+to acquire humanity.
+(Hollows cannot conduct summons)
+
+In Lordran, the flow of time is distorted,
+and the White Sign Soapstone allows
+Undead to assist one another.
+
+###101
+Online play item.
+Leave invasion sign.
+(Hollows cannot use the item)
+
+Be summoned to another world as a dark
+spirit, and defeat the summoner to acquire
+humanity.
+Certain Darkwraiths resist their descent into
+dark and persevere along the honorable path.
+The Red Sign Soapstone is for them.
+
+###102
+Online play item.
+Invade another world.
+(Only Covenanter can use the item while Hollows cannot)
+
+Defeat the master of the world you have
+invaded to acquire humanity.
+
+The Darkwraiths of Kaathe use this orb to
+seek humanity and plunge further into dark.
+Perhaps they are more human than we?
+
+###109
+Online play item.
+Lure phantoms from other worlds.
+(Only Covenanter can use the item while Hollows cannot)
+
+The dreadful Eyes of Death spread disaster
+across neighboring worlds. Phantoms lured
+to the host world may end up as victims,
+allowing the Eyes of Death to multiply,
+and leading to further proliferation of bane.
+
+###111
+Online play item.
+Invade another world.
+(Hollows cannot use the item)
+
+Defeat the master of the world you have
+invaded to acquire humanity.
+
+The Cracked Red Eye Orb allows players to
+temporarily imitate this ability normally
+limited to the Darkwraiths of Kaathe.
+
+###113
+Online play item.
+Invade world of player in Book of the Guilty.
+Subdue player to acquire Souvenir of Reprisal.
+(Only Covenanter can use the item)
+
+These mystical orbs are granted to
+Blades of the Darkmoon, knights who serve
+the Dark Sun Gwyndolin, so that they may
+serve the Gods in meting out vengeance.
+
+###114
+Online play item.
+Find a player who has acquired a Dragon Scale
+and invade that player's world to pillage it.
+(Only Covenanter can use the item)
+
+An art of the transcendent apostles who pray
+to the ancient dragons. To be alive is to be
+vulnerable, and the fiery Gods are no
+exception. The apostles seek another plane
+of existence, which transcends life.
+
+###115
+Mystical orb found on a Keeper's corpse.
+
+Invade the world of the murderer of a 
+Fire Keeper, to defeat the perpetrator and
+reclaim the soul of the Fire Keeper.
+
+The Black Eye keeps constant watch on the
+city of the Gods, Anor Londo.
+
+###118
+Online play item.
+Quit Battle of Stoicism.
+(Session ends if host leaves)
+
+Victory in this battle once led to ancient
+Anor Londo, but even in the absence
+of its overseer, capitulation is a disgrace.
+In the name of a warrior's honor, do not
+quickly resort to use of this crystal.
+
+###220
+Silver pendant engraved with
+the crest of Artorias.
+
+One of the ancient treasures of Anor Londo.
+Presented to Artorias for facing the Abyss.
+
+Effectively deflects the Dark of the Abyss,
+especially in its magic forms.
+
+###230
+Large medicinal mushroom of
+Elizabeth, keeper of the sanctuary.
+
+Eating this mushroom invigorates the flesh,
+and greatly restores HP for a limited duration.
+
+Its dramatic effect can make the difference
+between a warrior's life and death.
+
+###375
+This faintly warm medal, engraved with the
+symbol of the Sun, is the ultimate honor,
+awarded to those who summon the Warrior
+of Sunlight and complete a goal.
+
+The symbol represents Lord Gwyn's firstborn,
+who lost his deity status and was expunged
+from the annals. But the old God of War
+still watches closely over his warriors.
+
+###376
+A simple pendant with no effect.
+
+Even so, pleasant memories are crucial
+to survival on arduous journeys.
+
+###393###394###395###396
+Soul of a long-lost Fire Keeper.
+
+Each Fire Keeper is a corporeal manifestation
+of her bonfire, and a draw for the humanity
+which is offered to her. Her soul is gnawed
+by infinite humanity, and can boost the power
+of precious Estus Flasks.
+
+It can be used to gain Humanity and restore HP
+at the cost of losing the Fire Keeper soul to
+reinforce the Estus Flasks.
+
+###510
+Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Hello". Have another look.
+Do you sense the amicability in its eyes?
+
+###511
+Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Thank you". Have another
+look. Is this not a face of gratitude?
+
+###512
+Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Very good!" Have another
+look. Does it not appear quite jovial?
+
+###513
+Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "I'm sorry". Have another look.
+Isn't that an expression of atonement?
+
+###514
+Head carved of archtrees by Gough in his
+imprisonment. Gough imparts an emotion to
+each and every completed carving, which
+helps him achieve personal enlightenment.
+When a head is disturbed, it speaks,
+reflecting the emotion conferred to it.
+
+This head says "Help me!" Look again.
+Can you hear the desperate plea?
+
+###707
+Soul of Priscilla the Crossbreed,
+trapped inside the painted world of Ariamis.
+
+Special beings have special souls.
+Use the soul of this crossbreed bastard
+child and antithesis to all life to acquire
+a huge amount of souls, or to create
+a unique weapon.
+
+###709
+Soul of the white winged lion sanctuary
+watchkeeper, who dreaded the spread of
+the Abyss.
+
+The Guardian exhibited traits of several
+animals other than lions, suggesting that it
+was no ordinary beast, but rather
+closer to the beings known as Demons.
+
+###710
+Soul of Lord Gwyn's Knight Artorias,
+who was consumed by the Abyss.
+
+The legend that Artorias repelled the Abyss
+only told half of the story.
+
+It seems that he was defeated, and his
+honor preserved, by some unsung hero,
+who is the true victor over the Abyss.
+
+###711
+Soul of Manus, Father of the Abyss.
+This extraordinary soul is a viscous,
+lukewarm lump of gentle humanity.
+
+Ancient Manus was clearly once human.
+But he became the Father of the Abyss
+after his humanity went wild, eternally
+seeking his precious broken pendant.
+
+###2022
+Bent Crest Key.
+
+The grooves of the crest are enchanted,
+the door sealed with a powerful spell.
+
+###2520
+Half of a broken stone pendant.
+The vine appears to originate from Oolacile.
+
+A powerful magic can be sensed from this
+ancient stone. Yet men of this time can
+neither manipulate nor sense its power,
+which has a distinct air consisting of
+both reverence and nostalgia.
+
+###5020
+Great miracle cast by advanced clerics.
+Restores high HP.
+
+Great Heal Excerpt borrows from only
+several verses of Great Heal. As a result,
+it can only be cast a stark few times.
+
+###5040
+Common miracle amongst cleric knights.
+Gradual HP restoration.
+
+Beware of the cleric knight blessed by
+Replenishment, for he shall not fall easily.
+
+###5210
+Great miracle cast by advanced clerics.
+Return to last bonfire rested at.
+
+Would normally link to one's homeland,
+only the curse of the Undead has distorted
+its power, redirecting casters to a bonfire.
+Or perhaps for Undead, this serves as home?
+
+###5400
+Miracle of clerics on an Undead mission.
+Display more guidance from other worlds.
+
+Guidance facilitates communication between
+Undead, but their value varies greatly.
+A balance of faith and wisdom is required.

@@ -1,0 +1,40 @@
+###ID 110
+
+###118
+Exit Battle of Stoicism
+
+###220
+Silver pendant. Deflects Dark.
+
+###230
+Greatly restores HP for a limited duration
+
+###510
+Archtree carving. Says "Hello"
+
+###511
+Archtree carving. Says "Thank you"
+
+###512
+Archtree carving. Says "Very good!"
+
+###513
+Archtree carving. Says "I'm sorry"
+
+###514
+Archtree carving. Says "Help me!"
+
+###709
+Soul of Sanctuary Guardian
+
+###710
+Soul of Knight Artorias, Victim of the Abyss
+
+###711
+Soul of Manus, Father of the Abyss
+
+###2022
+Bent Crest Key
+
+###2520
+Broken stone pendant. Deeply enchanted.

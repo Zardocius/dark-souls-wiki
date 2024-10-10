@@ -1,0 +1,94 @@
+###ID 107
+
+###1100
+Imminent drake...
+
+###1202
+Imminent merchant...
+
+###2101
+Battle of Stoicism is only available online.
+
+###2102
+Wait for competitors on a trap door.
+
+###2103
+The battle is timed.
+At the end, the winner dons a great crown.
+
+###2104
+The warrior with the most kills receives a great crown.
+With equal kills, all warriors receive tiny crowns (a draw).
+
+###2105
+It is easier to find competitors
+on a trap door with fewer red rings.
+
+###2106
+Cannot use healing items in Battle of Stoicism.
+
+###2107
+Earn consecutive wins to be
+etched in the Slate of Legends.
+
+###2108
+Win streak resets to zero if player
+retires to the gazebo.
+
+###2109
+There are 3 types of Battle of Stoicism matches:
+Duel (1 vs. 1) Team (2 vs. 2) and Deathmatch (4)
+
+###2110
+Allies receive credit for every fallen enemy.
+In Deathmatch, all players except victim receive credit.
+
+###2111
+No damage taken at start of battle or in rematch immediately 
+after falling from trap door. 
+
+###2112
+Wait at this trap door to become host.
+
+###2114
+Duel: Ruins
+
+###2115
+Duel: Dais
+
+###2116
+Team: Ruins
+
+###2117
+Team: Dais
+
+###2118
+Deathmatch: Ruins
+
+###2119
+Deathmatch: Dais
+
+###2120
+Let there be light...
+
+###2121
+A dragon high above the sky,
+out of sight of the naked eye.
+
+###2122
+If only Hawkeye were here...
+
+###3000
+Treasure
+
+###3004
+Up
+
+###3100
+Shortcut ahead
+
+###6002
+Imminent jumping off...
+
+###7002
+Imminent fall...

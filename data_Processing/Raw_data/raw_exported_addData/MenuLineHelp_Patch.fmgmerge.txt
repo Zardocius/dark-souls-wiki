@@ -1,0 +1,46 @@
+###ID 121
+
+###16020
+Please change PC settings
+
+###16021
+Please adjust PC settings
+
+###16030
+Please change key settings
+
+###16031
+Please adjust key settings
+
+###16040###16041
+Press key to assign.
+
+###16504
+Change PC settings
+
+###16505
+Change key settings
+
+###18221###18321
+Detailed info
+
+###18230###18235###18240###18330###18335###18340
+Level 50 and below
+
+###18231###18236###18241###18331###18336###18341
+Level 51-100
+
+###18232###18237###18242###18332###18337###18342
+Level 101-200
+
+###18233###18238###18243###18333###18338###18343
+Level 201+
+
+###18234###18239###18244###18334###18339###18344
+All levels
+
+###18301
+Advanced data on Most Wanted
+
+###18311
+Advanced data on Servants of Chaos

@@ -1,0 +1,199 @@
+###ID 70
+
+###110000
+Varasto
+
+###110001
+Laitteet
+
+###110003
+Tila
+
+###110005
+Asetukset
+
+###110006
+Järjestelmä
+
+###110007###114103###115004
+Kirkkaus
+
+###111010
+Pudota
+
+###111011
+Muuta järjestystä
+
+###111012
+Nollaa tilaus
+
+###111013
+Käytä esine
+
+###112000
+Panssari
+
+###112001
+Pää
+
+###112002
+Rintakehä
+
+###112003
+Kädet
+
+###112004
+Jalat
+
+###112010
+Aseet
+
+###112011
+Oikea käsi
+
+###112012
+Vasen käsi
+
+###112013
+Nuoli
+
+###112014
+varsijousen nuoli
+
+###112020
+Sormus
+
+###112030
+Käyttökelpoinen kohde
+
+###114000
+Ohjaimet
+
+###114002
+X-akseli
+
+###114003
+Y-akseli
+
+###114004
+Kameran Nopeus
+
+###114006
+Tärinä
+
+###114007
+Kytke automaattinen lukitus päälle
+
+###114008
+Kameran automaattinen seinän palautus
+
+###114100
+Näyttö
+
+###114101
+Näytä verta
+
+###114102
+Tekstitykset
+
+###114104
+HUD
+
+###114110
+Säädä kirkkautta liekkiin asti
+
+###114111
+on näkyvä ja lohikäärme näkymätön
+
+###114200###114203###114204
+Ääni
+
+###114202
+Musiikki
+
+###114250
+<?platmsg@10005?>
+
+###114251
+Liity tulostaulukkoon
+
+###114300
+Alustaa
+
+###114301
+Hyvä
+
+###114400
+PÄÄLLÄ
+
+###114401
+VINOSSA
+
+###114404
+Normaali
+
+###114405
+Käänteinen
+
+###114407
+Lievä
+
+###115000
+Vaihtoehdot
+
+###115002
+Lopeta peli
+
+###127000
+Viittoa
+
+###127001
+Osoita eteenpäin
+
+###127002
+Eläköön!
+
+###127003
+Kumartua
+
+###127004
+Riemu
+
+###127005
+kohauttaa olkiaan
+
+###127006
+Aalto
+
+###127007
+Ylistä aurinkoa
+
+###127008
+Osoittaa
+
+###127009
+Osoita alas
+
+###127010
+Katso taivaalle
+
+###127011
+Hyvin! Mikä se on!
+
+###127012
+Uupumus
+
+###127013
+Oikea jousi
+
+###127014
+Rukous
+
+###127200
+Ele-valikko
+
+###141000
+Lähetä Phantom kotiin
+
+###141001
+<?conclusion?>:HYVÄ　<?cancel?>:PERUUTTAA
