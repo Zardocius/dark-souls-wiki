@@ -2,7 +2,7 @@
 
 # Dark Souls Wiki
 
-This wiki site is part of the Omnia website development assignment, focused on organizing and displaying data related to Dark Souls weapons.
+This wiki site is part of the Omnia website development assignment, focused on organizing and displaying data related to Dark Souls.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ This wiki site is part of the Omnia website development assignment, focused on o
 
 ## Demo
 
-Check out a live demo of the project [here](#).  
+Check out a live demo of the project [here](https://dswiki.zardocius.xyz/).  
 _(Include a link to the deployed app, if available.)_
 
 ## Installation
