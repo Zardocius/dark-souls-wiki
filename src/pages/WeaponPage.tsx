@@ -1,6 +1,6 @@
 // src/pages/WeaponPage.tsx
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { WeaponIndex, Weapon } from "../types"; // Make sure to import the types
 import "../css/pages/WeaponPage.scss";
 
@@ -58,7 +58,15 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
           <div className="weaponPage-topTexts">
             <h1>{weaponData.Name}</h1>
             {weaponCategory ? (
-              <h2>Category: {weaponCategory.category}</h2>
+              <h2>
+                Category:
+                <Link
+                  to={`/category/${weaponCategory.slug}`}
+                  className="category-link"
+                >
+                  {weaponCategory.category}
+                </Link>
+              </h2>
             ) : null}{" "}
             {/* Safely access category */}
           </div>
@@ -69,16 +77,35 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
             />
           </div>
         </div>
-        <p>
-          {weaponData.description
-            ? weaponData.description.split("\n").map((line, index) => (
-                <span key={index}>
-                  {line}
-                  <br />
-                </span> // Adding a line break for each line
-              ))
-            : "No description available"}
-        </p>
+        <div className="weaponPage-MidPage">
+          <p>
+            {weaponData.description
+              ? weaponData.description.split("\n").map((line, index) => (
+                  <span key={index}>
+                    {line}
+                    <br />
+                  </span> // Adding a line break for each line
+                ))
+              : "No description available"}
+          </p>
+          <div className="weaponPage-Requirements">
+            <p>Requirements</p>
+            <table>
+              <tr>
+                <th>Str</th>
+                <th>Dex</th>
+                <th>Fai</th>
+                <th>Mag</th>
+              </tr>
+              <tr>
+                <th>{weaponData.properStrength}</th>
+                <th>{weaponData.properAgility}</th>
+                <th>{weaponData.properFaith}</th>
+                <th>{weaponData.properMagic}</th>
+              </tr>
+            </table>
+          </div>
+        </div>
         <p>Weight: {weaponData.weight || "N/A"}</p>
         <p>Durability: {weaponData.durability || "N/A"}</p>
         {/* Add any additional weapon details you want to display here */}
@@ -86,10 +113,6 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
         <p>Magic Damage:{weaponData.attackBaseMagic}</p>
         <p>Fire Damage:{weaponData.attackBaseFire}</p>
         <p>Lightning Damage:{weaponData.attackBaseThunder}</p>
-        <p>Bleed:{weaponData.attackBaseRepel}</p>
-        <p>Physical Damage:{weaponData.attackBasePhysics}</p>
-        <p>Physical Damage:{weaponData.attackBasePhysics}</p>
-        <p>Physical Damage:{weaponData.attackBasePhysics}</p>
       </div>
     </div>
   );

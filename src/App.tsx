@@ -11,6 +11,7 @@ import Footer from "./elements/Footer";
 import Spells from "./pages/Spells";
 import World from "./pages/World";
 import Main from "./pages/main";
+import Misc from "./pages/Misc";
 
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
@@ -22,7 +23,9 @@ const App: React.FC = () => {
       try {
         const response = await fetch("/weaponIndex.json");
         if (!response.ok) {
-          throw new Error(`Failed to fetch weapon index: ${response.statusText}`);
+          throw new Error(
+            `Failed to fetch weapon index: ${response.statusText}`
+          );
         }
         const data = await response.json();
         setWeaponIndex(data);
@@ -50,13 +53,24 @@ const App: React.FC = () => {
       <Header />
       <Routes>
         <Route path="/" element={<Main />} />
-        <Route path="/equipment" element={<Equipment weaponIndex={weaponIndex} />} />
-        <Route path="/category/:slug" element={<CategoryWeaponsPage weaponIndex={weaponIndex} />} /> {}
+        <Route
+          path="/equipment"
+          element={<Equipment weaponIndex={weaponIndex} />}
+        />
+        <Route
+          path="/category/:slug"
+          element={<CategoryWeaponsPage weaponIndex={weaponIndex} />}
+        />{" "}
+        {}
         <Route path="/spells" element={<Spells />} />
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
+        <Route path="/misc" element={<Misc />} />
         <Route path="/character" element={<Character />} />
-        <Route path="/weapons/:weaponSlug" element={<WeaponPage weaponIndex={weaponIndex} />} />
+        <Route
+          path="/weapons/:weaponSlug"
+          element={<WeaponPage weaponIndex={weaponIndex} />}
+        />
       </Routes>
       <Footer />
     </Router>

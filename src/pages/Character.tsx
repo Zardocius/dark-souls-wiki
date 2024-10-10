@@ -3,7 +3,7 @@ const Character = () => {
     <div className="container">
       <div className="box">
         <h1>Characters</h1>
-        <p>Site is Underconstruction</p>
+        <p>Site is Under construction</p>
       </div>
     </div>
   );

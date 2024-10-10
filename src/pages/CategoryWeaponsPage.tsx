@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 import { WeaponCategory, Weapon } from "../types"; // Ensure you import the correct types
+import "../css/pages/CategoryWeaponsPage.scss";
 
 type CategoryWeaponsPageProps = {
   weaponIndex: WeaponCategory[];
@@ -67,15 +68,26 @@ const CategoryWeaponsPage: React.FC<CategoryWeaponsPageProps> = ({
               const weaponData = weaponsData[index]; // Get the corresponding weapon data by index
               return (
                 <li key={weapon.slug} className="category-weapon-item">
-                  <div className="weapon-image-container">
-                    <img
-                      src={`/images/items/weapons/${weapon.slug}.png`} // Adjust the image path as necessary
-                      alt={weapon.Name}
-                      className="weapon-image"
-                    />
-                  </div>
-                  <div className="weapon-details">
-                    <span className="category-weapon-name">{weapon.Name}</span>
+                  <Link to={`/weapons/${weapon.slug}`} className="weapon-link">
+                    <div className="weapon-details">
+                      <span className="category-weapon-name">
+                        {weapon.Name}
+                      </span>
+                    </div>
+                  </Link>
+                  <div className="category-statimage">
+                    <Link
+                      to={`/weapons/${weapon.slug}`}
+                      className="weapon-link"
+                    >
+                      <div className="weapon-image-container">
+                        <img
+                          src={`/images/items/weapons/${weapon.slug}.png`} // Adjust the image path as necessary
+                          alt={weapon.Name}
+                          className="weapon-image"
+                        />
+                      </div>
+                    </Link>
                     <div className="weapon-stats">
                       <table className="weapon-stats-table">
                         <thead>

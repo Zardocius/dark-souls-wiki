@@ -15,6 +15,7 @@ const Footer = () => {
                 <Link to="/world">World</Link>
                 <Link to="/info">Information</Link>
                 <Link to="/character">Character</Link>
+                <Link to="/misc">Misc</Link>
               </ul>
             </div>
             <div className="community">
@@ -36,7 +37,10 @@ const Footer = () => {
             <div className="open-source">
               <h4>Open Source</h4>
               <p>
-                This wiki is open source. <a href="#">View on GitHub</a>
+                This wiki is open source.{" "}
+                <a href="https://github.com/Zardocius/dark-souls-wiki">
+                  View on GitHub
+                </a>
               </p>
             </div>
           </div>

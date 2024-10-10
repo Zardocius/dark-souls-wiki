@@ -47,6 +47,9 @@ const Header = () => {
                 <Link to="/character" onClick={handleLinkClick}>
                   Character
                 </Link>
+                <Link to="/misc" onClick={handleLinkClick}>
+                  Misc
+                </Link>
               </div>
             </div>
             <div className="hamburger" onClick={toggleMenu}>

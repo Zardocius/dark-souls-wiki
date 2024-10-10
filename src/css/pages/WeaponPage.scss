@@ -7,3 +7,9 @@
 .weaponPage-Top img {
     width: 150px;
 }
+
+.weaponPage-MidPage {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
