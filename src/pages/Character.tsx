@@ -1,7 +1,10 @@
 const Character = () => {
   return (
-    <div>
-      <p>Character</p>
+    <div className="container">
+      <div className="box">
+        <h1>Characters</h1>
+        <p>Site is Underconstruction</p>
+      </div>
     </div>
   );
 };

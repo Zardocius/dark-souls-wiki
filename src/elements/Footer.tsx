@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Footer = () => {
   return (
     <footer>
@@ -7,27 +9,12 @@ const Footer = () => {
             <div className="nav-links">
               <h4>Navigation</h4>
               <ul>
-                <li>
-                  <a href="#">Home</a>
-                </li>
-                <li>
-                  <a href="#">Lore</a>
-                </li>
-                <li>
-                  <a href="#">Weapons</a>
-                </li>
-                <li>
-                  <a href="#">Armor</a>
-                </li>
-                <li>
-                  <a href="#">Enemies</a>
-                </li>
-                <li>
-                  <a href="#">Locations</a>
-                </li>
-                <li>
-                  <a href="#">NPCs</a>
-                </li>
+                <Link to="/">Home</Link>
+                <Link to="/equipment">Equipment</Link>
+                <Link to="/spells">Spells</Link>
+                <Link to="/world">World</Link>
+                <Link to="/info">Information</Link>
+                <Link to="/character">Character</Link>
               </ul>
             </div>
             <div className="community">
@@ -39,7 +26,7 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="#">Discord Server</a>
+                  <a href="https://discord.gg/fromsoftware">Discord Server</a>
                 </li>
                 <li>
                   <a href="http://darksouls.wikidot.com/">Other Wikis</a>

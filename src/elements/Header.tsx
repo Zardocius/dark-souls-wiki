@@ -20,7 +20,9 @@ const Header = () => {
         <div>
           <div className="header-top">
             <div className="header-icon">
-              <img src="/android-chrome-192x192.png" alt="Logo" />
+              <Link to="/" onClick={handleLinkClick}>
+                <img src="/android-chrome-192x192.png" alt="Logo" />
+              </Link>
             </div>
             <div className="header-texts">
               <div className="header-name">
@@ -28,7 +30,7 @@ const Header = () => {
               </div>
               <div className={`header-links ${isOpen ? "open" : ""}`}>
                 <Link to="/" onClick={handleLinkClick}>
-                  Frontpage
+                  Home
                 </Link>
                 <Link to="/equipment" onClick={handleLinkClick}>
                   Equipment
