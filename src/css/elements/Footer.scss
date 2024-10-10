@@ -1,39 +1,13 @@
-footer {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  margin-top: 100px;
-  margin-bottom: 50px;
-  padding-top: 55px;
+.footer-top{
+    display: flex;
+    justify-content: space-between;
 }
 
-.footer-top {
-  padding-left: 20px;
-  padding-right: 20px;
-  width: 100%;
-  display: flex;
-  flex-direction: row; /* Keep categories in a horizontal row */
-  align-items: start;
-  justify-content: space-between;
-}
+@media (max-width: 768px) {
+    .footer-top{
+        display: flex;
+        flex-direction:column;
+    }
 
-.footer-list {
-  display: flex;
-  flex-direction: column; /* Stack the items vertically */
-}
 
-.footer-list li {
-  list-style: none; /* Remove default bullet points */
-  margin-bottom: 10px; /* Space between list items */
-}
-
-.footer-list a {
-  color: inherit; /* Inherit color from parent */
-  text-decoration: none; /* Remove underline from links */
-}
-
-.footer-list a:hover {
-  text-decoration: underline; /* Add underline on hover */
 }

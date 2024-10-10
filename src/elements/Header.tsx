@@ -1,5 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
+import "../css/elements/Header.scss";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false); // State to manage menu visibility
@@ -14,25 +15,43 @@ const Header = () => {
   };
 
   return (
-    <header>
-      <div className="HeaderIcon">
-        <img src="/android-chrome-192x192.png" alt="Logo" />
-      </div>
-      <div className="HeaderTexts">
-        <div className="HeaderName">
-          <span>Dark Souls Wiki</span>
+    <header className="container">
+      <div className="box">
+        <div>
+          <div className="header-top">
+            <div className="header-icon">
+              <img src="/android-chrome-192x192.png" alt="Logo" />
+            </div>
+            <div className="header-texts">
+              <div className="header-name">
+                <span>Dark Souls Wiki</span>
+              </div>
+              <div className={`header-links ${isOpen ? "open" : ""}`}>
+                <Link to="/" onClick={handleLinkClick}>
+                  Frontpage
+                </Link>
+                <Link to="/equipment" onClick={handleLinkClick}>
+                  Equipment
+                </Link>
+                <Link to="/spells" onClick={handleLinkClick}>
+                  Spells
+                </Link>
+                <Link to="/world" onClick={handleLinkClick}>
+                  World
+                </Link>
+                <Link to="/info" onClick={handleLinkClick}>
+                  Information
+                </Link>
+                <Link to="/character" onClick={handleLinkClick}>
+                  Character
+                </Link>
+              </div>
+            </div>
+            <div className="hamburger" onClick={toggleMenu}>
+              &#9776; {/* Hamburger icon */}
+            </div>
+          </div>
         </div>
-        <div className={`HeaderLinks ${isOpen ? "open" : ""}`}>
-          <Link to="/" onClick={handleLinkClick}>Frontpage</Link>
-          <Link to="/equipment" onClick={handleLinkClick}>Equipment</Link>
-          <Link to="/spells" onClick={handleLinkClick}>Spells</Link>
-          <Link to="/world" onClick={handleLinkClick}>World</Link>
-          <Link to="/info" onClick={handleLinkClick}>Information</Link>
-          <Link to="/character" onClick={handleLinkClick}>Character</Link>
-        </div>
-      </div>
-      <div className="hamburger" onClick={toggleMenu}>
-        &#9776; {/* Hamburger icon */}
       </div>
     </header>
   );

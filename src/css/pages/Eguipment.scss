@@ -1,0 +1,81 @@
+/* Navbar at the top of the page */
+.category-navbar {
+    top: 0;
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+}
+
+.navbar-container {
+    display: flex; /* Use Flexbox for row layout */
+    justify-content: space-between; /* Space out items evenly */
+    align-items: center; /* Center items vertically */
+    flex-wrap: wrap;
+}
+
+.category-nav-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    text-align: center; /* Center text under icon */
+}
+
+.category-icon {
+    width: 100px; /* Adjust the size of icons */
+    cursor: pointer;
+}
+
+.category-text {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #000000;
+}
+
+/* Add padding to account for fixed navbar */
+.container {
+    padding-top: 70px; /* Adjust based on navbar height */
+}
+
+.eguipment-category-container {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    margin: 10px 0;
+    text-align: center;
+}
+
+/* Weapon list and item styles remain the same */
+.eguipment-weapon-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.eguipment-weapon-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between; /* Distributes image at the top and text at the bottom */
+    text-align: center;
+    height: 150px; /* Set a height for the container */
+    width: 120px; /* Set a width for the weapon item */
+    padding: 10px; /* Add padding for spacing */
+    box-sizing: border-box; /* Ensure padding doesn’t affect overall size */
+}
+
+.weapon-image {
+    margin-bottom: auto; /* Pushes the image towards the top */
+    max-width: 100px;
+    height: auto;
+}
+
+.weapon-name {
+    margin-top: auto; /* Pushes the text towards the bottom */
+    font-weight: bold;
+    font-size: 14px;
+}

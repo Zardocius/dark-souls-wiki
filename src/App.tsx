@@ -1,20 +1,18 @@
-// src/App.tsx
-import React, { useEffect, useState } from "react";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Header from "./elements/Header"; // Assuming you have a Header component
-import Footer from "./elements/Footer"; // Assuming you have a Footer component
-import Main from "./pages/Main";
+import React, { useEffect, useState } from "react";
+import { WeaponIndex } from "./types";
+import CategoryWeaponsPage from "./pages/CategoryWeaponsPage";
+import Information from "./pages/Information";
+import WeaponPage from "./pages/WeaponPage";
 import Equipment from "./pages/Equipment";
+import Character from "./pages/Character";
+import Header from "./elements/Header";
+import Footer from "./elements/Footer";
 import Spells from "./pages/Spells";
 import World from "./pages/World";
-import Information from "./pages/Information";
-import Character from "./pages/Character";
-import WeaponPage from "./pages/WeaponPage";
-import { WeaponIndex } from "./types"; // Correct import
-import "./css/App.scss";
+import Main from "./pages/main";
 
 const App: React.FC = () => {
-  // Change weaponIndex to be of type WeaponIndex, not WeaponIndex[]
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -22,12 +20,12 @@ const App: React.FC = () => {
   useEffect(() => {
     const fetchWeaponIndex = async () => {
       try {
-        const response = await fetch("/weaponIndex.json"); // Load weaponIndex.json from public folder
+        const response = await fetch("/weaponIndex.json");
         if (!response.ok) {
           throw new Error(`Failed to fetch weapon index: ${response.statusText}`);
         }
         const data = await response.json();
-        setWeaponIndex(data); // Set the fetched data to state
+        setWeaponIndex(data);
       } catch (error) {
         console.error(error);
         setError("Failed to load weapon index.");
@@ -53,6 +51,7 @@ const App: React.FC = () => {
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/equipment" element={<Equipment weaponIndex={weaponIndex} />} />
+        <Route path="/category/:slug" element={<CategoryWeaponsPage weaponIndex={weaponIndex} />} /> {}
         <Route path="/spells" element={<Spells />} />
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
