@@ -49,8 +49,9 @@ const Footer = () => {
               This site is a fan-made project and is not affiliated with Bandai
               Namco Entertainment or FromSoftware.
             </p>
-            <p>© 2024 Dark Souls Wiki Project. All rights reserved.</p>
-            <a href="#">Terms of Use</a> | <a href="#">Privacy Policy</a>
+            <p>
+              © 2024 Dark Souls Wiki Project. Licensed under the MIT License.
+            </p>
           </div>
         </div>
       </div>

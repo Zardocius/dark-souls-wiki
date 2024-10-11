@@ -48,6 +48,15 @@ const Main = () => {
                 <strong>Vite:</strong> A fast development environment for modern
                 web applications.
               </li>
+              <li>
+                <strong>
+                  <a href="https://github.com/soulsmods/DSMapStudio">
+                    DSMapStudio
+                  </a>
+                </strong>{" "}
+                Suite of modding tools for Elden Ring, Sekiro, the Dark Souls
+                series, Bloodborne, and Demon's Souls
+              </li>
             </ul>
             <p>
               This wiki is an ongoing project, with core features designed to

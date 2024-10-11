@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { WeaponCategory } from "../types"; // Adjust path according to your file structure
 import "../css/pages/Eguipment.scss";
+import Goto from "../elements/Gogo";
 
 type EquipmentProps = {
   weaponIndex: WeaponCategory[]; // Use the imported type for weaponIndex
@@ -12,6 +13,7 @@ const Equipment: React.FC<EquipmentProps> = ({ weaponIndex }) => {
 
   return (
     <div>
+      <Goto />
       <div className="container">
         <div className="box">
           <h2>Weapon Categories</h2>

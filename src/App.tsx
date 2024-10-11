@@ -56,7 +56,7 @@ const App: React.FC = () => {
         <Route
           path="/equipment"
           element={<Equipment weaponIndex={weaponIndex} />}
-        />
+        ></Route>
         <Route
           path="/category/:slug"
           element={<CategoryWeaponsPage weaponIndex={weaponIndex} />}
