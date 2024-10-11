@@ -1,104 +1,129 @@
-  
-  .category-root {
-    text-align: center;
+.category-root {
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.category-weapon-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.category-weapon-item {
+  margin: 30px;
+  a {
+    text-decoration: none;
   }
-  
-  h2 {
-    margin-bottom: 20px;
-    color: #333;
-  }
-  
-  .category-weapon-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  
+}
+
+.category-statimage {
+  display: flex;
+}
+
+.weapon-image-container {
+  flex-shrink: 0; /* Prevent image from shrinking */
+  margin-right: 15px;
+}
+
+.weapon-image {
+  width: 80px;
+}
+
+.weapon-details {
+  flex-grow: 1; /* Allow weapon details to take up remaining space */
+  text-align: left;
+}
+
+.category-weapon-name {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: #333;
+  width: 100%;
+  display: flex;
+  margin-bottom: 8px; /* Add some space between name and stats */
+}
+
+.weapon-stats {
+  margin-top: 5px;
+  overflow-x:auto;
+}
+
+.weapon-stats-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.weapon-stats-table th,
+.weapon-stats-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.weapon-stats-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.weapon-stats-table td {
+  color: #555;
+}
+
+/* Make table responsive */
+.weapon-stats-table-container {
+  width: 100%;
+  overflow-x: auto; /* Enable horizontal scrolling on small screens */
+  display: block; /* Ensures scroll is respected */
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile */
+}
+
+.weapon-stats-table {
+  min-width: 600px; /* Set a minimum width to ensure table doesn't break */
+  table-layout: auto; /* Let the browser calculate column width based on content */
+}
+
+@media (max-width: 768px) {
   .category-weapon-item {
-    margin: 30px;
-    a {
-      text-decoration: none;
-    }
-  }
-  
-  .category-statimage {
-    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
   }
 
   .weapon-image-container {
-    flex-shrink: 0; /* Prevent image from shrinking */
-    margin-right: 15px;
+    margin-bottom: 10px;
   }
-  
-  .weapon-image {
-    width: 80px;
-  }
-  
-  .weapon-details {
-    flex-grow: 1; /* Allow weapon details to take up remaining space */
-    text-align: left;
 
-  }
-  
-  .category-weapon-name {
-    font-weight: bold;
-    font-size: 1.2em;
-    color: #333;
-    width: 100%;
-    display: flex;
-    margin-bottom: 8px; /* Add some space between name and stats */
-
-  }
-  
-  .weapon-stats {
-    margin-top: 5px;
-  }
-  
-  .weapon-stats-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9em;
-  }
-  
   .weapon-stats-table th,
   .weapon-stats-table td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: center;
+    font-size: 0.8em;
   }
-  
-  .weapon-stats-table th {
-    background-color: #f2f2f2;
-    font-weight: bold;
+
+  .weapon-stats-table {
+    width: auto; /* Allow table to shrink and scroll horizontally */
   }
-  
-  .weapon-stats-table td {
-    color: #555;
+}
+
+@media (max-width: 480px) {
+  .container {
+    max-width: 95%; /* Slightly increase width for smaller screens */
   }
-  
-  @media (max-width: 768px) {
-    .category-weapon-item {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-  
-    .weapon-image-container {
-      margin-bottom: 10px;
-    }
-  
-    .weapon-stats-table th,
-    .weapon-stats-table td {
-      font-size: 0.8em;
-    }
+
+  .weapon-image {
+    width: 60px;
+    height: 60px;
   }
-  
-  @media (max-width: 480px) {
-    .container {
-      max-width: 95%; /* Slightly increase width for smaller screens */
-    }
-  
-    .weapon-image {
-      width: 60px;
-      height: 60px;
-    }
+
+  .weapon-stats-table-container {
+    overflow-x: scroll; /* Force horizontal scroll on small screens */
+    max-width: 100%; /* Make sure the container doesn't exceed screen width */
   }
-  
+
+  .weapon-stats-table {
+    font-size: 0.75em; /* Reduce font size for smaller screens */
+    min-width: 100%; /* Ensure table is at least as wide as the container */
+    table-layout: fixed; /* Ensure consistent column widths */
+  }
+}

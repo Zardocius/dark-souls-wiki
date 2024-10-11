@@ -22,20 +22,22 @@ const CategoryWeaponsPage: React.FC<CategoryWeaponsPageProps> = ({
       if (category) {
         try {
           const promises = category.weapons.map(async (weapon) => {
+            console.log(`Fetching weapon data for: ${weapon.slug}`); // Log the slug being fetched
             const response = await fetch(`/weaponData/${weapon.slug}.json`); // Adjust the path as needed
             if (!response.ok) {
               throw new Error(
-                `Failed to fetch weapon data for ${weapon.slug}: ${response.statusText}`
+                `Failed to fetch weapon data for ${weapon.slug}: ${response.status} ${response.statusText}`
               );
             }
             const data = await response.json();
+            console.log(`Successfully fetched data for: ${weapon.slug}`); // Log success
             return data.base; // Assuming you're using the base data
           });
 
           const fetchedWeaponsData = await Promise.all(promises);
           setWeaponsData(fetchedWeaponsData);
         } catch (error) {
-          console.error(error);
+          console.error(`Error fetching weapon data: ${error}`); // Log error with message
           setError("Failed to load weapon data.");
         } finally {
           setLoading(false);

@@ -70,6 +70,7 @@ To set up the project locally, follow these steps:
 - **React Router**: For navigation between different weapon categories and detail pages.
 - **Flexbox**: Ensures a responsive, flexible layout throughout the app.
 - **Python**: Used for data organization and manipulation.
+- **Vite** : A fast development environment for modern web applications.
 - **[DSMapStudio](https://github.com/soulsmods/DSMapStudio)**: A tool for extracting and organizing data from _Dark Souls: Prepare to Die Edition_.
 
 ---

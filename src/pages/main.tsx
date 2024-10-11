@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "../css/pages/Main.scss";
 
 const Main = () => {
@@ -43,6 +44,10 @@ const Main = () => {
                 <strong>Python:</strong> for processing game data and organizing
                 files
               </li>
+              <li>
+                <strong>Vite:</strong> A fast development environment for modern
+                web applications.
+              </li>
             </ul>
             <p>
               This wiki is an ongoing project, with core features designed to
@@ -55,6 +60,10 @@ const Main = () => {
         <div className="box">
           <div className="roadmap-section">
             <h2>Development Roadmap</h2>
+            <p>
+              More info about developement and upcoming things in{" "}
+              <Link to="/Misc">Misc</Link>
+            </p>
             <div className="progress-bar-container">
               <div
                 className="progress-bar"
@@ -70,8 +79,8 @@ const Main = () => {
                   ✅ Project Setup & Initial Components
                 </li>
                 <li className="completed">✅ Routing & Page Structure</li>
-                <li className="in-progress">👷 Weapon Pages</li>
-                <li className="in-progress">👷 Responsive Design</li>
+                <li className="in-progress">🚧 Weapon Pages</li>
+                <li className="in-progress">🚧 Responsive Design</li>
                 <li className="pending">📅 Adding Armors to Equipment</li>
                 <li className="pending">📅 Spell Site</li>
                 <li className="pending">📅 World Site</li>

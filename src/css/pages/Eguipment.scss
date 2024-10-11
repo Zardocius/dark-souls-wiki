@@ -56,9 +56,13 @@
 .eguipment-weapon-list {
     list-style-type: none;
     display: flex;
-    justify-content: center;
-    gap: 20px;
+    justify-content: center; /* Space out weapon items evenly */
+    align-items: center;
     flex-wrap: wrap;
+    gap: 20px; /* Add spacing between items */
+    padding: 10px;
+    margin: auto;
+    max-width: 100%;
 }
 
 .eguipment-weapon-item {
@@ -75,7 +79,7 @@
 
 .weapon-image {
     margin-bottom: auto; /* Pushes the image towards the top */
-    max-width: 100px;
+    width: 100px;
     height: auto;
 }
 
@@ -84,3 +88,27 @@
     font-weight: bold;
     font-size: 14px;
 }
+
+
+@media (max-width: 450px) {
+    .eguipment-category-container {
+      padding: 15px; /* Add extra padding for smaller screens */
+      margin: 10px 5px; /* Add a bit of side margin to avoid text hitting the edges */
+    }
+  
+    .eguipment-weapon-item {
+      width: 100px; /* Make weapon items slightly narrower on small screens */
+    }
+  
+    .weapon-name {
+      font-size: 12px; /* Reduce font size for smaller screens */
+    }
+  
+    .category-navbar {
+      width: 100%; /* Make the navbar take full width */
+    }
+  
+    .category-nav-link {
+      font-size: 10px; /* Reduce the text size under icons */
+    }
+  }
