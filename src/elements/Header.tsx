@@ -26,7 +26,9 @@ const Header = () => {
             </div>
             <div className="header-texts">
               <div className="header-name">
-                <span>Dark Souls Wiki</span>
+                <Link to="/" onClick={handleLinkClick}>
+                  <span>Dark Souls Wiki</span>
+                </Link>
               </div>
               <div className={`header-links ${isOpen ? "open" : ""}`}>
                 <Link to="/" onClick={handleLinkClick}>
