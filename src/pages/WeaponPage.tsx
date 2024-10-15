@@ -1,7 +1,6 @@
-// src/pages/WeaponPage.tsx
 import React, { useEffect, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { WeaponIndex, Weapon } from "../types"; // Make sure to import the types
+import { WeaponIndex, Weapon } from "../types"; // Import types
 import "../css/pages/WeaponPage.scss";
 
 const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
@@ -9,55 +8,66 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
 }) => {
   const { weaponSlug } = useParams<{ weaponSlug: string }>();
   const [weaponData, setWeaponData] = useState<Weapon | null>(null);
-  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const fetchWeapon = async () => {
       try {
-        const response = await fetch(`/weaponData/${weaponSlug}.json`); // Adjust the path as needed
+        const response = await fetch(`/weaponData/${weaponSlug}.json`);
         if (!response.ok) {
-          throw new Error(
-            `Failed to fetch weapon data: ${response.statusText}`
-          );
+          throw new Error(`HTTP error! Status: ${response.status}`);
         }
         const data = await response.json();
-        setWeaponData(data.base); // Assuming you're using the base data
+
+        // Log the fetched data structure for debugging
+        console.log("Fetched weapon data:", data);
+
+        // Check if data has the expected structure
+        if (data && data.base) {
+          setWeaponData(data.base);
+        } else {
+          throw new Error("Unexpected data structure: " + JSON.stringify(data));
+        }
       } catch (error) {
-        console.error(error);
-        setError("Failed to load weapon data.");
+        // Assert the type of error as Error
+        const typedError = error as Error; // Type assertion here
+        console.error("Error fetching weapon data:", typedError);
+        setError("Failed to load weapon data. " + typedError.message);
       } finally {
-        setLoading(false);
       }
     };
 
     fetchWeapon();
   }, [weaponSlug]);
 
-  // Find the weapon in the weaponIndex
+  // Find the weapon category and the specific weapon
   const weaponCategory = weaponIndex.find((category) =>
     category.weapons.some((weapon) => weapon.slug === weaponSlug)
   );
 
-  if (loading) {
-    return <div>Loading weapon data...</div>;
-  }
+  // Find the specific weapon within the category
+  const weaponInCategory = weaponCategory?.weapons.find(
+    (weapon) => weapon.slug === weaponSlug
+  );
 
+  // Render error state
   if (error) {
     return <div>Error: {error}</div>;
   }
 
+  // Render weapon not found if no data
   if (!weaponData) {
-    return <div>Weapon not found.</div>; // Handle case where weapon data is not found
+    return;
   }
 
+  // Render the weapon page
   return (
     <div className="container">
       <div className="box">
         <div className="weaponPage-Top">
           <div className="weaponPage-topTexts">
             <h1>{weaponData.Name}</h1>
-            {weaponCategory ? (
+            {weaponCategory && (
               <h2>
                 Category:
                 <Link
@@ -67,14 +77,22 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
                   {weaponCategory.category}
                 </Link>
               </h2>
-            ) : null}{" "}
-            {/* Safely access category */}
+            )}
           </div>
           <div>
-            <img
-              src={`/images/items/weapons/${weaponData.slug}.png`} // Construct the image path
-              alt={weaponData.Name} // Use weapon name for alt text
-            />
+            {weaponInCategory?.imageAtlas ? ( // Access imageAtlas from the specific weapon
+              <div
+                className="weapon-image"
+                style={{
+                  backgroundImage: `url(${weaponInCategory.imageAtlas.imageSource})`, // Correctly reference the image source
+                  backgroundPosition: `-${weaponInCategory.imageAtlas.posX}px -${weaponInCategory.imageAtlas.posY}px`,
+                  width: `${weaponInCategory.imageAtlas.width}px`,
+                  height: `${weaponInCategory.imageAtlas.height}px`,
+                }}
+              />
+            ) : (
+              <div>No image available for this weapon.</div> // Improved error message
+            )}
           </div>
         </div>
         <div className="weaponPage-MidPage">
@@ -84,35 +102,38 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
                   <span key={index}>
                     {line}
                     <br />
-                  </span> // Adding a line break for each line
+                  </span>
                 ))
-              : "No description available"}
+              : "No description available."}
           </p>
           <div className="weaponPage-Requirements">
             <p>Requirements</p>
             <table>
-              <tr>
-                <th>Str</th>
-                <th>Dex</th>
-                <th>Fai</th>
-                <th>Mag</th>
-              </tr>
-              <tr>
-                <th>{weaponData.properStrength}</th>
-                <th>{weaponData.properAgility}</th>
-                <th>{weaponData.properFaith}</th>
-                <th>{weaponData.properMagic}</th>
-              </tr>
+              <thead>
+                <tr>
+                  <th>Str</th>
+                  <th>Dex</th>
+                  <th>Fai</th>
+                  <th>Mag</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>{weaponData.properStrength || "N/A"}</td>
+                  <td>{weaponData.properAgility || "N/A"}</td>
+                  <td>{weaponData.properFaith || "N/A"}</td>
+                  <td>{weaponData.properMagic || "N/A"}</td>
+                </tr>
+              </tbody>
             </table>
           </div>
         </div>
         <p>Weight: {weaponData.weight || "N/A"}</p>
         <p>Durability: {weaponData.durability || "N/A"}</p>
-        {/* Add any additional weapon details you want to display here */}
-        <p>Physical Damage:{weaponData.attackBasePhysics}</p>
-        <p>Magic Damage:{weaponData.attackBaseMagic}</p>
-        <p>Fire Damage:{weaponData.attackBaseFire}</p>
-        <p>Lightning Damage:{weaponData.attackBaseThunder}</p>
+        <p>Physical Damage: {weaponData.attackBasePhysics || "N/A"}</p>
+        <p>Magic Damage: {weaponData.attackBaseMagic || "N/A"}</p>
+        <p>Fire Damage: {weaponData.attackBaseFire || "N/A"}</p>
+        <p>Lightning Damage: {weaponData.attackBaseThunder || "N/A"}</p>
       </div>
     </div>
   );

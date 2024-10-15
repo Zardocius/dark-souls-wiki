@@ -26,13 +26,16 @@ const Equipment: React.FC<EquipmentProps> = ({ weaponIndex }) => {
                   href={`#category-${index}`}
                   className="category-nav-link"
                 >
-                  <img
-                    src={`/images/items/weapons/${category.weapons[0].slug}.png`} // First weapon's image
-                    alt={category.category}
+                  <div
                     className="category-icon"
+                    style={{
+                      backgroundImage: `url(${category.weapons[0].imageAtlas.imageSource})`, // Use the first weapon's atlas image
+                      backgroundPosition: `-${category.weapons[0].imageAtlas.posX}px -${category.weapons[0].imageAtlas.posY}px`, // Adjust for the first weapon's image
+                      width: `${category.weapons[0].imageAtlas.width}px`,
+                      height: `${category.weapons[0].imageAtlas.height}px`,
+                    }}
                   />
-                  <span className="category-text">{category.category}</span>{" "}
-                  {/* Category name below icon */}
+                  <span className="category-text">{category.category}</span>
                 </a>
               ))}
             </div>
@@ -66,10 +69,14 @@ const Equipment: React.FC<EquipmentProps> = ({ weaponIndex }) => {
                       to={`/weapons/${weapon.slug}`}
                       className="weapon-link"
                     >
-                      <img
-                        src={`/images/items/weapons/${weapon.slug}.png`}
-                        alt={weapon.Name}
+                      <div
                         className="weapon-image"
+                        style={{
+                          backgroundImage: `url(${weapon.imageAtlas.imageSource})`, // Use the weapon's atlas image
+                          backgroundPosition: `-${weapon.imageAtlas.posX}px -${weapon.imageAtlas.posY}px`, // Adjust for the weapon's image
+                          width: `${weapon.imageAtlas.width}px`,
+                          height: `${weapon.imageAtlas.height}px`,
+                        }}
                       />
                       <span className="weapon-name">{weapon.Name}</span>
                     </Link>

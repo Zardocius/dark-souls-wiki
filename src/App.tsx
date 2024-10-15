@@ -12,6 +12,7 @@ import Spells from "./pages/Spells";
 import World from "./pages/World";
 import Main from "./pages/main";
 import Misc from "./pages/Misc";
+import ImageTest from "./pages/imageTest";
 
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
@@ -66,6 +67,7 @@ const App: React.FC = () => {
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
         <Route path="/misc" element={<Misc />} />
+        <Route path="/atlas-exporter" element={<ImageTest />} />
         <Route path="/character" element={<Character />} />
         <Route
           path="/weapons/:weaponSlug"

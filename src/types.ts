@@ -5,10 +5,17 @@ export type WeaponCategory = {
   weapons: Weapon[]; // An array of weapons in this category
 };
 
-// Define the type for the entire weapon index
-export type WeaponIndex = WeaponCategory[]; // An array of weapon categories
+export interface ImageAtlas {
+  imageSource: string; // Path to the image file
+  posX: number;        // X position in the atlas
+  posY: number;        // Y position in the atlas
+  width: number;      // Width of the image
+  height: number;     // Height of the image
+}
 
 export interface Weapon {
+  width: number;
+  height: number;
   ID: number;
   Name: string;
   behaviorVariationId: number;
@@ -142,4 +149,8 @@ export interface Weapon {
   pad_1: string;
   slug: string;
   description: string;
+  imageAtlas: ImageAtlas;
 }
+
+// Define the type for the entire weapon index
+export type WeaponIndex = WeaponCategory[]; // An array of weapon categories
