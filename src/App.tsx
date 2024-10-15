@@ -67,7 +67,7 @@ const App: React.FC = () => {
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
         <Route path="/misc" element={<Misc />} />
-        <Route path="/imageTest" element={<ImageTest />} />
+        <Route path="/atlas-exporter" element={<ImageTest />} />
         <Route path="/character" element={<Character />} />
         <Route
           path="/weapons/:weaponSlug"

@@ -9,11 +9,9 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
   const { weaponSlug } = useParams<{ weaponSlug: string }>();
   const [weaponData, setWeaponData] = useState<Weapon | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [loading, setLoading] = useState<boolean>(true); // New loading state
 
   useEffect(() => {
     const fetchWeapon = async () => {
-      setLoading(true); // Set loading state to true
       try {
         const response = await fetch(`/weaponData/${weaponSlug}.json`);
         if (!response.ok) {
@@ -36,7 +34,6 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
         console.error("Error fetching weapon data:", typedError);
         setError("Failed to load weapon data. " + typedError.message);
       } finally {
-        setLoading(false); // Reset loading state
       }
     };
 
@@ -53,11 +50,6 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
     (weapon) => weapon.slug === weaponSlug
   );
 
-  // Render loading state
-  if (loading) {
-    return <div>Loading...</div>;
-  }
-
   // Render error state
   if (error) {
     return <div>Error: {error}</div>;
@@ -65,7 +57,7 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
 
   // Render weapon not found if no data
   if (!weaponData) {
-    return <div>Weapon not found. Please check the URL.</div>;
+    return;
   }
 
   // Render the weapon page
