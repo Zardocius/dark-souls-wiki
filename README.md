@@ -28,8 +28,7 @@ This wiki site is part of the Omnia website development assignment, focused on o
 
 ## Demo
 
-Check out a live demo of the project [here](https://dswiki.zardocius.xyz/).  
-_(Include a link to the deployed app, if available.)_
+Check out a live demo of the project [here](https://dswiki.zardocius.xyz/).
 
 ## Installation
 
