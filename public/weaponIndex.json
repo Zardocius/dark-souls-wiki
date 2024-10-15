@@ -5,19 +5,47 @@
         "weapons": [
             {
                 "Name": "Caestus",
-                "slug": "caestus"
+                "slug": "caestus",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Claw",
-                "slug": "claw"
+                "slug": "claw",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dark Hand",
-                "slug": "dark-hand"
+                "slug": "dark-hand",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dragon Bone Fist",
-                "slug": "dragon-bone-fist"
+                "slug": "dragon-bone-fist",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -27,39 +55,102 @@
         "weapons": [
             {
                 "Name": "Blacksmith Giant Hammer",
-                "slug": "blacksmith-giant-hammer"
+                "slug": "blacksmith-giant-hammer",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 0,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Blacksmith Hammer",
-                "slug": "blacksmith-hammer"
+                "slug": "blacksmith-hammer",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 902,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Hammer of Vamos",
-                "slug": "hammer-of-vamos"
+                "slug": "hammer-of-vamos",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 82,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Club",
-                "slug": "club"
+                "slug": "club",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Mace",
-                "slug": "mace"
+                "slug": "mace",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Morning Star",
-                "slug": "morning-star"
+                "slug": "morning-star",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Pickaxe",
-                "slug": "pickaxe"
+                "slug": "pickaxe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Reinforced Club",
-                "slug": "reinforced-club"
+                "slug": "reinforced-club",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 0,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Warpick",
-                "slug": "warpick"
+                "slug": "warpick",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -69,27 +160,69 @@
         "weapons": [
             {
                 "Name": "Demon's Great Hammer",
-                "slug": "demons-great-hammer"
+                "slug": "demons-great-hammer",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dragon Tooth",
-                "slug": "dragon-tooth"
+                "slug": "dragon-tooth",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 82,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Grant",
-                "slug": "grant"
+                "slug": "grant",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Great Club",
-                "slug": "great-club"
+                "slug": "great-club",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Large Club",
-                "slug": "large-club"
+                "slug": "large-club",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 164,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Smough's Hammer",
-                "slug": "smoughs-hammer"
+                "slug": "smoughs-hammer",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -99,27 +232,69 @@
         "weapons": [
             {
                 "Name": "Battle Axe",
-                "slug": "battle-axe"
+                "slug": "battle-axe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Butcher Knife",
-                "slug": "butcher-knife"
+                "slug": "butcher-knife",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Crescent Axe",
-                "slug": "crescent-axe"
+                "slug": "crescent-axe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Gargoyle Tail Axe",
-                "slug": "gargoyle-tail-axe"
+                "slug": "gargoyle-tail-axe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 820,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Golem Axe",
-                "slug": "golem-axe"
+                "slug": "golem-axe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Hand Axe",
-                "slug": "hand-axe"
+                "slug": "hand-axe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -129,23 +304,58 @@
         "weapons": [
             {
                 "Name": "Black Knight Greataxe",
-                "slug": "black-knight-greataxe"
+                "slug": "black-knight-greataxe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 164,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Demon's Greataxe",
-                "slug": "demons-greataxe"
+                "slug": "demons-greataxe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dragon King Greataxe",
-                "slug": "dragon-king-greataxe"
+                "slug": "dragon-king-greataxe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Greataxe",
-                "slug": "greataxe"
+                "slug": "greataxe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Stone Greataxe",
-                "slug": "stone-greataxe"
+                "slug": "stone-greataxe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 492,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -155,27 +365,71 @@
         "weapons": [
             {
                 "Name": "Bandit's Knife",
-                "slug": "bandits-knife"
+                "slug": "bandits-knife",
+                "imageSource": "/images/items/weaponsPt1.png",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dagger",
-                "slug": "dagger"
+                "slug": "dagger",
+                "imageSource": "/images/items/weaponsPt1.png",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dark Silver Tracer",
-                "slug": "dark-silver-tracer"
+                "slug": "dark-silver-tracer",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 164,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Ghost Blade",
-                "slug": "ghost-blade"
+                "slug": "ghost-blade",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Parrying Dagger",
-                "slug": "parrying-dagger"
+                "slug": "parrying-dagger",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Priscilla's Dagger",
-                "slug": "priscillas-dagger"
+                "slug": "priscillas-dagger",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -185,23 +439,58 @@
         "weapons": [
             {
                 "Name": "Estoc",
-                "slug": "estoc"
+                "slug": "estoc",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Mail Breaker",
-                "slug": "mail-breaker"
+                "slug": "mail-breaker",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Rapier",
-                "slug": "rapier"
+                "slug": "rapier",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Ricard's Rapier",
-                "slug": "ricards-rapier"
+                "slug": "ricards-rapier",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Velka's Rapier",
-                "slug": "velkas-rapier"
+                "slug": "velkas-rapier",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -211,55 +500,146 @@
         "weapons": [
             {
                 "Name": "Astora's Straight Sword",
-                "slug": "astoras-straight-sword"
+                "slug": "astoras-straight-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 246,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Balder Side Sword",
-                "slug": "balder-side-sword"
+                "slug": "balder-side-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Barbed Straight Sword",
-                "slug": "barbed-straight-sword"
+                "slug": "barbed-straight-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Broadsword",
-                "slug": "broadsword"
+                "slug": "broadsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Broken Straight Sword",
-                "slug": "broken-straight-sword"
+                "slug": "broken-straight-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Crystal Straight Sword",
-                "slug": "crystal-straight-sword"
+                "slug": "crystal-straight-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dark Sword",
-                "slug": "darksword"
+                "slug": "darksword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Drake Sword",
-                "slug": "drake-sword"
+                "slug": "drake-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Longsword",
-                "slug": "longsword"
+                "slug": "longsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Shortsword",
-                "slug": "shortsword"
+                "slug": "shortsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Silver Knight Straight Sword",
-                "slug": "silv-knight-str-sword"
+                "slug": "silv-knight-str-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Straight Sword Hilt",
-                "slug": "straight-sword-hilt"
+                "slug": "straight-sword-hilt",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 656,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Sunlight Straight Sword",
-                "slug": "sunlight-straight-sword"
+                "slug": "sunlight-straight-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -269,55 +649,146 @@
         "weapons": [
             {
                 "Name": "Abyss Greatsword",
-                "slug": "abyss-greatsword"
+                "slug": "abyss-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 246,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Bastard Sword",
-                "slug": "bastard-sword"
+                "slug": "bastard-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Black Knight Sword",
-                "slug": "black-knight-sword"
+                "slug": "black-knight-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 820,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Claymore",
-                "slug": "claymore"
+                "slug": "claymore",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Crystal Greatsword",
-                "slug": "crystal-greatsword"
+                "slug": "crystal-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Flamberge",
-                "slug": "flamberge"
+                "slug": "flamberge",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Great Lord Greatsword",
-                "slug": "great-lord-greatsword"
+                "slug": "great-lord-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Greatsword of Artorias",
-                "slug": "greatsword-of-artorias"
+                "slug": "greatsword-of-artorias",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Greatsword of Artorias (Cursed)",
-                "slug": "greatsword-of-artorias-cursed"
+                "slug": "greatsword-of-artorias-cursed",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 164,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Man Serpent Greatsword",
-                "slug": "man-serpent-greatsword"
+                "slug": "man-serpent-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Moonlight Greatsword",
-                "slug": "moonlight-greatsword"
+                "slug": "moonlight-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Obsidian Greatsword",
-                "slug": "obsidian-greatsword"
+                "slug": "obsidian-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 902,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Stone Greatsword",
-                "slug": "stone-greatsword"
+                "slug": "stone-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -327,23 +798,58 @@
         "weapons": [
             {
                 "Name": "Black Knight Greatsword",
-                "slug": "black-knight-greatsword"
+                "slug": "black-knight-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 82,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Demon Great Machete",
-                "slug": "demon-great-machete"
+                "slug": "demon-great-machete",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dragon Greatsword",
-                "slug": "dragon-greatsword"
+                "slug": "dragon-greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Greatsword",
-                "slug": "greatsword"
+                "slug": "greatsword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Zweihander",
-                "slug": "zweihander"
+                "slug": "zweihander",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -353,19 +859,47 @@
         "weapons": [
             {
                 "Name": "Chaos Blade",
-                "slug": "chaos-blade"
+                "slug": "chaos-blade",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Iaito",
-                "slug": "iaito"
+                "slug": "iaito",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Uchigatana",
-                "slug": "uchigatana"
+                "slug": "uchigatana",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Washing Pole",
-                "slug": "washing-pole"
+                "slug": "washing-pole",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -375,31 +909,80 @@
         "weapons": [
             {
                 "Name": "Falchion",
-                "slug": "falchion"
+                "slug": "falchion",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Gold Tracer",
-                "slug": "gold-tracer"
+                "slug": "gold-tracer",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 82,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Jagged Ghost Blade",
-                "slug": "jagged-ghost-blade"
+                "slug": "jagged-ghost-blade",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Painting Guardian Sword",
-                "slug": "painting-guardian-sword"
+                "slug": "painting-guardian-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Quelaag's Fury Sword",
-                "slug": "quelaags-fury-sword"
+                "slug": "quelaags-fury-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Scimitar",
-                "slug": "scimitar"
+                "slug": "scimitar",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Shotel",
-                "slug": "shotel"
+                "slug": "shotel",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -409,15 +992,36 @@
         "weapons": [
             {
                 "Name": "Gravelord Sword",
-                "slug": "gravelord-sword"
+                "slug": "gravelord-sword",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Murakumo",
-                "slug": "murakumo"
+                "slug": "murakumo",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Server",
-                "slug": "server"
+                "slug": "server",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -427,43 +1031,113 @@
         "weapons": [
             {
                 "Name": "Channeler's Trident",
-                "slug": "channelers-trident"
+                "slug": "channelers-trident",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Demon's Spear",
-                "slug": "demons-spear"
+                "slug": "demons-spear",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dragonslayer Spear",
-                "slug": "dragonslayer-spear"
+                "slug": "dragonslayer-spear",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Four-Pronged Plow",
-                "slug": "four-pronged-plow"
+                "slug": "four-pronged-plow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 574,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Moonlight Butterfly Horn",
-                "slug": "moonlight-butterfly-horn"
+                "slug": "moonlight-butterfly-horn",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Partizan",
-                "slug": "partizan"
+                "slug": "partizan",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Pike",
-                "slug": "pike"
+                "slug": "pike",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Silver Knight Spear",
-                "slug": "silver-knight-spear"
+                "slug": "silver-knight-spear",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Spear",
-                "slug": "spear"
+                "slug": "spear",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Winged Spear",
-                "slug": "winged-spear"
+                "slug": "winged-spear",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -473,39 +1147,102 @@
         "weapons": [
             {
                 "Name": "Black Knight Halberd",
-                "slug": "black-knight-halberd"
+                "slug": "black-knight-halberd",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 246,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Gargoyle's Halberd",
-                "slug": "gargoyles-halberd"
+                "slug": "gargoyles-halberd",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 246,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Giant's Halberd",
-                "slug": "giants-halberd"
+                "slug": "giants-halberd",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Great Scythe",
-                "slug": "great-scythe"
+                "slug": "great-scythe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Halberd",
-                "slug": "halberd"
+                "slug": "halberd",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Lifehunt Scythe",
-                "slug": "lifehunt-scythe"
+                "slug": "lifehunt-scythe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Lucerne",
-                "slug": "lucerne"
+                "slug": "lucerne",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 574,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Scythe",
-                "slug": "scythe"
+                "slug": "scythe",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 656,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Titanite Catch Pole",
-                "slug": "titanite-catch-pole"
+                "slug": "titanite-catch-pole",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -515,23 +1252,58 @@
         "weapons": [
             {
                 "Name": "Black Bow of Pharis",
-                "slug": "black-bow-of-pharis"
+                "slug": "black-bow-of-pharis",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Composite Bow",
-                "slug": "composite-bow"
+                "slug": "composite-bow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Darkmoon Bow",
-                "slug": "darkmoon-bow"
+                "slug": "darkmoon-bow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Long Bow",
-                "slug": "long-bow"
+                "slug": "long-bow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Short Bow",
-                "slug": "short-bow"
+                "slug": "short-bow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 644,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -541,19 +1313,47 @@
         "weapons": [
             {
                 "Name": "Avelyn",
-                "slug": "avelyn"
+                "slug": "avelyn",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Heavy Crossbow",
-                "slug": "heavy-crossbow"
+                "slug": "heavy-crossbow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Light Crossbow",
-                "slug": "light-crossbow"
+                "slug": "light-crossbow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Sniper Crossbow",
-                "slug": "sniper-crossbow"
+                "slug": "sniper-crossbow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -563,11 +1363,25 @@
         "weapons": [
             {
                 "Name": "Dragonslayer Greatbow",
-                "slug": "dragonslayer-greatbow"
+                "slug": "dragonslayer-greatbow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Gough's Greatbow",
-                "slug": "goughs-greatbow"
+                "slug": "goughs-greatbow",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 328,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -577,15 +1391,36 @@
         "weapons": [
             {
                 "Name": "Guardian Tail",
-                "slug": "guardian-tail"
+                "slug": "guardian-tail",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 820,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Notched Whip",
-                "slug": "notched-whip"
+                "slug": "notched-whip",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 656,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Whip",
-                "slug": "whip"
+                "slug": "whip",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 574,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -595,47 +1430,124 @@
         "weapons": [
             {
                 "Name": "Beatrice's Catalyst",
-                "slug": "beatrices-catalyst"
+                "slug": "beatrices-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Demon's Catalyst",
-                "slug": "demons-catalyst"
+                "slug": "demons-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 574,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Izalith Catalyst",
-                "slug": "izalith-catalyst"
+                "slug": "izalith-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 656,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Logan's Catalyst",
-                "slug": "logans-catalyst"
+                "slug": "logans-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Manus Catalyst",
-                "slug": "manus-catalyst"
+                "slug": "manus-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 656,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Oolacile Catalyst",
-                "slug": "oolacile-catalyst"
+                "slug": "oolacile-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 738,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Oolacile Ivory Catalyst",
-                "slug": "oolacile-ivory-catalyst"
+                "slug": "oolacile-ivory-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 410,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Sorcerer's Catalyst",
-                "slug": "sorcerers-catalyst"
+                "slug": "sorcerers-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Tin Banishment Catalyst",
-                "slug": "tin-banishment-catalyst"
+                "slug": "tin-banishment-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Tin Crystallization Catalyst",
-                "slug": "tin-crystallization-catalyst"
+                "slug": "tin-crystallization-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 492,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Tin Darkmoon Catalyst",
-                "slug": "tin-darkmoon-catalyst"
+                "slug": "tin-darkmoon-catalyst",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 328,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -645,31 +1557,80 @@
         "weapons": [
             {
                 "Name": "Canvas Talisman",
-                "slug": "canvas-talisman"
+                "slug": "canvas-talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Darkmoon Talisman",
-                "slug": "darkmoon-talisman"
+                "slug": "darkmoon-talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 902,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Ivory Talisman",
-                "slug": "ivory-talisman"
+                "slug": "ivory-talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Sunlight Talisman",
-                "slug": "sunlight-talisman"
+                "slug": "sunlight-talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 820,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Talisman",
-                "slug": "talisman"
+                "slug": "talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Thorolund Talisman",
-                "slug": "thorolund-talisman"
+                "slug": "thorolund-talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Velka's Talisman",
-                "slug": "velkas-talisman"
+                "slug": "velkas-talisman",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 0,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -679,11 +1640,25 @@
         "weapons": [
             {
                 "Name": "Ascended Pyromancy Flame",
-                "slug": "ascended-pyromancy-flame"
+                "slug": "ascended-pyromancy-flame",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Pyromancy Flame",
-                "slug": "pyromancy-flame"
+                "slug": "pyromancy-flame",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -693,43 +1668,113 @@
         "weapons": [
             {
                 "Name": "Buckler",
-                "slug": "buckler"
+                "slug": "buckler",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Caduceus Round Shield",
-                "slug": "caduceus-round-shield"
+                "slug": "caduceus-round-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 574,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Cracked Round Shield",
-                "slug": "cracked-round-shield"
+                "slug": "cracked-round-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Effigy Shield",
-                "slug": "effigy-shield"
+                "slug": "effigy-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Leather Shield",
-                "slug": "leather-shield"
+                "slug": "leather-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 820,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Plank Shield",
-                "slug": "plank-shield"
+                "slug": "plank-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 902,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Red and White Round Shield",
-                "slug": "red-and-white-round-shield"
+                "slug": "red-and-white-round-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Small Leather Shield",
-                "slug": "small-leather-shield"
+                "slug": "small-leather-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Target Shield",
-                "slug": "target-shield"
+                "slug": "target-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Warrior's Round Shield",
-                "slug": "warriors-round-shield"
+                "slug": "warriors-round-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 410,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -739,83 +1784,223 @@
         "weapons": [
             {
                 "Name": "Balder Shield",
-                "slug": "balder-shield"
+                "slug": "balder-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 738,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Black Knight Shield",
-                "slug": "black-knight-shield"
+                "slug": "black-knight-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 902,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Bloodshield",
-                "slug": "bloodshield"
+                "slug": "bloodshield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Caduceus Kite Shield",
-                "slug": "caduceus-kite-shield"
+                "slug": "caduceus-kite-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 492,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Crest Shield",
-                "slug": "crest-shield"
+                "slug": "crest-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 0,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Dragon Crest Shield",
-                "slug": "dragon-crest-shield"
+                "slug": "dragon-crest-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 82,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "East-West Shield",
-                "slug": "east-west-shield"
+                "slug": "east-west-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 410,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Gargoyle's Shield",
-                "slug": "gargoyles-shield"
+                "slug": "gargoyles-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 164,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Grass Crest Shield",
-                "slug": "grass-crest-shield"
+                "slug": "grass-crest-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Heater Shield",
-                "slug": "heater-shield"
+                "slug": "heater-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 82,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Hollow Soldier Shield",
-                "slug": "hollow-soldier-shield"
+                "slug": "hollow-soldier-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Iron Round Shield",
-                "slug": "iron-round-shield"
+                "slug": "iron-round-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Knight Shield",
-                "slug": "knight-shield"
+                "slug": "knight-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 164,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Large Leather Shield",
-                "slug": "large-leather-shield"
+                "slug": "large-leather-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Sanctus",
-                "slug": "sanctus"
+                "slug": "sanctus",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Silver Knight Shield",
-                "slug": "silver-knight-shield"
+                "slug": "silver-knight-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 0,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Spider Shield",
-                "slug": "spider-shield"
+                "slug": "spider-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 574,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Sunlight Shield",
-                "slug": "sunlight-shield"
+                "slug": "sunlight-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Tower Kite Shield",
-                "slug": "tower-kite-shield"
+                "slug": "tower-kite-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 246,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Wooden Shield",
-                "slug": "wooden-shield"
+                "slug": "wooden-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 492,
+                    "posY": 828,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -825,39 +2010,102 @@
         "weapons": [
             {
                 "Name": "Black Iron Greatshield",
-                "slug": "black-iron-greatshield"
+                "slug": "black-iron-greatshield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Bonewheel Shield",
-                "slug": "bonewheel-shield"
+                "slug": "bonewheel-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 246,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Cleansing Greatshield",
-                "slug": "cleansing-greatshield"
+                "slug": "cleansing-greatshield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 410,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Eagle Shield",
-                "slug": "eagle-shield"
+                "slug": "eagle-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 82,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Giant Shield",
-                "slug": "giant-shield"
+                "slug": "giant-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 246,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Greatshield of Artorias",
-                "slug": "greatshield-of-artorias"
+                "slug": "greatshield-of-artorias",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 410,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Havel's Greatshield",
-                "slug": "havels-greatshield"
+                "slug": "havels-greatshield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 492,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Stone Greatshield",
-                "slug": "stone-greatshield"
+                "slug": "stone-greatshield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 328,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Tower Shield",
-                "slug": "tower-shield"
+                "slug": "tower-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt2.png",
+                    "posX": 164,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -867,19 +2115,47 @@
         "weapons": [
             {
                 "Name": "Crystal Ring Shield",
-                "slug": "crystal-ring-shield"
+                "slug": "crystal-ring-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 0,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Crystal Shield",
-                "slug": "crystal-shield"
+                "slug": "crystal-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 738,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Spiked Shield",
-                "slug": "spiked-shield"
+                "slug": "spiked-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 656,
+                    "posY": 920,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Pierce Shield",
-                "slug": "pierce-shield"
+                "slug": "pierce-shield",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 902,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     },
@@ -889,11 +2165,25 @@
         "weapons": [
             {
                 "Name": "Dark Hand",
-                "slug": "dark-hand"
+                "slug": "dark-hand",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 328,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
             },
             {
                 "Name": "Skull Lantern",
-                "slug": "skull-lantern"
+                "slug": "skull-lantern",
+                "imageAtlas": {
+                    "imageSource": "/images/items/weaponsPt1.png",
+                    "posX": 820,
+                    "posY": 736,
+                    "width": 82,
+                    "height": 92
+                }
             }
         ]
     }

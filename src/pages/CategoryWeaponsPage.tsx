@@ -12,7 +12,6 @@ const CategoryWeaponsPage: React.FC<CategoryWeaponsPageProps> = ({
 }) => {
   const { slug } = useParams<{ slug: string }>();
   const [weaponsData, setWeaponsData] = useState<Weapon[]>([]);
-  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   const category = weaponIndex.find((cat) => cat.slug === slug);
@@ -40,17 +39,12 @@ const CategoryWeaponsPage: React.FC<CategoryWeaponsPageProps> = ({
           console.error(`Error fetching weapon data: ${error}`); // Log error with message
           setError("Failed to load weapon data.");
         } finally {
-          setLoading(false);
         }
       }
     };
 
     fetchWeaponsData();
   }, [category]);
-
-  if (loading) {
-    return <div>Loading weapon data...</div>;
-  }
 
   if (error) {
     return <div>Error: {error}</div>;
@@ -68,6 +62,8 @@ const CategoryWeaponsPage: React.FC<CategoryWeaponsPageProps> = ({
           <ul className="category-weapon-list">
             {category.weapons.map((weapon, index) => {
               const weaponData = weaponsData[index]; // Get the corresponding weapon data by index
+              const atlas = weapon.imageAtlas; // Assuming the weapon has an ImageAtlas
+
               return (
                 <li key={weapon.slug} className="category-weapon-item">
                   <Link to={`/weapons/${weapon.slug}`} className="weapon-link">
@@ -83,11 +79,23 @@ const CategoryWeaponsPage: React.FC<CategoryWeaponsPageProps> = ({
                       className="weapon-link"
                     >
                       <div className="weapon-image-container">
-                        <img
-                          src={`/images/items/weapons/${weapon.slug}.png`} // Adjust the image path as necessary
-                          alt={weapon.Name}
-                          className="weapon-image"
-                        />
+                        {atlas ? (
+                          <div
+                            className="weapon-image"
+                            style={{
+                              backgroundImage: `url(${weapon.imageAtlas.imageSource})`,
+                              backgroundPosition: `-${weapon.imageAtlas.posX}px -${weapon.imageAtlas.posY}px`,
+                              width: `${weapon.imageAtlas.width}px`,
+                              height: `${weapon.imageAtlas.height}px`,
+                            }}
+                          ></div>
+                        ) : (
+                          <img
+                            src={`/images/items/weapons/${weapon.slug}.png`} // Fallback image
+                            alt={weapon.Name}
+                            className="weapon-image"
+                          />
+                        )}
                       </div>
                     </Link>
                     <div className="weapon-stats">
