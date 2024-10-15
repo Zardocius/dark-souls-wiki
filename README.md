@@ -51,7 +51,7 @@ To set up the project locally, follow these steps:
 3. **Start the development server**:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
    Once the server is running, open [http://localhost:5173](http://localhost:5173) to view the app in your browser.
