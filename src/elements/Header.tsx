@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import "../css/elements/Header.scss";
+import ThemeToggleButton from "./ThemeToggle";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false); // State to manage menu visibility
@@ -29,6 +30,9 @@ const Header = () => {
                 <Link to="/" onClick={handleLinkClick}>
                   <span>Dark Souls Wiki</span>
                 </Link>
+                <div>
+                  <ThemeToggleButton />
+                </div>
               </div>
               <div className={`header-links ${isOpen ? "open" : ""}`}>
                 <Link to="/" onClick={handleLinkClick}>

@@ -21,7 +21,9 @@
     font-size: 34px; /* Adjust font size */
     color: black; /* Keep text color black */
     font-weight: bold;
-
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     a {
       text-decoration: none;
       color: black;

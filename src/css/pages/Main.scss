@@ -1,20 +1,25 @@
 
 
+
 .roadmap-section {
     margin-top: 40px;
   }
-  
+
+  h2  {
+    color: rgb(0, 0, 0);
+  }
+
   .progress-bar-container {
     width: 80%;
-    background-color: #f3f3f3;
+    background-color: #dbdbdb;
     border-radius: 20px;
     margin: 20px auto;
-    height: 30px;
+    height: 20px;
     position: relative;
   }
   
   .progress-bar {
-    background-color: #626dcf; /* Progress color */
+    background-color: #62cf8c; /* Progress color */
     height: 100%;
     border-radius: 20px;
     display: flex;
@@ -43,11 +48,11 @@
   }
   
   .completed {
-    color: #4caf50; /* Green for completed items */
+    color: #000000; /* Green for completed items */
   }
   
   .in-progress {
-    color: #fa9a1c; /* Yellow for items in progress */
+    color: #000000; /* Yellow for items in progress */
   }
   
   .pending {
