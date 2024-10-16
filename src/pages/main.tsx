@@ -9,8 +9,8 @@ const Main = () => {
       <div className="container">
         <div className="box">
           <h3>
-            Site is heavily under construction, so there might be bugs and
-            missing info!
+            🚧 Site is heavily under construction, so there might be bugs and
+            missing info! 🚧
           </h3>
         </div>
       </div>
@@ -99,6 +99,7 @@ const Main = () => {
                 <li className="completed">
                   ✅ Optimized image Loading with Atlases
                 </li>
+                <li className="completed">✅ Dark Mode!</li>
                 <li className="in-progress">🚧 Weapon Pages</li>
                 <li className="in-progress">🚧 Responsive Design</li>
                 <li className="pending">📅 Adding Armors to Equipment</li>
