@@ -13,14 +13,31 @@ const ThemeToggleButton: React.FC = () => {
   const { theme, toggleTheme } = themeContext;
 
   return (
-    <label className="switch">
-      <input
-        type="checkbox"
-        checked={theme === "dark"}
-        onChange={toggleTheme}
-      />
-      <span className="slider"></span>
-    </label>
+    <>
+      {/* Full version (visible on larger screens) */}
+      <div id="ThemeToggleFull">
+        <label className="switch">
+          <input
+            type="checkbox"
+            checked={theme === "dark"}
+            onChange={toggleTheme}
+          />
+          <span className="slider"></span>
+        </label>
+      </div>
+
+      {/* Mobile version (visible on smaller screens) */}
+      <div id="ThemeToggleMobile">
+        <label className="switch">
+          <input
+            type="checkbox"
+            checked={theme === "dark"}
+            onChange={toggleTheme}
+          />
+          <span className="slider"></span>
+        </label>
+      </div>
+    </>
   );
 };
 

@@ -1,3 +1,13 @@
+[data-theme='dark'] {
+  .weapon-stats-table th {
+    background-color: rgb(48, 48, 48);
+    color: white;
+  }
+  .weapon-stats-table td {
+    color: #c5c5c5;
+  }
+}
+
 .category-root {
   text-align: center;
 }
