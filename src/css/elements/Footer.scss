@@ -1,3 +1,11 @@
+[data-theme='dark'] {
+  .nav-links a:hover,
+  .community a:hover,
+  .open-source a:hover {
+    color: #ffffff; /* Hover effect */
+  }
+}
+
 .footer-top {
     display: flex;
     justify-content: space-between;
@@ -29,7 +37,7 @@
   .nav-links a:hover,
   .community a:hover,
   .open-source a:hover {
-    color: #ffffff; /* Hover effect */
+    color: #000000; /* Hover effect */
     text-decoration: underline; /* Same effect as in the header */
   }
   

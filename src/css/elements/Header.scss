@@ -10,6 +10,9 @@
       background-color: rgb(48, 48, 48);
       border-color: #222222;
     }
+    .header-links a:hover {
+      color: #ffffff; /* Change to a nice blue on hover */
+    }
   }
 
   .header-icon img {
@@ -50,7 +53,7 @@
   }
   
   .header-links a:hover {
-    color: #ffffff; /* Change to a nice blue on hover */
+    color: #000000; /* Change to a nice blue on hover */
     text-decoration: underline; /* Underline on hover */
   }
   
