@@ -1,5 +1,4 @@
-import { Link, Route } from "react-router-dom";
-import ImageTest from "./imageTest";
+import { Link } from "react-router-dom";
 
 const miscSite = () => {
   return (

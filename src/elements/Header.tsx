@@ -1,18 +1,23 @@
-import { useState } from "react";
+import { useContext, useState } from "react";
 import { Link } from "react-router-dom";
 import "../css/elements/Header.scss";
+import ThemeToggleButton from "./ThemeToggle";
+import { ThemeContext } from "../context/ThemeContext";
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false); // State to manage menu visibility
-
+  const themeContext = useContext(ThemeContext);
   const toggleMenu = () => {
     setIsOpen(!isOpen); // Toggle the menu state
   };
-
+  if (!themeContext) {
+    return null;
+  }
   // Function to handle link click and close the menu
   const handleLinkClick = () => {
     setIsOpen(false); // Close the menu
   };
+  const { theme } = themeContext;
 
   return (
     <header className="container">
@@ -29,6 +34,9 @@ const Header = () => {
                 <Link to="/" onClick={handleLinkClick}>
                   <span>Dark Souls Wiki</span>
                 </Link>
+                <div id="ThemeToggleFull">
+                  <ThemeToggleButton />
+                </div>
               </div>
               <div className={`header-links ${isOpen ? "open" : ""}`}>
                 <Link to="/" onClick={handleLinkClick}>
@@ -52,6 +60,14 @@ const Header = () => {
                 <Link to="/misc" onClick={handleLinkClick}>
                   Misc
                 </Link>
+                <div id="ThemeToggleMobile">
+                  <ThemeToggleButton />
+                  <p>
+                    {theme === "light"
+                      ? "Switch to Dark Mode"
+                      : "Switch to Light Mode"}
+                  </p>
+                </div>
               </div>
             </div>
             <div className="hamburger" onClick={toggleMenu}>

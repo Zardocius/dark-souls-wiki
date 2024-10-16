@@ -8,6 +8,14 @@ const Main = () => {
     <div>
       <div className="container">
         <div className="box">
+          <h3>
+            🚧 Site is heavily under construction, so there might be bugs and
+            missing info! 🚧
+          </h3>
+        </div>
+      </div>
+      <div className="container">
+        <div className="box">
           <div className="welcomers">
             <div className="welcome-text">
               <h2>Welcome, Chosen Undead</h2>
@@ -66,7 +74,7 @@ const Main = () => {
         </div>
       </div>
       <div className="container">
-        <div className="box">
+        <div className="box" id="roadmap">
           <div className="roadmap-section">
             <h2>Development Roadmap</h2>
             <p>
@@ -88,6 +96,10 @@ const Main = () => {
                   ✅ Project Setup & Initial Components
                 </li>
                 <li className="completed">✅ Routing & Page Structure</li>
+                <li className="completed">
+                  ✅ Optimized image Loading with Atlases
+                </li>
+                <li className="completed">✅ Dark Mode!</li>
                 <li className="in-progress">🚧 Weapon Pages</li>
                 <li className="in-progress">🚧 Responsive Design</li>
                 <li className="pending">📅 Adding Armors to Equipment</li>
