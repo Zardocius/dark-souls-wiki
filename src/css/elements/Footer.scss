@@ -3,6 +3,12 @@
   .community a:hover,
   .open-source a:hover {
     color: #ffffff; /* Hover effect */
+      transition: all 0.5s ease-in-out;
+  }
+
+  p {
+    color: white;
+    transition: all 0.5s ease-in-out;
   }
 }
 
@@ -32,6 +38,7 @@
     color: #000; /* Match with the header color */
     text-decoration: none;
     padding: 5px 0;
+    transition: all 0.5s ease-in-out;
   }
   
   .nav-links a:hover,
@@ -46,6 +53,10 @@
     padding: 15px 0;
     font-size: 14px;
     color: #333;
+    transition: all 0.5s ease-in-out;
+    p {
+      transition: all 0.5s ease-in-out;
+    }
   }
   
   @media (max-width: 768px) {

@@ -3,10 +3,11 @@
 [data-theme='dark'] {
     .eguipment-category-container {
         background-color: rgb(48, 48, 48);
-
+        transition: all 0.5s ease-in-out;
         a {
             text-decoration: none;
             color: rgb(255, 255, 255);
+            transition: all 0.5s ease-in-out;
         }
     }
 }
@@ -32,6 +33,7 @@
     text-decoration: none;
     color: rgb(0, 0, 0);
     text-align: center; /* Center text under icon */
+    transition: all 0.5s ease-in-out;
 }
 
 .category-icon {
@@ -56,10 +58,12 @@
     border-radius: 5px;
     margin: 10px 0;
     text-align: center;
+    transition: all 0.5s ease-in-out;
 
     a {
         text-decoration: none;
         color: rgb(0, 0, 0);
+        transition: all 0.5s ease-in-out;
     }
 }
 

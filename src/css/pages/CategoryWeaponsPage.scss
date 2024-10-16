@@ -2,9 +2,11 @@
   .weapon-stats-table th {
     background-color: rgb(48, 48, 48);
     color: white;
+    transition: all 0.5s ease-in-out;
   }
   .weapon-stats-table td {
     color: #c5c5c5;
+    transition: all 0.5s ease-in-out;
   }
 }
 
@@ -15,6 +17,7 @@
 h2 {
   margin-bottom: 20px;
   color: #333;
+  transition: all 0.5s ease-in-out;
 }
 
 .category-weapon-list {
@@ -77,6 +80,7 @@ h2 {
 .weapon-stats-table th {
   background-color: #f2f2f2;
   font-weight: bold;
+  transition: all 0.5s ease-in-out;
 }
 
 .weapon-stats-table td {

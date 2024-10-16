@@ -4,44 +4,20 @@
 [data-theme='dark'] {
   body {
     background-color: rgb(37, 37, 37);
+    transition: all 0.5s ease-in-out;
   }
 
   .box {
     background-color: rgb(48, 48, 48);
     color: white;
+    transition: all 0.5s ease-in-out;
   }
 
-  h1 {
-    color: white;
+  h1, h2, h3, h4, span, li, a, p{
+    color: rgb(255, 255, 255);
+    transition: all 0.5s ease-in-out;
   }
-
-  h2 {
-    color: white;
-  }
-
-  h3 {
-    color: white;
-  }
-
-  h4 {
-    color: white;
-  }
-
-  span {
-    color: white;
-  }
-
-  li {
-    color: white;
-  }
-
-  a {
-    color: white;
-  }
-
-  p {
-    color: white ;
-  }
+  
 }
 
 body {
@@ -49,6 +25,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #eeeeee;
+    transition: all 0.5s ease-in-out;
   }
 
   .container {
@@ -63,7 +40,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); // Creates a subtle shadow
     border-radius: 5px; // Rounded corners
     margin: 10px 0; // Adds space between boxes vertically
-    
+    transition: all 0.5s ease-in-out;
 
   }
   
