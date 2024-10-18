@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import { WeaponCategory } from "../types"; // Adjust path according to your file structure
 import "../css/pages/Eguipment.scss";
 import Goto from "../elements/Gogo";
+import ScrollToTop from "../elements/ScrollToTop";
 
 type EquipmentProps = {
   weaponIndex: WeaponCategory[]; // Use the imported type for weaponIndex
@@ -13,6 +14,7 @@ const Equipment: React.FC<EquipmentProps> = ({ weaponIndex }) => {
 
   return (
     <div>
+      <ScrollToTop />
       <Goto />
       <div className="container">
         <div className="box">

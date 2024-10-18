@@ -5,7 +5,6 @@
         background-color: rgb(48, 48, 48);
         transition: all 0.5s ease-in-out;
         a {
-            text-decoration: none;
             color: rgb(255, 255, 255);
             transition: all 0.5s ease-in-out;
         }
@@ -26,14 +25,21 @@
     flex-wrap: wrap;
 }
 
+.category-link {
+    a {
+        text-decoration: underline;
+    }
+}
+
 .category-nav-link {
     display: flex;
     flex-direction: column;
     align-items: center;
-    text-decoration: none;
     color: rgb(0, 0, 0);
+    text-decoration: none;
     text-align: center; /* Center text under icon */
     transition: all 0.5s ease-in-out;
+    padding: 10px;
 }
 
 .category-icon {
@@ -61,10 +67,10 @@
     transition: all 0.5s ease-in-out;
 
     a {
-        text-decoration: none;
         color: rgb(0, 0, 0);
         transition: all 0.5s ease-in-out;
     }
+
 }
 
 /* Weapon list and item styles remain the same */
@@ -96,12 +102,14 @@
     margin-bottom: auto; /* Pushes the image towards the top */
     width: 100px;
     height: auto;
+    
 }
 
 .weapon-name {
     margin-top: auto; /* Pushes the text towards the bottom */
     font-weight: bold;
     font-size: 14px;
+    text-decoration: none;
 }
 
 

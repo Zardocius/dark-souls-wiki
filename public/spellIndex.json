@@ -1,0 +1,801 @@
+[
+    {
+        "category": "Sorceries",
+        "slug": "sorceries",
+        "spells": [
+            {
+                "Name": "Soul Arrow",
+                "slug": "soul-arrow",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Soul Arrow",
+                "slug": "great-soul-arrow",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 83,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Heavy Soul Arrow",
+                "slug": "heavy-soul-arrow",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 165,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Heavy Soul Arrow",
+                "slug": "great-heavy-soul-arrow",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 247,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Homing Soulmass",
+                "slug": "homing-soulmass",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 493,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Homing Crystal Soulmass",
+                "slug": "homing-crystal-soulmass",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 575,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Soul Spear",
+                "slug": "soul-spear",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 821,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Crystal Soul Spear",
+                "slug": "crystal-soul-spear",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 903,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "White Dragon Breath",
+                "slug": "white-dragon-breath",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 329,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Magic Weapon",
+                "slug": "magic-weapon",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 329,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Magic Weapon",
+                "slug": "great-magic-weapon",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 411,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Crystal Magic Weapon",
+                "slug": "crystal-magic-weapon",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Magic Shield",
+                "slug": "magic-shield",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 657,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Strong Magic Shield",
+                "slug": "strong-magic-shield",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 739,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Aural Decoy",
+                "slug": "aural-decoy",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 165,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Hush",
+                "slug": "hush",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 83,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Fall Control",
+                "slug": "fall-control",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 329,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Hidden Weapon",
+                "slug": "hidden-weapon",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 821,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Hidden Body",
+                "slug": "hidden-body",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 903,
+                    "posY": 0,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Repair",
+                "slug": "repair",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 247,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Cast Light",
+                "slug": "cast-light",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Chameleon",
+                "slug": "chameleon",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 411,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Remedy",
+                "slug": "remedy",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 411,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Resist Curse",
+                "slug": "resist-curse",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 821,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Dark Orb",
+                "slug": "dark-orb",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 657,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Dark Bead",
+                "slug": "dark-bead",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 739,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Dark Fog",
+                "slug": "dark-fog",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 821,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Pursuers",
+                "slug": "pursuers",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 903,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            }
+        ]
+    },
+    {
+        "category": "Pyromancies",
+        "slug": "pyromancies",
+        "spells": [
+            {
+                "Name": "Fireball",
+                "slug": "fireball",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 657,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Fire Orb",
+                "slug": "fire-orb",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 739,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Fireball",
+                "slug": "great-fireball",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 821,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Chaos Fireball",
+                "slug": "great-chaos-fireball",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 329,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Firestorm",
+                "slug": "firestorm",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 903,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Fire Tempest",
+                "slug": "fire-tempest",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 83,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Chaos Storm",
+                "slug": "chaos-storm",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 575,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Combustion",
+                "slug": "combustion",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Combustion",
+                "slug": "great-combustion",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 83,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Fire Surge",
+                "slug": "fire-surge",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 165,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Fire Whip",
+                "slug": "fire-whip",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 247,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Chaos Fire Whip",
+                "slug": "chaos-fire-whip",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 411,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Poison Mist",
+                "slug": "poison-mist",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 247,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Toxic Mist",
+                "slug": "toxic-mist",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 329,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Acid Surge",
+                "slug": "acid-surge",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 165,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Flash Sweat",
+                "slug": "flash-sweat",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 493,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Iron Flesh",
+                "slug": "iron-flesh",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 411,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Power Within",
+                "slug": "power-within",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Undead Rapport",
+                "slug": "undead-rapport",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 903,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Black Flame",
+                "slug": "black-flame",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 552,
+                    "width": 82,
+                    "height": 92
+                }
+            }
+        ]
+    },
+    {
+        "category": "Miracles",
+        "slug": "miracles",
+        "spells": [
+            {
+                "Name": "Heal",
+                "slug": "heal",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 83,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Heal Excerpt",
+                "slug": "great-heal-excerpt",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 247,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Heal",
+                "slug": "great-heal",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 165,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Soothing Sunlight",
+                "slug": "soothing-sunlight",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 493,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Replenishment",
+                "slug": "replenishment",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 575,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Bountiful Sunlight",
+                "slug": "bountiful-sunlight",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 493,
+                    "posY": 460,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Force",
+                "slug": "force",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 657,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Wrath of the Gods",
+                "slug": "wrath-of-the-gods",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 739,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Emit Force",
+                "slug": "emit-force",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 821,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Magic Barrier",
+                "slug": "magic-barrier",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 247,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Magic Barrier",
+                "slug": "great-magic-barrier",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 329,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Homeward",
+                "slug": "homeward",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 575,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Seek Guidance",
+                "slug": "seek-guidance",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 903,
+                    "posY": 276,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Karmic Justice",
+                "slug": "karmic-justice",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 411,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Vow of Silence",
+                "slug": "vow-of-silence",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 657,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Tranquil Walk of Peace",
+                "slug": "tranquil-walk-of-peace",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 739,
+                    "posY": 184,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Lightning Spear",
+                "slug": "lightning-spear",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 1,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Great Lightning Spear",
+                "slug": "great-lightning-spear",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 83,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Sunlight Spear",
+                "slug": "sunlight-spear",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 165,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Sunlight Blade",
+                "slug": "sunlight-blade",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 575,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Darkmoon Blade",
+                "slug": "darkmoon-blade",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 739,
+                    "posY": 368,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Gravelord Sword Dance",
+                "slug": "gravelord-sword-dance",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 493,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            },
+            {
+                "Name": "Gravelord Greatsword Dance",
+                "slug": "gravelord-greatsword-dance",
+                "imageAtlas": {
+                    "imageSource": "public/images/items/spells.png",
+                    "posX": 575,
+                    "posY": 92,
+                    "width": 82,
+                    "height": 92
+                }
+            }
+        ]
+    }
+]

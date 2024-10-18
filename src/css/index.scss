@@ -1,6 +1,10 @@
 @import "./elements/Footer.scss";
 @import "./elements/Header.scss";
 
+html { 
+  scroll-behavior: smooth; 
+  }
+  
 [data-theme='dark'] {
   body {
     background-color: rgb(37, 37, 37);

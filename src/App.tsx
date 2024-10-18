@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import React, { useEffect, useState } from "react";
-import { WeaponIndex } from "./types";
+import { MagicIndex, WeaponIndex } from "./types";
 import CategoryWeaponsPage from "./pages/CategoryWeaponsPage";
 import Information from "./pages/Information";
 import WeaponPage from "./pages/WeaponPage";
@@ -13,9 +13,11 @@ import World from "./pages/World";
 import Main from "./pages/main";
 import Misc from "./pages/Misc";
 import ImageTest from "./pages/imageTest";
+import ScrollToTop from "./elements/ScrollToTop";
 
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
+  const [magicIndex, setMagicIndex] = useState<MagicIndex>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -37,7 +39,24 @@ const App: React.FC = () => {
         setLoading(false);
       }
     };
-
+    const fetchMagicIndex = async () => {
+      try {
+        const response = await fetch("/spellIndex.json");
+        if (!response.ok) {
+          throw new Error(
+            `Failed to fetch weapon index: ${response.statusText}`
+          );
+        }
+        const data = await response.json();
+        setMagicIndex(data);
+      } catch (error) {
+        console.error(error);
+        setError("Failed to load magic index.");
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchMagicIndex();
     fetchWeaponIndex();
   }, []);
 
@@ -51,6 +70,7 @@ const App: React.FC = () => {
 
   return (
     <Router>
+      <ScrollToTop />
       <Header />
       <Routes>
         <Route path="/" element={<Main />} />
@@ -63,7 +83,7 @@ const App: React.FC = () => {
           element={<CategoryWeaponsPage weaponIndex={weaponIndex} />}
         />{" "}
         {}
-        <Route path="/spells" element={<Spells />} />
+        <Route path="/spells" element={<Spells magicIndex={magicIndex} />} />
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
         <Route path="/misc" element={<Misc />} />
