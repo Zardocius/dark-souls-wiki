@@ -14,6 +14,7 @@ import Main from "./pages/main";
 import Misc from "./pages/Misc";
 import ImageTest from "./pages/imageTest";
 import ScrollToTop from "./elements/ScrollToTop";
+import SpellPage from "./pages/SpellPage";
 
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
@@ -92,6 +93,9 @@ const App: React.FC = () => {
         <Route
           path="/weapons/:weaponSlug"
           element={<WeaponPage weaponIndex={weaponIndex} />}
+        />
+        <Route path="/spells/:magicSlug"
+        element={<SpellPage magicIndex={magicIndex}/>}
         />
       </Routes>
       <Footer />
