@@ -150,6 +150,7 @@ const miscSite = () => {
           </ul>
 
           <p>Stay tuned for these updates as i continue to improve the site!</p>
+          <img src="/images/knight.gif" />
         </div>
       </div>
     </div>

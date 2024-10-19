@@ -3,9 +3,7 @@ import { Link, useParams } from "react-router-dom";
 import { MagicIndex, Magic } from "../types"; // Import types
 import "../css/pages/WeaponPage.scss";
 
-const SpellPage: React.FC<{ magicIndex: MagicIndex }> = ({
-  magicIndex,
-}) => {
+const SpellPage: React.FC<{ magicIndex: MagicIndex }> = ({ magicIndex }) => {
   const { magicSlug } = useParams<{ magicSlug: string }>();
   const [magicData, setMagicData] = useState<Magic | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -71,7 +69,7 @@ const SpellPage: React.FC<{ magicIndex: MagicIndex }> = ({
               <h2>
                 Category:
                 <Link
-                  to={`/category/${magicCategory.slug}`}
+                  to={`/spell-category/${magicCategory.slug}`}
                   className="category-link"
                 >
                   {magicCategory.category}
@@ -119,15 +117,13 @@ const SpellPage: React.FC<{ magicIndex: MagicIndex }> = ({
               </thead>
               <tbody>
                 <tr>
-                  <td>{magicData.maxQuantity|| "N/A"}</td>
-
+                  <td>{magicData.maxQuantity || "N/A"}</td>
                 </tr>
               </tbody>
             </table>
           </div>
         </div>
         <p>Weight: {magicData.mp || "N/A"}</p>
-
       </div>
     </div>
   );

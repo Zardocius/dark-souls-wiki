@@ -4,7 +4,7 @@ import { WeaponCategory } from "../types"; // Adjust path according to your file
 import "../css/pages/Eguipment.scss";
 import Goto from "../elements/Gogo";
 import ScrollToTop from "../elements/ScrollToTop";
-
+import WIP from "../elements/wip";
 type EquipmentProps = {
   weaponIndex: WeaponCategory[]; // Use the imported type for weaponIndex
 };
@@ -14,6 +14,7 @@ const Equipment: React.FC<EquipmentProps> = ({ weaponIndex }) => {
 
   return (
     <div>
+      <WIP />
       <ScrollToTop />
       <Goto />
       <div className="container">

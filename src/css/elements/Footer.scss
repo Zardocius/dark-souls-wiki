@@ -1,73 +1,147 @@
-[data-theme='dark'] {
+[data-theme="dark"] {
   .nav-links a:hover,
   .community a:hover,
   .open-source a:hover {
     color: #ffffff; /* Hover effect */
-      transition: all 0.5s ease-in-out;
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
   }
 
   p {
     color: white;
-    transition: all 0.5s ease-in-out;
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
   }
 }
 
 .footer-top {
-    display: flex;
-    justify-content: space-between;
-    padding: 10px;
-  }
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.nav-links {
+  padding-left: 10px;
+}
+.open-source {
+  width: 200px;
+  text-align: center;
+}
+.nav-links ul,
+.community ul,
+.open-source ul {
+  list-style: none; /* Removes bullet points */
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
 
-  .open-source {
-    width: 200px;
-    text-align: center;
-  }
-  .nav-links ul,
-  .community ul,
-  .open-source ul {
-    list-style: none; /* Removes bullet points */
-    padding: 0px;
-    display: flex;
-    flex-direction: column;
-  }
+.nav-links a,
+.community li,
+.community a,
+.open-source a {
+  color: #000; /* Match with the header color */
+  text-decoration: none;
+  padding: 5px 0;
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+}
 
-  .nav-links a,
-  .community li,
-  .community a,
-  .open-source a {
-    color: #000; /* Match with the header color */
-    text-decoration: none;
-    padding: 5px 0;
-    transition: all 0.5s ease-in-out;
+.nav-links a:hover,
+.community a:hover,
+.open-source a:hover {
+  color: #000000; /* Hover effect */
+  text-decoration: underline; /* Same effect as in the header */
+}
+
+.footer-bottom {
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+  color: #333;
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+  p {
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
   }
-  
-  .nav-links a:hover,
-  .community a:hover,
-  .open-source a:hover {
-    color: #000000; /* Hover effect */
-    text-decoration: underline; /* Same effect as in the header */
+}
+
+@media (max-width: 2560px) /* 4k */ {
+  .footer-top {
+    font-size: 20px;
+    flex-direction: row;
   }
-  
   .footer-bottom {
-    text-align: center;
-    padding: 15px 0;
+    font-size: 15px;
+  }
+}
+@media (max-width: 1440px) /* Laptop L */ {
+  .footer-top {
+    font-size: 17px;
+    flex-direction: row;
+  }
+  .footer-bottom {
     font-size: 14px;
-    color: #333;
-    transition: all 0.5s ease-in-out;
-    p {
-      transition: all 0.5s ease-in-out;
-    }
   }
-  
-  @media (max-width: 768px) {
-    .footer-top {
-      flex-direction: column;
-      align-items: center;
-      text-align: center;
-    }
-    
-    .footer-top div {
-      margin-bottom: 20px;
-    }
+}
+@media (max-width: 1024px) /* Laptop */ {
+  .footer-top {
+    font-size: 12px;
+    flex-direction: row;
   }
-  
+  .footer-bottom {
+    font-size: 10px;
+  }
+}
+@media (max-width: 850px) /* Tablet */ {
+  .footer-top {
+    font-size: 12px;
+    flex-direction: row;
+  }
+  .footer-bottom {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 640px) {
+  .footer-top {
+    font-size: 12px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .footer-bottom {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 425px) /* Mobile L */ {
+  .footer-top {
+    font-size: 12px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .footer-bottom {
+    font-size: 10px;
+  }
+}
+@media (max-width: 375px) /* Mobile M */ {
+  .footer-top {
+    font-size: 12px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .footer-bottom {
+    font-size: 10px;
+  }
+}
+@media (max-width: 320px) /* Mobile S */ {
+  .footer-top {
+    display: flex;
+    font-size: 12px;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+  .footer-bottom {
+    font-size: 10px;
+  }
+}

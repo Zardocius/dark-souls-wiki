@@ -220,6 +220,18 @@ export interface Magic {
   imageAtlas: ImageAtlas;
 }
 
+export interface Icons {
+  slug: string;
+  imageAtlas: ImageAtlas;
+}
+
+export type IconCategory = {
+  category: string;
+  icons: Icons[];
+}
+
+export type IconIndex = IconCategory
+
 export type MagicIndex = MagicCategory[]
 // Define the type for the entire weapon index
 export type WeaponIndex = WeaponCategory[]; // An array of weapon categories

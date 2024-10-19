@@ -4,6 +4,7 @@ import { MagicCategory } from "../types"; // Adjust path according to your file 
 import "../css/pages/Eguipment.scss";
 import Goto from "../elements/Gogo";
 import ScrollToTop from "../elements/ScrollToTop";
+import WIP from "../elements/wip";
 
 type EquipmentProps = {
   magicIndex: MagicCategory[]; // Use the imported type for magicIndex
@@ -13,6 +14,7 @@ const Spells: React.FC<EquipmentProps> = ({ magicIndex }) => {
   console.log("Weapon Index in Equipment:", magicIndex); // Debugging line
   return (
     <div>
+      <WIP />
       <ScrollToTop />
       <Goto />
       <div className="container">
@@ -57,7 +59,7 @@ const Spells: React.FC<EquipmentProps> = ({ magicIndex }) => {
             >
               <h2>
                 <Link
-                  to={`/category/${category.slug}`}
+                  to={`/spell-category/${category.slug}`}
                   className="category-link"
                 >
                   {category.category}

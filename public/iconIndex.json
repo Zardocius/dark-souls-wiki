@@ -1,0 +1,367 @@
+[
+    {
+        "category": "attack-values",
+        "icons": [
+            {
+                "slug": "PhyDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 127.19999999999999,
+                    "posY": 301,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "MacDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 127.19999999999999,
+                    "posY": 387,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "FirDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 127.19999999999999,
+                    "posY": 344,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "LigDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 127.19999999999999,
+                    "posY": 430,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "CrtDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 344,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "category": "attackRed-values",
+        "icons": [
+            {
+                "slug": "PhyRedDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 0,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "MacRedDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 86,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "FirRedDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 43,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "LigRedDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 129,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "CrtRedDmg",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 86,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "category": "parameters",
+        "icons": [
+            {
+                "slug": "vitality",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 172,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "attunement",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 215,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "endurance",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 301,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "strenght",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 387,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "dexterity",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 430,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "resistance",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 344,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "intelligence",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 127.19999999999999,
+                    "posY": 0,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "faith",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 258,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "category": "auxEffects",
+        "icons": [
+            {
+                "slug": "bleed",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 0,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "divine",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 127.19999999999999,
+                    "posY": 473,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "occult",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 473,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "poison",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 43,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "category": "DefType",
+        "icons": [
+            {
+                "slug": "reqDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 172,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "StrDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 172,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "SlaDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 215,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "ThrDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 258,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "category": "DefElementType",
+        "icons": [
+            {
+                "slug": "MacDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 344,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "LigDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 387,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "FirDef",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 169.6,
+                    "posY": 301,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    },
+    {
+        "category": "Resistances",
+        "icons": [
+            {
+                "slug": "poise",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 212,
+                    "posY": 258,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "bleed",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 0,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "poison",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 43,
+                    "width": 42.4,
+                    "height": 43
+                }
+            },
+            {
+                "slug": "curse",
+                "imageAtlas": {
+                    "imageSource": "public/images/icons.png",
+                    "posX": 84.8,
+                    "posY": 129,
+                    "width": 42.4,
+                    "height": 43
+                }
+            }
+        ]
+    }
+]

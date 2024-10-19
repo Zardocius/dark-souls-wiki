@@ -1,108 +1,243 @@
-
-
-
-.roadmap-section {
-    margin-top: 40px;
-  }
-
-  h2  {
-    color: rgb(0, 0, 0);
-  }
-
-  .progress-bar-container {
-    width: 80%;
-    background-color: #dbdbdb;
-    border-radius: 20px;
-    margin: 20px auto;
-    height: 20px;
-    position: relative;
-  }
-  
-  .progress-bar {
-    background-color: #62cf8c; /* Progress color */
-    height: 100%;
-    border-radius: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-weight: bold;
-  }
-  
-  .roadmap-list {
-    text-align: left;
-    margin-top: 20px;
-  }
-  
-  .roadmap-list h3 {
-    margin-bottom: 10px;
-  }
-  
-  .roadmap-list ul {
-    list-style-type: none;
-    padding: 0;
-  }
-  
-  .roadmap-list li {
-    margin: 10px 0;
-  }
-  
-  .completed {
-    color: #000000; /* Green for completed items */
-  }
-  
-  .in-progress {
-    color: #000000; /* Yellow for items in progress */
-  }
-  
-  .pending {
-    color: #000000; /* Red for pending items */
-  }
-
-
-@media (min-width: 768px) {
-
-    .welcomers img{
-        width: 30rem;
-        border-radius: 10px;
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    }
-    
-    .welcomers {
-        display: flex;
-        justify-content: space-between; /* Push image and text to opposite sides */
-        align-items: center;
-        margin-bottom: 40px;
-        padding: 20px;
-    }
-    
+#wip {
+  margin: auto;
+  text-align: center;
 }
-@media (max-width: 768px) {
 
+.updateLog li {
+  margin-bottom: 10px;
+}
+.project-description li {
+  margin-bottom: 10px;
+}
 
-    .welcomers img{
-        width: 30rem;
-        border-radius: 10px;
-        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
-    }
-    
-    .welcomers {
-        display: flex;
-        justify-content: space-between; /* Push image and text to opposite sides */
-        align-items: center;
-        margin-bottom: 40px;
-        padding: 20px;
+.welcomers {
+  display: flex;
+  align-items: center;
+  img {
+    border-radius: 7px;
+  }
+}
+.roadmap-section {
+  margin-top: 40px;
+}
+
+h2 {
+  color: rgb(0, 0, 0);
+}
+
+.progress-bar-container {
+  width: 80%;
+  background-color: #dbdbdb;
+  border-radius: 20px;
+  margin: 20px auto;
+  height: 20px;
+  position: relative;
+}
+
+.progress-bar {
+  background-color: #62cf8c; /* Progress color */
+  height: 100%;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+}
+
+.roadmap-list {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.roadmap-list h3 {
+  margin-bottom: 10px;
+}
+
+.roadmap-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.roadmap-list li {
+  margin: 10px 0;
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out,
+    border-color 0.5s ease-in-out;
+}
+
+.completed {
+  color: #000000; /* Green for completed items */
+}
+
+.in-progress {
+  color: #000000; /* Yellow for items in progress */
+}
+
+.pending {
+  color: #000000; /* Red for pending items */
+}
+
+@media (max-width: 2560px) /* 4k */ {
+  .welcomers {
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    img {
+      width: 400px;
     }
 
-    .welcomers {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        margin: auto;
+    .welcome-text {
+      font-size: 19px;
+      text-align: center;
+    }
+  }
+  .project-description {
+    font-size: 19px;
+  }
+  .roadmap-section {
+    font-size: 19px;
+  }
+  .updateLog {
+    font-size: 19px;
+  }
+}
+@media (max-width: 1440px) /* Laptop L */ {
+  .welcomers {
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    img {
+      width: 400px;
     }
 
-    .welcomers img{
-        width: 90%;
+    .welcome-text {
+      font-size: 19px;
+      text-align: center;
     }
-    
+  }
+  .project-description {
+    font-size: 19px;
+  }
+  .roadmap-section {
+    font-size: 19px;
+  }
+  .updateLog {
+    font-size: 19px;
+  }
+}
+@media (max-width: 1024px) /* Laptop */ {
+  .welcomers {
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    img {
+      width: 400px;
+    }
+
+    .welcome-text {
+      font-size: 19px;
+      text-align: center;
+    }
+  }
+  .project-description {
+    font-size: 19px;
+  }
+  .roadmap-section {
+    font-size: 19px;
+  }
+  .updateLog {
+    font-size: 19px;
+  }
+}
+@media (max-width: 850px) /* Tablet */ {
+  .welcomers {
+    flex-direction: column;
+
+    img {
+      width: 350px;
+    }
+
+    .welcome-text {
+      font-size: 18px;
+      text-align: center;
+    }
+  }
+  .project-description {
+    font-size: 17px;
+  }
+  .roadmap-section {
+    font-size: 17px;
+  }
+  .updateLog {
+    font-size: 17px;
+  }
+}
+@media (max-width: 425px) /* Mobile L */ {
+  .welcomers {
+    flex-direction: column;
+
+    img {
+      width: 300px;
+    }
+
+    .welcome-text {
+      font-size: 16px;
+      text-align: center;
+    }
+  }
+  .project-description {
+    font-size: 16px;
+  }
+  .roadmap-section {
+    font-size: 16px;
+  }
+  .updateLog {
+    font-size: 16px;
+  }
+}
+@media (max-width: 375px) /* Mobile M */ {
+  .welcomers {
+    flex-direction: column;
+
+    img {
+      width: 260px;
+    }
+
+    .welcome-text {
+      font-size: 15px;
+      text-align: center;
+    }
+  }
+  .project-description {
+    font-size: 15px;
+  }
+  .roadmap-section {
+    font-size: 15px;
+  }
+  .updateLog {
+    font-size: 15px;
+  }
+}
+@media (max-width: 320px) /* Mobile S */ {
+  .welcomers {
+    flex-direction: column;
+
+    img {
+      width: 200px;
+    }
+
+    .welcome-text {
+      font-size: 13px;
+      text-align: center;
+    }
+  }
+  .project-description {
+    font-size: 13px;
+  }
+  .roadmap-section {
+    font-size: 13px;
+  }
+  .updateLog {
+    font-size: 13px;
+  }
 }

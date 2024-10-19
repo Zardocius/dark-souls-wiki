@@ -1,137 +1,134 @@
 /* Navbar at the top of the page */
 
-[data-theme='dark'] {
-    .eguipment-category-container {
-        background-color: rgb(48, 48, 48);
-        transition: all 0.5s ease-in-out;
-        a {
-            color: rgb(255, 255, 255);
-            transition: all 0.5s ease-in-out;
-        }
+[data-theme="dark"] {
+  .eguipment-category-container {
+    background-color: rgb(48, 48, 48);
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+    a {
+      color: rgb(255, 255, 255);
+      transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
     }
+  }
 }
 
 .category-navbar {
-    top: 0;
-    width: 90%;
-    padding: 10px;
-    margin: auto;
+  top: 0;
+  width: 90%;
+  padding: 10px;
+  margin: auto;
 }
 
 .navbar-container {
-    display: flex; /* Use Flexbox for row layout */
-    justify-content: space-between; /* Space out items evenly */
-    align-items: center; /* Center items vertically */
-    flex-wrap: wrap;
+  display: flex; /* Use Flexbox for row layout */
+  justify-content: space-between; /* Space out items evenly */
+  align-items: center; /* Center items vertically */
+  flex-wrap: wrap;
 }
 
 .category-link {
-    a {
-        text-decoration: underline;
-    }
+  a {
+    text-decoration: underline;
+  }
 }
 
 .category-nav-link {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: rgb(0, 0, 0);
-    text-decoration: none;
-    text-align: center; /* Center text under icon */
-    transition: all 0.5s ease-in-out;
-    padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  text-align: center; /* Center text under icon */
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+  padding: 10px;
 }
 
 .category-icon {
-    width: 100px; /* Adjust the size of icons */
-    cursor: pointer;
+  width: 100px; /* Adjust the size of icons */
+  cursor: pointer;
 }
 
 .category-text {
-    margin-top: 5px;
-    font-size: 12px;
+  margin-top: 5px;
+  font-size: 12px;
 }
 
 /* Add padding to account for fixed navbar */
 .container {
-    padding-top: 70px; /* Adjust based on navbar height */
+  padding-top: 70px; /* Adjust based on navbar height */
 }
 
 .eguipment-category-container {
-    background-color: rgb(255, 255, 255);
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
-    margin: 10px 0;
-    text-align: center;
-    transition: all 0.5s ease-in-out;
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin: 10px 0;
+  text-align: center;
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
 
-    a {
-        color: rgb(0, 0, 0);
-        transition: all 0.5s ease-in-out;
-    }
-
+  a {
+    color: rgb(0, 0, 0);
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
+  }
 }
 
 /* Weapon list and item styles remain the same */
 .eguipment-weapon-list {
-    list-style-type: none;
-    display: flex;
-    justify-content: center; /* Space out weapon items evenly */
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 20px; /* Add spacing between items */
-    padding: 10px 0px 30px 0px;
-    margin: auto;
-    max-width: 100%;
+  list-style-type: none;
+  display: flex;
+  justify-content: center; /* Space out weapon items evenly */
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px; /* Add spacing between items */
+  padding: 10px 0px 30px 0px;
+  margin: auto;
+  max-width: 100%;
 }
 
 .eguipment-weapon-item {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between; /* Distributes image at the top and text at the bottom */
-    text-align: center;
-    height: 150px; /* Set a height for the container */
-    width: 120px; /* Set a width for the weapon item */
-    padding: 10px; /* Add padding for spacing */
-    box-sizing: border-box; /* Ensure padding doesn’t affect overall size */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between; /* Distributes image at the top and text at the bottom */
+  text-align: center;
+  height: 150px; /* Set a height for the container */
+  width: 120px; /* Set a width for the weapon item */
+  padding: 10px; /* Add padding for spacing */
+  box-sizing: border-box; /* Ensure padding doesn’t affect overall size */
 }
 
 .weapon-image {
-    margin-bottom: auto; /* Pushes the image towards the top */
-    width: 100px;
-    height: auto;
-    
+  margin-bottom: auto; /* Pushes the image towards the top */
+  width: 100px;
+  height: auto;
 }
 
 .weapon-name {
-    margin-top: auto; /* Pushes the text towards the bottom */
-    font-weight: bold;
-    font-size: 14px;
-    text-decoration: none;
+  margin-top: auto; /* Pushes the text towards the bottom */
+  font-weight: bold;
+  font-size: 14px;
+  text-decoration: none;
 }
 
-
 @media (max-width: 450px) {
-    .eguipment-category-container {
-      padding: 15px; /* Add extra padding for smaller screens */
-      margin: 10px 5px; /* Add a bit of side margin to avoid text hitting the edges */
-    }
-  
-    .eguipment-weapon-item {
-      width: 100px; /* Make weapon items slightly narrower on small screens */
-    }
-  
-    .weapon-name {
-      font-size: 12px; /* Reduce font size for smaller screens */
-    }
-  
-    .category-navbar {
-      width: 100%; /* Make the navbar take full width */
-    }
-  
-    .category-nav-link {
-      font-size: 10px; /* Reduce the text size under icons */
-    }
+  .eguipment-category-container {
+    padding: 15px; /* Add extra padding for smaller screens */
+    margin: 10px 5px; /* Add a bit of side margin to avoid text hitting the edges */
   }
+
+  .eguipment-weapon-item {
+    width: 100px; /* Make weapon items slightly narrower on small screens */
+  }
+
+  .weapon-name {
+    font-size: 12px; /* Reduce font size for smaller screens */
+  }
+
+  .category-navbar {
+    width: 100%; /* Make the navbar take full width */
+  }
+
+  .category-nav-link {
+    font-size: 10px; /* Reduce the text size under icons */
+  }
+}

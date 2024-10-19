@@ -1,24 +1,26 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import React, { useEffect, useState } from "react";
-import { MagicIndex, WeaponIndex } from "./types";
+import { IconIndex, MagicIndex, WeaponIndex } from "./types";
 import CategoryWeaponsPage from "./pages/CategoryWeaponsPage";
+import CategoryMagicPage from "./pages/CategoryMagicPage";
+import ScrollToTop from "./elements/ScrollToTop";
 import Information from "./pages/Information";
 import WeaponPage from "./pages/WeaponPage";
 import Equipment from "./pages/Equipment";
 import Character from "./pages/Character";
+import ImageTest from "./pages/imageTest";
+import SpellPage from "./pages/SpellPage";
 import Header from "./elements/Header";
 import Footer from "./elements/Footer";
 import Spells from "./pages/Spells";
 import World from "./pages/World";
 import Main from "./pages/main";
 import Misc from "./pages/Misc";
-import ImageTest from "./pages/imageTest";
-import ScrollToTop from "./elements/ScrollToTop";
-import SpellPage from "./pages/SpellPage";
 
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
   const [magicIndex, setMagicIndex] = useState<MagicIndex>([]);
+  const [iconIndex, setIconIndex] = useState<IconIndex>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -57,6 +59,24 @@ const App: React.FC = () => {
         setLoading(false);
       }
     };
+    const fetchIconIndex = async () => {
+      try {
+        const response = await fetch("/iconIndex.json");
+        if (!response.ok) {
+          throw new Error(
+            `Failed to fetch weapon index: ${response.statusText}`
+          );
+        }
+        const data = await response.json();
+        setIconIndex(data);
+      } catch (error) {
+        console.error(error);
+        setError("Failed to load weapon index.");
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchIconIndex();
     fetchMagicIndex();
     fetchWeaponIndex();
   }, []);
@@ -92,11 +112,19 @@ const App: React.FC = () => {
         <Route path="/character" element={<Character />} />
         <Route
           path="/weapons/:weaponSlug"
-          element={<WeaponPage weaponIndex={weaponIndex} />}
+          element={
+            <WeaponPage weaponIndex={weaponIndex} iconIndex={iconIndex} />
+          }
         />
-        <Route path="/spells/:magicSlug"
-        element={<SpellPage magicIndex={magicIndex}/>}
+        <Route
+          path="/spells/:magicSlug"
+          element={<SpellPage magicIndex={magicIndex} />}
         />
+        <Route
+          path="/spell-category/:slug"
+          element={<CategoryMagicPage magicIndex={magicIndex} />}
+        />{" "}
+        {}
       </Routes>
       <Footer />
     </Router>
