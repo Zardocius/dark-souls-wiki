@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import React, { useEffect, useState } from "react";
-import { IconIndex, MagicIndex, WeaponIndex } from "./types";
+import { MagicIndex, WeaponIndex } from "./types";
 import CategoryWeaponsPage from "./pages/CategoryWeaponsPage";
 import CategoryMagicPage from "./pages/CategoryMagicPage";
 import ScrollToTop from "./elements/ScrollToTop";
@@ -20,7 +20,6 @@ import Misc from "./pages/Misc";
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
   const [magicIndex, setMagicIndex] = useState<MagicIndex>([]);
-  const [iconIndex, setIconIndex] = useState<IconIndex>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -59,24 +58,7 @@ const App: React.FC = () => {
         setLoading(false);
       }
     };
-    const fetchIconIndex = async () => {
-      try {
-        const response = await fetch("/iconIndex.json");
-        if (!response.ok) {
-          throw new Error(
-            `Failed to fetch weapon index: ${response.statusText}`
-          );
-        }
-        const data = await response.json();
-        setIconIndex(data);
-      } catch (error) {
-        console.error(error);
-        setError("Failed to load weapon index.");
-      } finally {
-        setLoading(false);
-      }
-    };
-    fetchIconIndex();
+
     fetchMagicIndex();
     fetchWeaponIndex();
   }, []);
@@ -112,9 +94,7 @@ const App: React.FC = () => {
         <Route path="/character" element={<Character />} />
         <Route
           path="/weapons/:weaponSlug"
-          element={
-            <WeaponPage weaponIndex={weaponIndex} iconIndex={iconIndex} />
-          }
+          element={<WeaponPage weaponIndex={weaponIndex} />}
         />
         <Route
           path="/spells/:magicSlug"
