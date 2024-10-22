@@ -1,26 +1,13 @@
-.weaponPage-Top {
+
+  .WeaponPageMain {
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
-
-    .weaponPage-topTexts a{
-        text-decoration: none;
-    }
-}
-
-.weaponPage-Top img {
-    width: 150px;
-}
-
-.weaponPage-MidPage {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-}
-
-.weapon-image {
-    background-repeat: no-repeat;
-    background-size: auto; // Adjust depending on how you want the image to appear
-    display: block; // Ensure it's a block element
   }
-  
+  .WeaponPageRequirements{
+    text-align: center;
+  }
+
+  .WeaponPageImage{
+    margin:auto;
+    scale: 2;
+  }

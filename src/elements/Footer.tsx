@@ -29,8 +29,23 @@ const Footer = () => {
                 <li>
                   <a href="https://discord.gg/fromsoftware">Discord Server</a>
                 </li>
+              </ul>
+              <h4>Other Wikis</h4>
+              <ul>
                 <li>
-                  <a href="http://darksouls.wikidot.com/">Other Wikis</a>
+                  <a href="http://darksouls.wikidot.com/">
+                    Wikidot Dark Souls Wiki
+                  </a>
+                </li>
+                <li>
+                  <a href="https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki/">
+                    Fextralife Dark Souls Wiki
+                  </a>
+                </li>
+                <li>
+                  <a href="https://darksouls.fandom.com/wiki/Dark_Souls_Wiki/">
+                    Fandom Dark Souls Wiki
+                  </a>
                 </li>
               </ul>
             </div>

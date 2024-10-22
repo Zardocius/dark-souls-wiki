@@ -1,7 +1,15 @@
+[data-theme='dark'] {
+  .go-to-top-button {
+    background-color: #fff;
+    color: black;
+  }
+
+}
+
 .go-to-top-button {
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    right: 30px;
     padding: 10px;
     font-size: 16px;
     background-color: #333;

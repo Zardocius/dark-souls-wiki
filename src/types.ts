@@ -4,6 +4,11 @@ export type WeaponCategory = {
   slug: string; // The slug for the category
   weapons: Weapon[]; // An array of weapons in this category
 };
+export type MagicCategory = {
+  category: string; // The name of the category (e.g., "Fist", "Swords")
+  slug: string; // The slug for the category
+  spells: Magic[]; // An array of weapons in this category
+};
 
 export interface ImageAtlas {
   imageSource: string; // Path to the image file
@@ -152,5 +157,81 @@ export interface Weapon {
   imageAtlas: ImageAtlas;
 }
 
+export interface Magic {
+  ID: number;
+  Name: string;
+  yesNoDialogMessageId: number;
+  limitCancelSpEffectId: number;
+  sortId: number;
+  refId: number;
+  mp: number;
+  stamina: number;
+  iconId: number;
+  behaviorId: number;
+  mtrlItemId: number;
+  replaceMagicId: number;
+  maxQuantity: number;
+  heroPoint: number;
+  overDexterity: number;
+  sfxVariationId: number;
+  slotLength: number;
+  requirementIntellect: number;
+  requirementFaith: number;
+  analogDexiterityMin: number;
+  analogDexiterityMax: number;
+  ezStateBehaviorType: number;
+  refCategory: number;
+  spEffectCategory: number;
+  refType: number;
+  opmeMenuType: number;
+  hasSpEffectType: number;
+  replaceCategory: number;
+  useLimitCategory: number;
+  vowType0: number;
+  vowType1: number;
+  vowType2: number;
+  vowType3: number;
+  vowType4: number;
+  vowType5: number;
+  vowType6: number;
+  vowType7: number;
+  enable_multi: number;
+  enable_multi_only: number;
+  isEnchant: number;
+  isShieldEnchant: number;
+  enable_live: number;
+  enable_gray: number;
+  enable_white: number;
+  enable_black: number;
+  disableOffline: number;
+  castResonanceMagic: number;
+  pad_1: number;
+  vowType8: number;
+  vowType9: number;
+  vowType10: number;
+  vowType11: number;
+  vowType12: number;
+  vowType13: number;
+  vowType14: number;
+  vowType15: number;
+  pad: string;
+  slug: string;
+  description: string;
+  imageAtlas: ImageAtlas;
+}
+
+export interface Icons {
+  slug: string;
+  imageAtlas: ImageAtlas;
+}
+
+export type IconCategory = {
+  category: string;
+  icons: Icons[];
+}
+
+export type IconIndex = IconCategory
+
+export type MagicIndex = MagicCategory[]
 // Define the type for the entire weapon index
 export type WeaponIndex = WeaponCategory[]; // An array of weapon categories

@@ -64,79 +64,87 @@ const WeaponPage: React.FC<{ weaponIndex: WeaponIndex }> = ({
   return (
     <div className="container">
       <div className="box">
-        <div className="weaponPage-Top">
-          <div className="weaponPage-topTexts">
-            <h1>{weaponData.Name}</h1>
-            {weaponCategory && (
-              <h2>
-                Category:
-                <Link
-                  to={`/category/${weaponCategory.slug}`}
-                  className="category-link"
-                >
-                  {weaponCategory.category}
-                </Link>
-              </h2>
-            )}
+        <div className="WeaponPageMain">
+          <div className="WeaponPageLeft">
+            <div>
+              <h1>{weaponData.Name}</h1>
+              {weaponCategory && (
+                <h3>
+                  Category:
+                  <Link
+                    to={`/category/${weaponCategory.slug}`}
+                    className="category-link"
+                  >
+                    {weaponCategory.category}
+                  </Link>
+                </h3>
+              )}
+            </div>
+            <p>
+              {weaponData.description
+                ? weaponData.description.split("\n").map((line, index) => (
+                    <span key={index}>
+                      {line}
+                      <br />
+                    </span>
+                  ))
+                : "No description available."}
+            </p>
           </div>
-          <div>
-            {weaponInCategory?.imageAtlas ? ( // Access imageAtlas from the specific weapon
-              <div
-                className="weapon-image"
-                style={{
-                  backgroundImage: `url(${weaponInCategory.imageAtlas.imageSource})`, // Correctly reference the image source
-                  backgroundPosition: `-${weaponInCategory.imageAtlas.posX}px -${weaponInCategory.imageAtlas.posY}px`,
-                  width: `${weaponInCategory.imageAtlas.width}px`,
-                  height: `${weaponInCategory.imageAtlas.height}px`,
-                }}
-              />
-            ) : (
-              <div>No image available for this weapon.</div> // Improved error message
-            )}
+          <div className="weaponPage-MidPage">
+            <div className="WeaponPageRight">
+              <div style={{ padding: "100px" }}>
+                {weaponInCategory?.imageAtlas ? ( // Access imageAtlas from the specific weapon
+                  <div
+                    className="WeaponPageImage"
+                    style={{
+                      backgroundImage: `url(${weaponInCategory.imageAtlas.imageSource})`, // Correctly reference the image source
+                      backgroundPosition: `-${weaponInCategory.imageAtlas.posX}px -${weaponInCategory.imageAtlas.posY}px`,
+                      width: `${weaponInCategory.imageAtlas.width}px`,
+                      height: `${weaponInCategory.imageAtlas.height}px`,
+                    }}
+                  />
+                ) : (
+                  <div>No image available for this weapon.</div> // Improved error message
+                )}
+              </div>
+              <hr />
+              <div className="WeaponPageRequirements">
+                <h3>Requirements</h3>
+                <table>
+                  <thead>
+                    <tr>
+                      <th>str</th>
+                      <th>dex</th>
+                      <th>fth</th>
+                      <th>int</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>{weaponData.properStrength || "N/A"}</td>
+                      <td>{weaponData.properAgility || "N/A"}</td>
+                      <td>{weaponData.properFaith || "N/A"}</td>
+                      <td>{weaponData.properMagic || "N/A"}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <p>Weight: {weaponData.weight || "N/A"}</p>
+            <p>Durability: {weaponData.durability || "N/A"}</p>
+            <p>Physical Damage: {weaponData.attackBasePhysics || "N/A"}</p>
+            <p>Magic Damage: {weaponData.attackBaseMagic || "N/A"}</p>
+            <p>Fire Damage: {weaponData.attackBaseFire || "N/A"}</p>
+            <p>Lightning Damage: {weaponData.attackBaseThunder || "N/A"}</p>
           </div>
         </div>
-        <div className="weaponPage-MidPage">
-          <p>
-            {weaponData.description
-              ? weaponData.description.split("\n").map((line, index) => (
-                  <span key={index}>
-                    {line}
-                    <br />
-                  </span>
-                ))
-              : "No description available."}
-          </p>
-          <div className="weaponPage-Requirements">
-            <p>Requirements</p>
-            <table>
-              <thead>
-                <tr>
-                  <th>Str</th>
-                  <th>Dex</th>
-                  <th>Fai</th>
-                  <th>Mag</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>{weaponData.properStrength || "N/A"}</td>
-                  <td>{weaponData.properAgility || "N/A"}</td>
-                  <td>{weaponData.properFaith || "N/A"}</td>
-                  <td>{weaponData.properMagic || "N/A"}</td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div>
-        <p>Weight: {weaponData.weight || "N/A"}</p>
-        <p>Durability: {weaponData.durability || "N/A"}</p>
-        <p>Physical Damage: {weaponData.attackBasePhysics || "N/A"}</p>
-        <p>Magic Damage: {weaponData.attackBaseMagic || "N/A"}</p>
-        <p>Fire Damage: {weaponData.attackBaseFire || "N/A"}</p>
-        <p>Lightning Damage: {weaponData.attackBaseThunder || "N/A"}</p>
+
+        <div className="WeaponPageBottom"></div>
       </div>
     </div>
   );
 };
 
 export default WeaponPage;
+<div></div>;

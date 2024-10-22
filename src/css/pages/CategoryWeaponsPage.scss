@@ -1,10 +1,12 @@
-[data-theme='dark'] {
+[data-theme="dark"] {
   .weapon-stats-table th {
     background-color: rgb(48, 48, 48);
     color: white;
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
   }
   .weapon-stats-table td {
     color: #c5c5c5;
+    transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
   }
 }
 
@@ -15,6 +17,7 @@
 h2 {
   margin-bottom: 20px;
   color: #333;
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
 }
 
 .category-weapon-list {
@@ -58,7 +61,7 @@ h2 {
 
 .weapon-stats {
   margin-top: 5px;
-  overflow-x:auto;
+  overflow-x: auto;
 }
 
 .weapon-stats-table {
@@ -77,6 +80,7 @@ h2 {
 .weapon-stats-table th {
   background-color: #f2f2f2;
   font-weight: bold;
+  transition: color 0.5s ease-in-out, background-color 0.5s ease-in-out;
 }
 
 .weapon-stats-table td {

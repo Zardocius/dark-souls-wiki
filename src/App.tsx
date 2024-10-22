@@ -1,21 +1,25 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import React, { useEffect, useState } from "react";
-import { WeaponIndex } from "./types";
+import { MagicIndex, WeaponIndex } from "./types";
 import CategoryWeaponsPage from "./pages/CategoryWeaponsPage";
+import CategoryMagicPage from "./pages/CategoryMagicPage";
+import ScrollToTop from "./elements/ScrollToTop";
 import Information from "./pages/Information";
 import WeaponPage from "./pages/WeaponPage";
 import Equipment from "./pages/Equipment";
 import Character from "./pages/Character";
+import ImageTest from "./pages/imageTest";
+import SpellPage from "./pages/SpellPage";
 import Header from "./elements/Header";
 import Footer from "./elements/Footer";
 import Spells from "./pages/Spells";
 import World from "./pages/World";
 import Main from "./pages/main";
 import Misc from "./pages/Misc";
-import ImageTest from "./pages/imageTest";
 
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
+  const [magicIndex, setMagicIndex] = useState<MagicIndex>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -37,7 +41,25 @@ const App: React.FC = () => {
         setLoading(false);
       }
     };
+    const fetchMagicIndex = async () => {
+      try {
+        const response = await fetch("/spellIndex.json");
+        if (!response.ok) {
+          throw new Error(
+            `Failed to fetch weapon index: ${response.statusText}`
+          );
+        }
+        const data = await response.json();
+        setMagicIndex(data);
+      } catch (error) {
+        console.error(error);
+        setError("Failed to load magic index.");
+      } finally {
+        setLoading(false);
+      }
+    };
 
+    fetchMagicIndex();
     fetchWeaponIndex();
   }, []);
 
@@ -51,6 +73,7 @@ const App: React.FC = () => {
 
   return (
     <Router>
+      <ScrollToTop />
       <Header />
       <Routes>
         <Route path="/" element={<Main />} />
@@ -63,7 +86,7 @@ const App: React.FC = () => {
           element={<CategoryWeaponsPage weaponIndex={weaponIndex} />}
         />{" "}
         {}
-        <Route path="/spells" element={<Spells />} />
+        <Route path="/spells" element={<Spells magicIndex={magicIndex} />} />
         <Route path="/world" element={<World />} />
         <Route path="/info" element={<Information />} />
         <Route path="/misc" element={<Misc />} />
@@ -73,6 +96,15 @@ const App: React.FC = () => {
           path="/weapons/:weaponSlug"
           element={<WeaponPage weaponIndex={weaponIndex} />}
         />
+        <Route
+          path="/spells/:magicSlug"
+          element={<SpellPage magicIndex={magicIndex} />}
+        />
+        <Route
+          path="/spell-category/:slug"
+          element={<CategoryMagicPage magicIndex={magicIndex} />}
+        />{" "}
+        {}
       </Routes>
       <Footer />
     </Router>

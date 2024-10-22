@@ -1,19 +1,13 @@
 import { Link } from "react-router-dom";
 import "../css/pages/Main.scss";
+import WIP from "../elements/wip";
 
 const Main = () => {
-  const progressPercentage = 20;
+  const progressPercentage = 25;
 
   return (
     <div>
-      <div className="container">
-        <div className="box">
-          <h3>
-            🚧 Site is heavily under construction, so there might be bugs and
-            missing info! 🚧
-          </h3>
-        </div>
-      </div>
+      <WIP />
       <div className="container">
         <div className="box">
           <div className="welcomers">
@@ -100,16 +94,38 @@ const Main = () => {
                   ✅ Optimized image Loading with Atlases
                 </li>
                 <li className="completed">✅ Dark Mode!</li>
+                <li className="in-progress">🚧 Spell Pages</li>
                 <li className="in-progress">🚧 Weapon Pages</li>
                 <li className="in-progress">🚧 Responsive Design</li>
                 <li className="pending">📅 Adding Armors to Equipment</li>
-                <li className="pending">📅 Spell Site</li>
+                <li className="pending">📅 Addittional Data and lore</li>
                 <li className="pending">📅 World Site</li>
                 <li className="pending">📅 Information Site</li>
                 <li className="pending">📅 Character Site</li>
                 <li className="pending">📅 Search and Filter</li>
               </ul>
             </div>
+          </div>
+        </div>
+      </div>
+      <div className="container">
+        <div className="box">
+          <div className="updateLog">
+            <h2>Update Log</h2>
+            <p>Version: 1.0</p>
+            <h3>Whats new?</h3>
+            <ul>
+              <li>Added Update Log!</li>
+              <li>Smooth Dark / White mode!</li>
+              <li>Spell data added!</li>
+              <li>Spells can now be viewed from spells site!</li>
+              <li>Updated sites Responsiveness!</li>
+              <li>Fixed Bug with Anchor link</li>
+              <li>Added some info of coming updates to sites</li>
+              <li>Fixed some typos</li>
+              <li>Added more wiki links</li>
+              <li>Added Smol Knight :)</li>
+            </ul>
           </div>
         </div>
       </div>
