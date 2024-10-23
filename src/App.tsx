@@ -20,7 +20,6 @@ import Misc from "./pages/Misc";
 const App: React.FC = () => {
   const [weaponIndex, setWeaponIndex] = useState<WeaponIndex>([]);
   const [magicIndex, setMagicIndex] = useState<MagicIndex>([]);
-  const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
@@ -38,7 +37,6 @@ const App: React.FC = () => {
         console.error(error);
         setError("Failed to load weapon index.");
       } finally {
-        setLoading(false);
       }
     };
     const fetchMagicIndex = async () => {
@@ -55,17 +53,12 @@ const App: React.FC = () => {
         console.error(error);
         setError("Failed to load magic index.");
       } finally {
-        setLoading(false);
       }
     };
 
     fetchMagicIndex();
     fetchWeaponIndex();
   }, []);
-
-  if (loading) {
-    return <div>Loading data...</div>;
-  }
 
   if (error) {
     return <div>Error: {error}</div>;

@@ -38,12 +38,12 @@ const Footer = () => {
                   </a>
                 </li>
                 <li>
-                  <a href="https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki/">
+                  <a href="https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki">
                     Fextralife Dark Souls Wiki
                   </a>
                 </li>
                 <li>
-                  <a href="https://darksouls.fandom.com/wiki/Dark_Souls_Wiki/">
+                  <a href="https://darksouls.fandom.com/wiki/Dark_Souls_Wiki">
                     Fandom Dark Souls Wiki
                   </a>
                 </li>
