@@ -1,40 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+![DarkSoulsWikiLogo](./public/mstile-144x144.png)
 
-## Getting Started
+# Dark Souls Wiki
 
-First, run the development server:
+A personal project focused on organizing and displaying data related to Dark Souls.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. [Features](#features)
+2. [Built With](#built-with)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Technologies Used](#technologies-used)
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Features
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- **Scalable**: Easily expandable with additional data.
+- **Responsive Design**: Optimized for various screen sizes, providing a seamless user experience on any device.
+- **User-Friendly**: Simple navigation, allowing users to quickly find information about different weapon categories.
+- **Database Integration**: All data previously stored in the `public` folder is now stored in a MongoDB database for better scalability and organization.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+## Built With
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- [Next.js](https://nextjs.org/) — A React framework for server-side rendering and static site generation.
+- [TypeScript](https://www.typescriptlang.org/) — Adds static types to JavaScript for more robust code.
+- [MongoDB](https://www.mongodb.com/) — A NoSQL database for managing and storing Dark Souls data efficiently.
+- [Sass](https://sass-lang.com/) — CSS extension with enhanced styling capabilities.
 
-## Learn More
+## Installation
 
-To learn more about Next.js, take a look at the following resources:
+To set up the project locally, follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+1. **Clone the repository**:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   ```bash
+   git clone https://github.com/Zardocius/dark-souls-wiki.git
+   cd dark-souls-wiki
+   ```
 
-## Deploy on Vercel
+2. **Install dependencies**:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   npm install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+3. **Set up environment variables**:
+   Create a `.env.local` file in the root directory and add your MongoDB connection string:
+
+   ```bash
+   MONGODB_URI=your-mongodb-connection-string
+   ```
+
+4. **Start the development server**:
+
+   ```bash
+   npm run dev
+   ```
+
+   Once the server is running, open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
+
+## Usage
+
+- Browse weapon categories.
+- View weapon stats, descriptions, and images.
+- Navigate easily between categories and detailed weapon pages.
+- Data is now dynamically retrieved from MongoDB, ensuring up-to-date information.
+
+## Technologies Used
+
+- **Next.js**: React framework for server-side rendering and static site generation.
+- **TypeScript**: For strong typing and improved code quality.
+- **SCSS (Sass)**: CSS preprocessor for writing more maintainable and modular styles.
+- **MongoDB**: NoSQL database for efficient data storage and retrieval.
+- **React Hook Form**: For handling form validation and user inputs.
+- **Python**: Used for data organization and manipulation.
+- **[DSMapStudio](https://github.com/soulsmods/DSMapStudio)**: A tool for extracting and organizing data from _Dark Souls: Prepare to Die Edition_.
+
+---
+
