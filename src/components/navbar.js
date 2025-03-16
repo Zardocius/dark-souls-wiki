@@ -1,5 +1,5 @@
 import Link from "next/link";
-import '@/styles/components/navbar.scss'
+import "@/styles/components/navbar.scss";
 
 const Navbar = () => {
   return (
@@ -32,13 +32,13 @@ const Navbar = () => {
           <li>
             <Link href="/">Homepage</Link>
           </li>
-          <li>Weapons & Equipment</li>
-          <li>Enemies & Bosses</li>
-          <li>Locations</li>
-          <li>Items & Consumables</li>
-          <li>Guides & Builds</li>
-          <li>Lore</li>
-          <li>Community</li>
+          <li><Link href="/equipment">Weapons & Equipment</Link></li>
+          <li><Link href="/enemies">Enemies & Bosses</Link></li>
+          <li><Link href="/locations">Locations</Link></li>
+          <li><Link href="/items">Items & Consumables</Link></li>
+          <li><Link href="/guides">Guides & Builds</Link></li>
+          <li><Link href="/lore">Lore</Link></li>
+          <li><Link href="/community">Community</Link></li>
           <li>
             <Link href="/about">About</Link>
           </li>
