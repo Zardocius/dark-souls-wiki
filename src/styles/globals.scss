@@ -1,6 +1,18 @@
+@use "_typography";
+
 * {
   box-sizing: border-box;
   text-decoration: none;
+
+  h1, h2, h3, h4{
+    font-family: "Crimson Pro", sans-serif;
+  }
+  span, p, li{
+    font-family: "Noto Sans", sans-serif;
+  }
+
+
+
   &:after {
     box-sizing: border-box;
     text-decoration: none;
@@ -10,25 +22,28 @@
     box-sizing: border-box;
     text-decoration: none;
   }
+
+
+
 }
 
 .mainWrap {
-    width: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+
+  .container {
+    width: 75%;
+    height: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: start;
-  
-    .container {
-      width: 75%;
-      height: 100%;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: start;
-      padding-top: 25px;
-      padding-bottom: 25px;
-    }
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
+}
 
 body {
   margin: 0;

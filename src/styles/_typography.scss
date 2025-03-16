@@ -1,0 +1,51 @@
+// Crimson Pro //
+
+@font-face {
+  font-family: "Crimson Pro", serif;
+  src: Local("Crimson Pro"),
+  url(public\fonts\CrimsonPro\CrimsonPro-Light.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Crimson Pro", serif;
+  src: Local("Crimson Pro"),
+  url(public\fonts\CrimsonPro\CrimsonPro-Medium.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Crimson Pro", serif;
+  src: Local("Crimson Pro"),
+  url(public\fonts\CrimsonPro\CrimsonPro-Bold.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 700;
+}
+
+// Noto Sans //
+
+@font-face {
+  font-family: "Noto Sans", serif;
+  src: Local("Noto Sans"),
+  url(public\fonts\NotoSans\NotoSans-Thin.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: "Noto Sans", serif;
+  src: Local("Noto Sans"),
+  url(public\fonts\NotoSans\NotoSans-Regular.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Noto Sans", serif;
+  src: Local("Noto Sans"),
+  url(public\fonts\NotoSans\NotoSans-Bold.woff2) format("woff2");
+  font-style: normal;
+  font-weight: 700;
+}
