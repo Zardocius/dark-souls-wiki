@@ -1,0 +1,29 @@
+.navBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.navLogo {
+    display: flex;
+    align-items: center;
+  svg {
+    width: 100%;
+    height: 40px;
+  }
+}
+
+.navLinks {
+  text-align: center;
+  justify-content: center;
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+  }
+
+  li {
+    padding: 5px;
+  }
+}

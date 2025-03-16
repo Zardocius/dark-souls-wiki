@@ -1,4 +1,0 @@
-###ID 112
-
-###150
-Receive double damage
